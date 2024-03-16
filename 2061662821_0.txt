@@ -1,0 +1,3418 @@
+[0:00:10] StreamElements: rangerlol1 is now live! Streaming League of Legends: IDL Ranger -  saga challenger no MID 🐐
+[0:00:10] GLTrem_: salve goat
+[0:00:33] digoalmeid: Ola lindo
+[0:00:35] poeKeop: o GOAT tá online
+[0:00:37] theguisao: GOAT
+[0:00:51] lucasreidelas2222: Bom dia goat
+[0:00:53] lorranocria: bom dia :goat:
+[0:00:56] lyagushka_quadribola: Boa tarde goat
+[0:01:04] lorranocria: :GOAT:
+[0:01:08] Rosenbach: Boa tarde. Coach SeeEl coringou?
+[0:01:44] PGuerdis: Boa tarde ranger!
+[0:01:49] noventacs: ranger da uma dica de qual a melhor hora de usar o arauto
+[0:02:27] Rosenbach: Mylon está NESSE minuto jogando disso.
+[0:02:35] theguisao: legal
+[0:02:41] eduardo_mpz: mestre é low elo?
+[0:03:05] theguisao: esse boneco muito estranho pow tens uns scales de ap com ad
+[0:03:06] noventacs: intendi
+[0:03:13] californie123: Salve goay
+[0:03:27] brubsss__: é só aqui ou parece que a camera dele ta a 30 fps? D:
+[0:03:34] mckeven890: chat, to ganhando 31 PDL no prata 3, ta bom ?
+[0:03:47] azulmeianoite: Eu tô mestre 210 pdl, caio com challenger e gm todo jogo eijejdnd
+[0:03:58] theguisao: é o lol
+[0:03:58] petrickzada: começamos bem
+[0:04:02] digoalmeid: bora uma de vladzao @rangerlol1
+[0:04:21] guxtalol: titan 93 carioka 92? @rangerlol1
+[0:04:43] noventacs: ranger virar mono lee sin da pra conseguir muito de elo?
+[0:04:56] milenavcb: kkkkkkkkkkkkkkkkkkkkkkk
+[0:04:57] theguisao: kkkkkkkkkkk
+[0:05:03] guxtalol: KKKKKKKKKKKK
+[0:05:17] tinocoandre: ranger nation
+[0:05:25] so7_seven: SALVE GOAT
+[0:05:31] californie123: Goat, top 10 jg da historia pra tu
+[0:05:38] choraoz: oi ranger
+[0:05:56] juanferrar1: top 10 e foda kkkk
+[0:05:56] francys: ranger e + 9
+[0:06:12] noventacs: eu comecei a 5 mes esse jogo e to virando mono lee sin, por enquanto ta dando certo
+[0:06:12] juanferrar1: mas canyon é o maior da historia, atras do ranger apenas
+[0:06:26] leonardoomarin: @rangerlol1 Fala mano, ta lindo hj
+[0:06:28] pixer04: Canyon
+[0:06:29] 1khgf123: não é voce?
+[0:06:30] isshinlol1: canyon 2020 é top 1
+[0:06:31] guxtalol: carioka joga volei?
+[0:06:38] juanferrar1: canyon de carry
+[0:06:38] bru_nooo: vc
+[0:06:40] julianluce: top 1 é o goat
+[0:06:41] Rosenbach: Dandy > Score > Canyon
+[0:06:57] TioBriel: é o goat
+[0:06:58] Asowins_: Slv, já aceitou o 93 do carioca? Kkk achei over demais essa nota
+[0:07:08] theguisao: e pq é assim?
+[0:07:16] victti: !cmd add chall $(customapi.https://victti-dev.com.br/api/v1/league/challenger/br/rangerzada/goat)
+[0:07:16] StreamElements: @victti, successfully added command chall.
+[0:07:19] victti: !chall
+[0:07:19] raflesh0001: @theguisao matchmaking é ruim
+[0:07:23] noventacs: ranger ja testou lucian mid?
+[0:07:24] StreamElements: Pontos para o Grão-Mestre: 364 PDL (Faltam 117 PDL).
+[0:07:29] ivanamaral99: Então toma essa pedrada
+[0:07:51] choraoz: ranger vc é o cara mais foda
+[0:08:06] allenzinho: acho que é assim pq metade do server é bronze
+[0:08:14] victti: !cmd alias add chall challenger
+[0:08:15] StreamElements: @victti, added alias challenger for command chall.
+[0:08:28] c40sz: Ainda não vi esse Ryze do GOAT, ele é quente?
+[0:08:31] kirahid: salve goat
+[0:08:35] immasaru: oie ranger
+[0:08:35] TioBriel: Ai goat na sua opiniao qual seria a melhor line com jogadores aqui do br?
+[0:08:48] mckeven890: chat, é bom ganhar 31 PDL ?
+[0:08:53] likemiojo: musica goat
+[0:08:57] mynameisyann_: O oner no final do Worlds seria que nota?
+[0:09:11] milenavcb: stream do Goat
+[0:09:20] so7_seven: FAKER BRASILEIRO
+[0:09:37] fullofsky: tf n ta roubado n ?
+[0:09:46] californie123: Oner de lee sin e 99 facil
+[0:09:53] gabs180_: oi ranger tudo bem?
+[0:09:53] lolzinhoderua: Fala Ranger, como você ta?
+[0:10:29] smolcking: !mouse
+[0:10:30] StreamElements: Mouse: HyperX Pulsefire Dart sem fio
+[0:10:33] cheddarlol1: Salve GOAT
+[0:10:40] gabs180_: ranger ou pessoal, meu pc fica reiniciando toda hora vcs sabem oq é?
+[0:10:47] yanzin_na: salve sua lenda
+[0:10:48] mynameisyann_: Pyke demora mto pra puxar a wave
+[0:10:58] yanzin_na: jogando mid pra parar na RNG DESSA VEZ
+[0:11:01] erlangabriel_: sylas tava open?
+[0:11:06] mynameisyann_: O tempo que ele perdeu puxando a wave vc já pode fazer mil coisas
+[0:11:10] lolzinhoderua: Ta sem o som do jogo GOAT
+[0:11:10] waennlkr: n entendi essa saga dele, é do unranked ou ele ja tava em um elo bom?
+[0:11:24] yanzin_na: uuuuuuh
+[0:11:31] felpolaa: combou errado goat?
+[0:11:34] yanzin_na: quase
+[0:11:45] yanzin_na: nice
+[0:11:54] smolcking: perdeu pouca wave ele
+[0:11:56] gabs180_: ranger ou pessoal, meu pc fica reiniciando toda hora vcs sabem oq é?
+[0:11:58] lolzinhoderua: @waennlkr convenhamos que a parte mais difícil é os elos altos. Mas mesmo assim acho que é bom de aprender ver alguem smurfando nos elos baixos
+[0:11:58] maoupunch: Acho pyke mid mt paia
+[0:11:58] eldian_rays: crl a wave que ele perdeu
+[0:12:00] NiCoLoFF: NiCoLoFF subscribed at Tier 1. They've subscribed for 10 months! greatest of all time
+[0:12:02] malandal: qual a marca dessa camiseta, @rangerlol1 ??
+[0:12:03] Keineroliveira: krl, prata?
+[0:12:24] TioBriel: ''To jogando mal'' eu nn faço 0.1% do q tu ta fazendo ai kkkk e olha q n tem nd de mais
+[0:12:25] fpsleozeraa: ta sem som?
+[0:12:29] waennlkr: @lolzinhoderua vdd tem esses 2 lados mesmo
+[0:12:30] milenavcb: NicoOff
+[0:12:48] shotoos2: kk
+[0:12:52] blakzak1: ta liberado farmar goat
+[0:13:20] tcaiot: ranger pelado?
+[0:13:23] parannoul_hike: xqcCheer
+[0:13:46] b0ratt1: lb ad vc acha muito op por ter tanta movimentação
+[0:13:59] parannoul_hike: Mano Marrom soltando palavras verdadeiras
+[0:14:19] Satthryxigor: ryzze é mt bom de jogar XD
+[0:14:39] frombolas: boa tarde meu goat @rangerlol1 BegWan
+[0:15:03] lolzinhoderua: Foi de zereca
+[0:15:19] RafinhaiU: jogo ta mutado pq?
+[0:15:52] choraoz: choraoz subscribed at Tier 1. 
+[0:16:15] lolzinhoderua: O som do alert ta bizarramente alto
+[0:16:15] wesleyreismaster: BOa tarde Goat vai fazer o Academy hj?
+[0:16:39] Fallkaw: !config
+[0:16:59] malandal: qual a marca dessa camiseta, @rangerlol1 ??
+[0:17:10] frombolas: @rangerlol1 vc voltaria pro cblol por um time competitivo + salario similar ao da ilha ?
+[0:17:17] jeantlg: KKKKKKKKKKKK tomo uban de chat
+[0:17:22] lolzinhoderua: Infelizmente pyke é o champion mais chad do jogo. Todo pyke merece vencer
+[0:17:25] desktopper2: chat ban e paia kkkkkk
+[0:17:25] frombolas: ou ficar falando mal é mais prazeroso ?
+[0:17:38] jesus1209: @rangerlol1 tu acha que aqui no competitivo do Brasil estão dando pouco valor pras larvas?
+[0:17:51] fpsleozeraa: @jeantlg todo goat tem o chat banido
+[0:17:57] fudidexy: boa tarde!
+[0:18:11] Satthryxigor: o baiano tem esse PIX
+[0:18:19] antonio123451: Nem o Ceos?
+[0:18:23] frombolas: wowowowowoow
+[0:18:25] fudidexy: joga de maokai jg pra nois ai goat
+[0:18:30] frombolas: o pix tá grande
+[0:18:38] lolzinhoderua: Será que não seria possível uma org que juntasse a criação de conteúdo e a competição pra ter uma renda maior?
+[0:18:38] jeantlg: @fpsleozeraa eu tomei 1 ano de restrição de chat em uma conta kk
+[0:18:47] flash_da_lei: Boa tarde!
+[0:18:53] richarlesv: que elo a gente já ta?
+[0:19:01] fpsleozeraa: eu tomei 3 semanas esse mes
+[0:19:11] lxccas_: Eae galera snopeyBlz
+[0:19:14] fpsleozeraa: @jeantlg o pior q nem tinha xingado ngm
+[0:19:16] LopesEduS: Rangerzada, q tipo de mid laner vc acha melhor pra subir na soloQ? Maguinho/assassin/boneco de roaming? Se puder dar 1 ex god
+[0:19:22] axellbrendow: @richarlesv na tela
+[0:19:23] jesus1209: tu acha que aqui no competitivo do Brasil estão dando pouco valor pras larvinhas?
+[0:19:32] 0lucas10: UNICO JUSTO DA IDL
+[0:19:33] Satthryxigor: mas tu vai voltar né safado, tu tem lenha p queimar ainda, principalmente na JG, os jg de hoje sao tudo herbivoro
+[0:19:41] malandal: e o vídeo sobre como funciona o sistema/orgs?
+[0:19:51] choraoz: goat present
+[0:20:40] wesleyreismaster: @rangerlol1 vc está em que elo ?
+[0:20:48] MaiconCma: ranger, o que o shaco precisa para ser usável no competitivo?
+[0:20:54] 0Darkholll: Boa tarde ranger
+[0:20:54] 0lucas10: Ranger, ontem foi muito bom ver você falando sem medo dos membros da IDL! Tá de parabéns, se depender deles. Todos da pain são Gods e o resto é lixo. Você foi o mais imparcial que vi até agora! Parabéns, sucesso e que Deus abençoe
+[0:20:58] Angeljrm: kk
+[0:20:59] xxmaroto: @wesleyreismaster ta ali embaixo
+[0:21:00] kimarge1: n é melhor bota de cdr e coração congelado?
+[0:21:05] jeantlg: bota na tua cara
+[0:21:16] gudechandt1: salve ranger! está em que elo?
+[0:21:17] LopesEduS: Rangerzada, q tipo de mid laner vc acha melhor pra subir na soloQ? Maguinho/assassin/boneco de roaming? Se puder dar 1 ex god
+[0:21:27] malandal: qual a marca dessa camiseta, @rangerlol1 ??
+[0:21:45] leomrqs_: @LopesEduS o boneco q tu é bom e confortavel
+[0:21:48] manox001: Até o momento Ranger odeia: Zico Corta cura DrakeHero Trick Cariok no GOD  oque mais dog?
+[0:21:49] eriicpiinho: Coloca o som do LOL por favor Ramgerzada
+[0:22:03] regulasmg: Ryze é mesmo um dos bonecos mais dificeis de masterizar ?
+[0:22:09] MaiconCma: ranger, o que o shaco precisa para ser usável no competitivo?
+[0:22:10] lolzinhoderua: A primeira não conta, é a branca
+[0:22:13] ironmandolol: vou comprar uma camiseta dessa pra ver se eu jogo bem assim
+[0:22:16] filipeoteixeira: Ryze é legalzinho
+[0:22:33] wesleyreismaster: @MaiconCma Rework
+[0:22:37] pedro_vitorfs: w! coffinPLZ
+[0:22:43] phcaiado: ta parecendo o ryze do absolut
+[0:22:43] jeantlg: proibido ultar
+[0:22:47] 0lucas10: Ranger, qual a sensação de ser o melhor do mundo até debatendo sobre lol?
+[0:23:17] jsveleda: perderam o 3x2 KEKW
+[0:23:32] wesleyreismaster: @rangerlol1 Zhonyas ou banshe nesse game ai?
+[0:23:49] lolzinhoderua: Tem jogo
+[0:23:57] caezinn: caezinn subscribed with Prime. They've subscribed for 4 months! 
+[0:24:09] thali_: thali_ subscribed at Tier 1. They've subscribed for 10 months! Boa tarde, goat rangerlolLove
+[0:24:09] xdhenriqueclk: limpa mapa
+[0:24:16] zteixeira: ryze ta forte é?
+[0:24:20] LopesEduS: Quando sair da lane e quando ficar pressionando na torre?
+[0:24:38] MaiconCma: @wesleyreismaster djoko em live falou que logo ele vai ter
+[0:24:46] futqbc: Vai ver o vlog do titas???
+[0:24:55] maoupunch: Sdds do meta de ryze mid de flash e ghost
+[0:26:02] chikenlirouxd: É possível o GOAT jogar mal?
+[0:26:18] alex_milanez: @chikenlirouxd é raro, mas acontece com frequencia. Mas é raro
+[0:26:25] pedro_vitorfs: a morreu kkkkk
+[0:26:38] jeantlg: QQ ELE FEZ OPEAOPABKPOBEOPKAEBOKPPOKBAE
+[0:26:42] chikenlirouxd: F
+[0:26:46] vianah: ué
+[0:26:48] jeantlg: Q Q ELE FEZ COM O ARAUTO MANO
+[0:26:54] RafinhaiU: o cara bateu na parede kkkkk
+[0:27:05] mmellopkr: UHAIUFHSUAFHUSA
+[0:27:05] MoonZx1: eu acho que queria deixar pra T3
+[0:27:07] xdhenriqueclk: MAPAA
+[0:27:20] IMykaelEricII: boa tarde GOAT!!
+[0:27:34] ImVitorSan: @MoonZx1 da pra dar 2 cabeçada se ele entra
+[0:27:36] maoupunch: S
+[0:27:41] jeantlg: solei
+[0:27:48] resetxy: torou um tanto d ponto no E e dps pergunta se é ele q upa q isso mago
+[0:27:50] julianluce: kkkkkkkkkkk
+[0:27:55] Texugod: LUL
+[0:27:56] filalpark: jkkkkkk
+[0:27:58] MoonZx1: @Vitor_Games2 mas eu acho que a segunda cabeçada dá menos dano
+[0:28:06] jesus1209: @rangerlol1 tu acha que aqui no competitivo do Brasil estão dando pouco valor pras larvas?
+[0:28:07] feedei_mas_n_quitei: !elo
+[0:28:09] StreamElements: --- Rangerzada = Master I (247 LP)
+[0:28:09] leomrqs_: perguntou se upa o E e ja ta full kkkkkkkkkkkkk
+[0:28:17] jeantlg: ue
+[0:28:22] ImVitorSan: @MoonZx1 ah mais sla, os cara tava chegando
+[0:28:27] IuriSae: !elo
+[0:28:27] StreamElements: --- Rangerzada = Master I (247 LP)
+[0:28:32] k1ng1vs4: qual uma line boa e facil de upar sup é uma merda tu depende muito do adcary
+[0:28:34] mynameisyann_: entrar no arauto n quer né
+[0:28:34] dudstheboy: bom dia dog, pq tu tirou a roupa na farofa e começou a dançar pelado? geral achou paia
+[0:28:37] nichiaa: pergunta quem é
+[0:28:46] LeoSolucoesAgricolas: riih é o uzent da furia
+[0:28:52] Angeljrm: @k1ng1vs4 adc depende muito mais do sup
+[0:28:54] Takedouhh: bom dia dog, pq tu tirou a roupa na farofa e começou a dançar pelado? geral achou paia
+[0:28:59] lolzinhoderua: lolzinhoderua subscribed at Tier 1. They've subscribed for 19 months! 
+[0:29:01] Texugod: NotLikeThis
+[0:29:09] jukkiinn: @k1ng1vs4 fi pega maokai lvl 4 joga com o jg joga o mapa
+[0:29:23] kahon015: Boua pá nois meu mano goat
+[0:29:23] jeantlg: @Angeljrm adc é a pior role pra subir pq todo suporte é ruim, se o adc for ruim o supp pode só dar roaming, adc n faz nada
+[0:29:24] pedro_vitorfs: w! WaitWhat
+[0:29:28] lolzinhoderua: A ele
+[0:29:31] caezinn: kkkkkkkkkkkkkkkk q sub de 4 oq, ta tirando?
+[0:29:31] gabrielzake: da sub e ainda é humilhado auhsuahs
+[0:29:32] julianluce: ixi
+[0:29:37] resetxy: @dudstheboy é o goat ntj
+[0:29:38] pedro_vitorfs: w! coffinPLZ
+[0:29:45] Zenoki: @dudstheboy eae dog, ja cobrou o tocu? ou vai deixar por isso msm?
+[0:29:46] maoupunch: Maokai tem 1 ano e meio que é o JG mais roubado
+[0:29:49] chicoeletrolux3000: Boa tarde Goat e chat
+[0:29:52] lotus7k: a nami falou o nick
+[0:30:00] vianah: a nami é o uzent
+[0:30:11] FireJNR: tu acha que kassadin pode aparecer como resposta contra azir???
+[0:30:14] Eduardo_Ko: com dois item ele joga facil
+[0:30:17] chikenlirouxd: Dudão espalhador de fakenews
+[0:30:23] FlanguitoHUEBR: Ryze >>>> Corki ??
+[0:30:36] vitinhopotato: qual o combo principal do ryze?
+[0:30:37] Zenoki: @chikenlirouxd ele quer cobrir o que o tocu fez
+[0:30:37] jeantlg: mas é isso msm
+[0:30:43] xiimbar: !song
+[0:30:45] mynameisyann_: @FlanguitoHUEBR acho que não
+[0:30:45] naotemnicknenhummais: LOUCO
+[0:30:47] k1ng1vs4: qual o melhor champ para upar rank?
+[0:30:52] alves_kennedy: Louco lkkkkk
+[0:30:52] lolzinhoderua: Foda que ele fica muito tanke
+[0:30:53] daron_lol1: lunatico
+[0:30:59] 1Collapse: L V C I D O
+[0:30:59] leandrowendellul: ainda mais agora com a chama sombria
+[0:31:03] dudstheboy: acho que ele tem mt dano mas nao tem range pra nada
+[0:31:10] leomrqs_: kkkkkkkkkkkkk
+[0:31:10] santheus_: xD
+[0:31:13] Takedouhh: KKKKKKKKKKKKK
+[0:31:14] chikenlirouxd: @Zenoki tucu não fez nada kkkkk, a mina do dudão começou a conversar com ele, ai eles estão zuando chamando ele de talarico kkkkkk
+[0:31:15] maoupunch: Esse range dele que quebra
+[0:31:15] bluntlol1: mas o range n compensa
+[0:31:15] vianah: ue
+[0:31:17] alex_milanez: n vai dar nem tempo
+[0:31:18] FireJNR: tu acha que kassadin pode aparecer como resposta contra azir????
+[0:31:20] naotemnicknenhummais: Ficou igual kkkkkkkkkkkkkkkkkkkkkkk
+[0:31:20] jeantlg: n vai conseguir dar 1k
+[0:31:22] danbass01: ModCheck
+[0:31:22] tuufs: !musica
+[0:31:27] vitinhopotato: qual o combo principal dele?
+[0:31:28] xxmaroto: da esse dano todo e ainda tem quase 4k de vida e 150 de armor
+[0:31:29] mynameisyann_: louco
+[0:31:36] Note52: 810
+[0:31:39] chikenlirouxd: ggwp
+[0:31:41] jeantlg: KKKKKKKKKKKKKK
+[0:31:41] pedro_vitorfs: w! coffinPLZ
+[0:31:46] jpbrabo12: goat se tu fosse escolher uma skin pra algum champ qual seria? e como seria a skin?
+[0:31:51] zayeon_: aumento uns 120 de dano
+[0:31:53] FlanguitoHUEBR: aumentou 100 de dano
+[0:31:55] alex_milanez: tank pra krl, da dano, e tem uma ult forte
+[0:31:56] itswillcds: melhor dica = nao joguem
+[0:31:59] henrique_antunes: Oque é essa IDL
+[0:32:00] danbass01: Tem chance de aparece tf ad no cblol?
+[0:32:02] perguntasboas: quando fazer espada do rei de first item pra yone?
+[0:32:03] chikenlirouxd: @jpbrabo12 nami
+[0:32:06] mmellopkr: @jpbrabo12 LULUZINHA
+[0:32:08] jarvison1: goat, tu acha que tu jogou ja 80% do que o carioca ta jogando?
+[0:32:09] mynameisyann_: nossa, eu dei f5 e ja ganhou?
+[0:32:10] tuufs: qual o nome da ultima musica, goat??????????
+[0:32:10] malandal: e o vídeo sobre o funcionamento de um org, @rangerlol1 ?
+[0:32:10] lolzinhoderua: Hard game superado 👍
+[0:32:11] BR_IGNI: com rabadon bateria 100 fácil... chama sombria deve ser op nele
+[0:32:16] jpbrabo12: ksksksksks
+[0:32:26] naotemnicknenhummais: @rangerlol1 joga de tf ad mid
+[0:32:27] feedei_mas_n_quitei: !
+[0:32:29] henrique_antunes: IDL é um time ?
+[0:32:29] IMPHASMA: uzentola da furia
+[0:32:30] Ichimatsu_Kohina: se fosse Maokai de Carioca seria mais facil o jogo
+[0:32:30] mynameisyann_: viu o how to be titan?
+[0:32:31] fpsleozeraa: joga de lucian mid
+[0:32:31] vianah: a nami é o uZent sup da furia @rangerlol1
+[0:32:31] xxmeumachoxx: SALVE DOG @rangerlol1
+[0:32:38] vitinhopotato: qual é o combo do ryze goat?
+[0:32:38] FlanguitoHUEBR: oq é esse ponto de exclamação vermelho em cima do seu icone ??
+[0:32:42] PGuerdis: Na escuta?
+[0:32:43] tuufs: nome da ultima musica chat? qual era pf
+[0:32:44] eduardoalexandre157: Tu tem esse Lee aí ranger?? Kkk
+[0:32:47] pedromito777: salve rangerzada
+[0:32:50] raflesh0001: @rangerlol1 lança um lobobot pra mostrar o elo goat, vai ficar midia
+[0:32:55] jpbrabo12: goat se tu fosse escolher uma skin pra algum champ qual seria? e como seria a skin?
+[0:32:56] malandal: cê tinha falado que ia fazer sobre os bastidores financeiros e etc
+[0:32:59] fritabatatinha: @rangerlol1 tem conta da riot games ainda?
+[0:32:59] tuufs: nome da musica goat? a ultima musica
+[0:33:01] xxmeumachoxx: RANGER EXISTE UM MUNDO QUE VC VOLTA PRO FLA? @rangerlol1
+[0:33:04] chikenlirouxd: cheira a crack
+[0:33:07] mynameisyann_: Ja viu o video do titan "How to be Titan"?
+[0:33:07] mmaickk: @jpbrabo12 ivern, colocaria ele parecendo uma erva e a margarida seria um beck com a cabeça pegando fogo
+[0:33:14] DDL_rodrigo: vê o vídeo do xsqdl, o vlog
+[0:33:17] tuufs: nome da ultima musica chat?
+[0:33:23] chikenlirouxd: @xxmeumachoxx Ranger é da ilha das lendas 0 de chance por agr
+[0:33:34] tuufs: valeu!!
+[0:33:35] minicraqi: filipe
+[0:33:35] fpsleozeraa: @rangerlol1 joga de lucian?
+[0:33:40] uzent: tmj goat 🙏
+[0:33:42] xxbigxheadxx: xxbigxheadxx subscribed with Prime. 
+[0:33:45] danylz_c: Oi Ranger boa tarde, te amo :)
+[0:33:46] fellipegonts: @henrique_antunes  oh amigão eh ilha das lendas simplesmente o maior  canal de lol da twitch
+[0:33:47] felixalc: salve ranger vamo f1 agora ou nao?
+[0:33:50] minicraqi: pode por favor aumentar o volume da live num geral
+[0:33:52] how2gank: boa tarde goat
+[0:33:56] chikenlirouxd: achei muito inovador oq o titan tá fazendo, curti dms
+[0:34:02] minicraqi: to achando meio baixa sua voz e a musica
+[0:34:08] lollato182: ranger vc mora com quem?
+[0:34:08] 77focato: Os cortws do ranger ta em tudo que e lugar
+[0:34:08] santheus_: kkkkkkkkkkkkk
+[0:34:09] jpbrabo12: goat, tu volta pro fla?? fala pra nos
+[0:34:10] felixalc: kkkkkkkkkkkk
+[0:34:10] pedro_vitorfs: w! coffinPLZ
+[0:34:14] ursinholol1: que video do titan?
+[0:34:16] julianluce: tome
+[0:34:17] stxzbr: tu n achou que faltou legenda no pos game do video la ? @rangerlol1
+[0:34:17] Pulentah: kkkkkkkkkkk
+[0:34:18] xxmeumachoxx: ME RESPONDE CRAQUE
+[0:34:19] minicraqi: aqui ta no maximo
+[0:34:21] lolzinhoderua: Kkkkkkkkkkkk
+[0:34:22] perritowz: como q vc ta aqui e no idl ao mesmo tempo
+[0:34:27] vianah: aqui ta suavão
+[0:34:29] guizintft: mid goat?
+[0:34:30] renatoveronezz: aqui ta no max e ta baixo tbm
+[0:34:31] danylz_c: Oi GOAT bom tarde, amo vc :)
+[0:34:33] jpbrabo12: Volta quando pro competitivo?????????
+[0:34:41] perguntasboas: fala comigo ranger, quando fazer espada do rei de first item pra yone?
+[0:34:41] Giiija: como ta sendo seu carnaval?
+[0:34:43] lolzinhoderua: Me ignora, pf
+[0:34:45] lipin_xd: boa tarde rangersao
+[0:34:48] fritabatatinha: @rangerlol1  TEM CONTA DA RIOT GOMES AINDA?
+[0:34:49] choraoz: uuuui
+[0:34:49] lllzl: amo cheirar peido
+[0:34:50] naotemnicknenhummais: RESPONDE ELE CRAQUE
+[0:34:51] leandrowendellul: O que falta pro gragas jg aparecer no competitivo?
+[0:34:53] Ichimatsu_Kohina: ranger aquele sinal de perigo é do que?
+[0:34:53] LeoSolucoesAgricolas: @jpbrabo12 ele entra no lugar do croc no msi esse ano
+[0:34:55] pedrowar_lol: ta de boa o audio
+[0:34:56] jesus1209: tu acha que aqui no competitivo do Brasil estão dando pouco valor pras larvas?
+[0:35:03] tuufs: era da ultima musica goat, antes dessa  do eminem
+[0:35:12] santheus_: tu conheceu o cara q fez essa musica sua?
+[0:35:13] kahon015: Abaixa o volume da TV e me escuta pelo telefone
+[0:35:14] jon1lol: @rangerlol1 já viu o video do titan então?
+[0:35:19] felixalc: ta empenhado no mid o cara
+[0:35:20] bmo10lol: como que vc ve pov dos jogadores coreano  goat ?
+[0:35:24] lolzinhoderua: Se tirar o nick da pra saber se nao é o Ranger?
+[0:35:34] chikenlirouxd: kkkkkkkkkk
+[0:35:38] adevanbcj: !commands
+[0:35:38] StreamElements: @adevanbcj You can find a list of all Commands here https://StreamElements.com/rangerlol1/commands
+[0:35:38] phcaiado: ver o vod vai pro canal?
+[0:35:40] julianluce: kkkkkkkkkk
+[0:35:42] danbass01: True KEKW
+[0:35:44] ErickPeresKlitzke: mas será que não é só pra dar harass esse chamuscar ai?
+[0:36:10] jon1lol: @rangerlol1 por que o meu client é tão lento para carregar as coisas? tem alguma config dif?
+[0:36:25] felixalc: qual é esse canal dos povs ai ?
+[0:36:45] natolol1: smolder?
+[0:36:49] Ichimatsu_Kohina: Ryze top
+[0:37:04] alexandre8991: chovy esta jogando aonde?
+[0:37:05] digoalmeid: @rangerlol1 mostra o KASETE
+[0:37:08] riyuujinjiyakka: aatrox do goat?
+[0:37:23] 941007: Mylon tava jogando com esse diabo de smolder top mais cedo
+[0:37:24] hirobiro_: illaoi ta mt robado contra melle jg e top
+[0:37:28] BrunoSovza: Yone
+[0:37:28] TrustOnHiro: joga com ele, dps ve o vod pra saber oq o cara fez de errado, pq vc n vai errar
+[0:37:29] balhuke: Vai de smolder top
+[0:37:30] frombolas: @rangerlol1 rumble do tico liro?
+[0:37:33] jon1lol: @rangerlol1 por que o meu client é tão lento para carregar as coisas? tem alguma config dif??
+[0:37:37] pedro_vitorfs: w! coffinPLZ
+[0:37:42] josuekallebe333: Ryze top do robs
+[0:37:51] balhuke: Smolder top roubado
+[0:37:55] bielslol: rumble do goat?
+[0:38:08] frombolas: rumble
+[0:38:12] frombolas: de ig
+[0:38:13] IlFrankz: Mas era o fiesta sedan?
+[0:38:17] BrunoSovza: Kennen
+[0:38:18] leandrowendellul: lee roubou xp da catapa, logo 15.
+[0:38:19] VituuD2: Irelia ranger
+[0:38:19] frombolas: roubaram o rumble
+[0:38:22] lollato182: olaf
+[0:38:25] isshinlol1: UDYR DO GOAT ?
+[0:38:27] chikenlirouxd: Kreygasm
+[0:38:27] frombolas: ksante
+[0:38:33] 1ryanzin__: aatrox é bom  contra rumble?
+[0:38:33] Ichimatsu_Kohina: Chovy farma muito mal perdeu monte de minion kappa
+[0:38:44] jon1lol: @rangerlol1 por que o meu client é tão lento para carregar as coisas? tem alguma config dif??
+[0:39:00] DioguinhoStonE: Boa tarde goat
+[0:39:01] fabiinlp: @jon1lol pc diff
+[0:39:08] enzibas: Boa tarde
+[0:39:10] riyuujinjiyakka: wave de catapa do ryze e mt pica
+[0:39:27] BrunoSovza: pra stackar rapido a gota n?
+[0:39:27] Ramex56: @rangerlol1 tenho uma camisa igualzinha a essa
+[0:39:30] forgettlol: ou seja, FIESTA> chovy
+[0:39:52] bmo10lol: goat aonde vc consegue ve os pov deles ?
+[0:39:52] francys: deu pra ver bem o furo
+[0:40:02] perritowz: ranger como ser bonito igual vc?
+[0:40:02] francys: kekw
+[0:40:21] 941007: não sendo o ryze do robs tá tudo certo
+[0:40:26] riyuujinjiyakka: ryze nao arregaça kasante?
+[0:40:28] santheus_: alternativa pra karma?
+[0:40:29] zWitherz: Sdds de Ryze no competitivo
+[0:40:30] forgettlol: @perritowz tem que nascer do saco certo, é igual sr rico
+[0:40:32] Rywsui: vod de qm isso ai?
+[0:40:36] DioguinhoStonE: Pq o tf não tá aparecendo?
+[0:40:42] c40sz: Tf pode aparecer? To achando forte AD e AP
+[0:40:50] Ichimatsu_Kohina: Gravatar de Ryze para felicidade do Revolta
+[0:40:52] LeoSolucoesAgricolas: @DioguinhoStonE ate ta em algumas ligas, mas é meio situacional
+[0:41:02] Pudlesz: O Ryze faz parecer que as cartas do tf estão em camera lenta
+[0:41:06] Rywsui: agora o q scala com o ad tb
+[0:41:10] isshinlol1: deve ser pra puxar wave n ?
+[0:41:19] renatoveronezz: blade
+[0:41:19] eder_oliveira: tf aparece semana que vem?
+[0:41:23] riyuujinjiyakka: all in lvl 1 nesse rumble da nao?
+[0:41:26] f4finh4: blade pq noix é leao e nao gazela
+[0:41:33] danbass01: O tin tem esse tf ad?
+[0:41:33] lznDKNG: ranger pq vc e tao bom?
+[0:41:36] renatoveronezz: @riyuujinjiyakka kkkkkkk se fora pra derrota sim
+[0:41:41] feedei_mas_n_quitei: doran shield
+[0:41:42] DioguinhoStonE: @leosolucoesagricolas saquei
+[0:41:43] c40sz: TF pode aparecer? to achando forte
+[0:41:55] riyuujinjiyakka: @renatoveronezz oloco rumble faz porra nenhuma lvl 1
+[0:42:01] Iubu_1: fake, mostra replay
+[0:42:04] fabiinlp: always jg gap
+[0:42:04] jrcorsa: salve ranger
+[0:42:10] renatoveronezz: @riyuujinjiyakka ta maluco ne
+[0:42:15] lznDKNG: goat por um motivo
+[0:42:21] mmaickk: vai ter ez hj ? gameplay clean de ez é foda de ver
+[0:42:22] yatoall: ela 10/5
+[0:42:23] joaogouveias: da um salve pro cara po #desumilde
+[0:42:25] Elogard1: Goat
+[0:42:27] danbass01: GIGACHAD
+[0:42:29] kayk_aranak: loser queue existe ?
+[0:42:33] VanGloq: VanGloq subscribed with Prime. 
+[0:42:35] dws_tomioka: Jax tava jogando vôlei
+[0:42:41] rerezinhas2: nossa que skin linda
+[0:42:45] jon1lol: sem som
+[0:42:49] santheus_: o jogo ta sem som?
+[0:43:04] ChriiZtt: e a musica ?
+[0:43:06] pandagames94: kkkkkk
+[0:43:07] Deathevan: GOAT
+[0:43:08] sorrasteiro: Boa tarde Goat gostoso
+[0:43:13] erickk015: É por isso q ele n tá respeitando
+[0:43:17] Neprimuss: GOAT
+[0:43:20] jotinha_71: Kkkk
+[0:43:23] rodrigo_v7: Tá liberado Robô usar aquele mago top?
+[0:43:25] cafeziin1: @erickk015 S KKKKKK
+[0:43:25] fabiinlp: joga sem som dog?
+[0:43:26] Xistim: tá sem áudio?
+[0:43:31] sxc06: Exatemnte pelo Nick ele não respeita kkkk
+[0:43:33] thiaguera_00: grevthar tá assistindo?
+[0:43:38] renatoveronezz: !catapa
+[0:43:38] pandagames94: F catapa
+[0:43:38] perritowz: o grev farmando
+[0:43:40] AsprosGOD: AsprosGOD subscribed with Prime. They've subscribed for 4 months! 
+[0:43:41] akrong: F
+[0:43:42] crvgeo: -1
+[0:43:42] Texugod: PogChamp
+[0:43:45] danbass01: F som
+[0:43:46] math_santos29: audio deu uma bugada?
+[0:43:47] kimarge1: é o grev... ta confirmado
+[0:43:49] Iubu_1: lol sem som, é proposital goat?
+[0:43:49] perritowz: contagem de farms errados
+[0:43:54] julianojukha: aumenta o volume do jpgp
+[0:43:56] feedei_mas_n_quitei: a
+[0:44:01] welintond: Boa tarde meu lindrio
+[0:44:13] riyuujinjiyakka: grev farma uns 10 de 19
+[0:44:19] BrunoRoldao: 16 de 19 minions n sei, 16 minions aos 19 min sim
+[0:44:21] UrieL1169: se quiser sim mano
+[0:44:22] lznDKNG: kk e o grev msm
+[0:44:26] maribrnd: maribrnd subscribed with Prime. They've subscribed for 36 months! Booa tarde!! Como você está? Mais um mês em
+[0:44:27] rdbradock: Boa tarde goat
+[0:44:32] erickk015: Ranger, tu acha que hj sup tá mais roubado doq mid pra subir?
+[0:44:44] cleytonpa1: boa tarde goat eu achei que você ia entrar no rock com o revolta ontem
+[0:44:48] danbass01: Grev tá menos paia no farm mas a mecânica
+[0:45:02] tengoku1x: ué tem um zilean top
+[0:45:06] kale_EYE: P A T I F A R I A
+[0:45:07] imramis11: Boa tarde melhor da história
+[0:45:14] riyuujinjiyakka: @erickk015 tomar sup gap sempre e de cair o cu da bunda, problema  e q vc vai depender dos outros pra dar dano
+[0:45:14] fabiinlp: @tengoku1x eles trocaram
+[0:45:17] perritowz: tem como gahar esse jogo?? zilean top
+[0:45:32] riyuujinjiyakka: @erickk015 e tem a chance de vc feedar seu time inteiro e eles ficarem mid dando bounty
+[0:45:34] pragastar0011: Boa tarde goat, na sua opiniao, que é concreta, ate pq vc é O Goat, qual o ou os melhores picks para subir na jg? to esmeralda
+[0:45:38] redduxer: GOAT
+[0:45:38] perritowz: goat
+[0:45:46] lordorochi7: Jogo ta sem som Goat
+[0:45:46] CaxangaThales: qual lane vc acha que vai ser a mais dificil de subir na saga?
+[0:45:46] durkaixl: fechou bota, acabou
+[0:45:47] lollato182: sem som lol
+[0:45:49] schieri_: QUE CARA BOM
+[0:45:51] f4finh4: respeita o goat
+[0:45:53] Petuti_: cade o som do jogo e a musica GOAT
+[0:45:53] renatoveronezz: spikou
+[0:45:54] VituuD2: musiquinha goat ?
+[0:45:56] feedei_mas_n_quitei: ia morrer kkk
+[0:45:57] perritowz: ranger oq vc acha do carnaval e pq tem tanta gente criticando no twitter?
+[0:45:58] Piccoli98: SOM DO JOGO
+[0:45:58] Neprimuss: bota o som GOAT
+[0:46:00] perguntasboas: sem musica?
+[0:46:01] dws_tomioka: @pragastar0011  Só pegar o teu melhor boneco
+[0:46:05] iguefh: sem som
+[0:46:10] erickk015: @riyuujinjiyakka De fato
+[0:46:37] tengoku1x: ta saindo o som mas ta mt estranho eu acho e baixo
+[0:46:39] ozreal__: ja ta melhor que o grevthar
+[0:46:51] samu0440: Oi goat, sabias palavras nas cartinhas @rangerlol1
+[0:46:53] chpp10: !catapa
+[0:46:53] Fox_Collie: vai mandar o vod pro grev?
+[0:47:03] durkaixl: acabou mid
+[0:47:05] redduxer: goat
+[0:47:05] ankarvos: krl jogou mt
+[0:47:05] StormZera_: eita goat
+[0:47:05] danbass01: Fala do zilean top
+[0:47:06] iesuiesuiesu: GOAT
+[0:47:06] Piccoli98: god zilean
+[0:47:06] erickk015: goat
+[0:47:06] windhas: Boa zilean
+[0:47:07] Elogard1: Alk
+[0:47:08] 941007: GOAT
+[0:47:10] ErickPeresKlitzke: zileão jogo mto po
+[0:47:11] filipeoteixeira: dedo diff
+[0:47:13] akrong: GOAT
+[0:47:14] fabiinlp: é o chovy na minha tela?
+[0:47:14] sxc06: Zilean jogou uma bola
+[0:47:15] riyuujinjiyakka: da um coach pro grevtar de yone
+[0:47:15] 1pew_: !elo
+[0:47:16] StreamElements: --- Rangerzada = Master I (269 LP)
+[0:47:18] vinic1nhu: boa tarde ranger el goat
+[0:47:19] Elogard1: Goat d+
+[0:47:20] perritowz: vai mandar o vod pro grev??
+[0:47:23] pragastar0011: @dws_tomioka No me caso é o j4 kkk vlw pela call... vou spamar
+[0:47:28] mmaickk: 6 min de jogo o cara ja ta giga
+[0:47:28] caioamorim07: sem musiquinha na live??
+[0:47:30] dumelovip: ta jogando mt parece o grevthar de yone
+[0:47:36] jejet06: Prefiro yone sem skin
+[0:47:36] zteixeira: a padrao
+[0:47:42] Hampy23: como?
+[0:47:42] windhas: A camera ta dropando uns fps tbm @rangerlol1
+[0:47:42] rdbradock: so a classic
+[0:47:46] xiimbar: !musica
+[0:47:47] chikenlirouxd: minnieDance minnieDance
+[0:47:50] solgaleo_kicy: goat, tú não era mid no inicio da carreira?
+[0:48:01] xiimbar: qual nome dessa música
+[0:48:02] perritowz: acho q ele era top
+[0:48:04] 1pew_: Já ta com o pc novo??
+[0:48:05] bmo10lol: @kicyzero ele era top
+[0:48:11] cabeludo_burro: tu tem akali na pool ranger GOAT?
+[0:48:13] dws_tomioka: @pragastar0011  Agr wukong ta bom tbm, mas normalmente em elos mais baixos é só tu pegar bonecos que tu garante que faz 1v9 e já era.
+[0:48:21] henriqw_7: KKKKKKKKKKKKK
+[0:48:24] Piccoli98: ta
+[0:48:24] yatoall: s
+[0:48:25] riyuujinjiyakka: ta
+[0:48:25] math_santos29: agr sim
+[0:48:26] Iubu_1: ta
+[0:48:26] cabeludo_burro: nice
+[0:48:26] tengoku1x: s
+[0:48:27] santheus_: agorafoi
+[0:48:27] Neprimuss: agora sim
+[0:48:27] filipeoteixeira: sim
+[0:48:28] solgaleo_kicy: @nagi10lol ele toplaner deve ser criminoso
+[0:48:28] sein_anjo: ta
+[0:48:31] henriqw_7: o Zilean
+[0:48:31] elekidgod: W dessa skin é travadao kkkk
+[0:48:35] Darkizinu: ta sim goat
+[0:48:46] lincolntx: pra que som do jogo?
+[0:48:52] CebolaCS_TV: bom dia dog, pq tu tirou a roupa na farofa e começou a dançar pelado? geral achou paia
+[0:48:57] StormZera_: Com jayz no ouvido é impossivel perder
+[0:49:08] lincolntx: humilde goat <3
+[0:49:15] UrieL1169: som do jogo mt bom
+[0:49:22] Neprimuss: o som do jogo serve pra ouvir o jogo
+[0:49:29] sein_anjo: 1 hit
+[0:49:29] yatoall: cancelou AA
+[0:49:29] chikenlirouxd: kkkkkkkkkkk pqp
+[0:49:33] jotavi_: goat tu acha que a red tem uma chance de copar esse split?
+[0:49:33] lincolntx: goat torando o grizaman se loco
+[0:49:34] nomercykkjkj: nt
+[0:49:39] polonioradioativo: ApuApustaja LoveTime
+[0:49:39] vinic1nhu: que bota vc usa pot goat
+[0:49:44] elekidgod: gravatar
+[0:50:02] pragastar0011: @dws_tomioka dmr, tbm gosto de jogar contra wukong, o foda q caiu mt contra brand e lillia... mas vou jogar invadindo eles, jogar mais agressivo
+[0:50:08] polonioradioativo: catJAM
+[0:50:11] rdbradock: presente
+[0:50:18] perguntasboas: presente
+[0:50:20] Petuti_: goat, bork nao é o melhor item pra yone, 90% dos games é melhor começar de kraken msm
+[0:50:23] nomercykkjkj: aulas
+[0:50:26] LG_14_: Goat, já jogou de akshan?
+[0:50:26] UrieL1169: quando fazer espada do rei X mata craquens ?
+[0:50:26] Neprimuss: presente
+[0:50:28] judeuz: !pix
+[0:50:28] StormZera_: GOAT, oq tu acha de comprar uma capa só pro yone e continuar o rei?
+[0:50:28] StreamElements: Agora seu pix aparece na live! Doe no livepix pelo QR Code ou pelo link: livepix.gg/rangerlol1
+[0:50:31] redduxer: noted
+[0:50:31] carrascozera: Isso Goat, ensina o Grev
+[0:50:33] thevictir: aprenda gravathar
+[0:50:55] jotavi_: goat tu acha que a red tem uma chance de copar esse split?
+[0:51:08] nomercykkjkj: pq vc upa seu E ao invés do W?
+[0:51:12] alopeciaareataa: levar tapa de bork é uma das coisas que mais me irrita
+[0:51:13] lincolntx: kkkkkkkkkkkkk
+[0:51:14] rdbradock: KKKKKKKKKKKKKKKK
+[0:51:15] elekidgod: D:
+[0:51:15] Piccoli98: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[0:51:16] Neprimuss: OMEGALUL
+[0:51:19] FamosoSkoba: TO NA TV RANGER CALMA
+[0:51:19] schieri_: KKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+[0:51:20] jotavi_: kkkkkkkkkkkkkk
+[0:51:22] Petuti_: na minha opniao so vale a pena bork se tiver 4 high life nos contra
+[0:51:25] Piccoli98: ff15
+[0:51:29] rdbradock: Pega o red dele
+[0:51:31] schieri_: !catapa
+[0:51:31] gustavobddd: jhin e braum, que botlane boa
+[0:51:37] CIDAOSALGADOS: lembra que o mano falou que tava baixo o volume? ta nao
+[0:51:37] pragastar0011: PQ CHORAS GREV?
+[0:51:49] thevictir: master yihihihihih
+[0:51:54] alopeciaareataa: master yi e yone é o pesadelo do low elo, seloco
+[0:52:13] GingerHead__: yone do ranger > gravathar?
+[0:52:13] alwaystiredbtwz: !elo
+[0:52:14] StreamElements: --- Rangerzada = Master I (269 LP)
+[0:52:27] santheus_: kkkkkkkkkkk
+[0:52:29] jacksonnorberto89: Boneca dura
+[0:52:34] josuekallebe333: @alopeciaareataa low?
+[0:53:03] realfdsb: trolou
+[0:53:06] Darkizinu: pq o rakan ficou gigante do nada
+[0:53:19] windhas: JESUS
+[0:53:20] Elogard1: MD
+[0:53:31] alopeciaareataa: @josuekallebe333 só tenho esse lugar de fala, se cai contra alguem que sabe o que faz com esses boneco eu literalmente choro
+[0:53:40] Elogard1: Conseguiu errar 3 tiros com full visão........
+[0:53:42] dws_tomioka: amigo?
+[0:53:48] Ruantly: essa espada do rei ta imoral
+[0:54:03] Ruantly: 1 aa pra ativar a passiva
+[0:54:22] judeuz: zilean top, wtf
+[0:54:39] liszto1: maneiro jogar de adc
+[0:54:40] hugopfg16: boneco balanceado
+[0:54:42] f4finh4: varus que que se ta fazendo ai meu fio
+[0:54:42] windhas: @judeuz o zilean era mid, mas trocou
+[0:54:55] NaoSei30: !elo
+[0:54:57] StreamElements: --- Rangerzada = Master I (269 LP)
+[0:54:57] judeuz: ahhh, saquei! vlw @windhas
+[0:54:58] daron_lol1: aprende gravatar
+[0:55:02] YuaNeeiri: @f4finh4 eliminado na sequencia
+[0:55:13] jotavi_: NT
+[0:55:15] Saturn_new: nt
+[0:55:21] filipeoteixeira: lol
+[0:55:21] newdik: Zilean com master yi é uma das cisas mais roubadas
+[0:55:24] Canariio: tanka mais que sejuani
+[0:55:25] UrieL1169: qs q sola esse lee ainda
+[0:55:30] lmupl: teu yone tá foda papai, ia levando o lee
+[0:55:35] UrieL1169: só 3 ults pra amtar o GOAT
+[0:55:53] Rywsui: 0 crit e bom?
+[0:56:11] imramis11: Qual a próxima rolê vai pegar Challenger GOAT?
+[0:56:32] alopeciaareataa: eu acho meio incrível o yone te passiva que buffa critico, e ainda assim ser vantajoso buildar outras coisas
+[0:56:50] luccablois1: GOATTTT
+[0:56:51] rdbradock: GOAT
+[0:56:52] lmupl: AYEEEE
+[0:56:54] f4finh4: Goat
+[0:56:55] schieri_: goatt
+[0:56:56] UrieL1169: gg
+[0:56:57] Elogard1: CRLH GOAT, JOGA MENOS DOG
+[0:56:57] sirhrn: yone joga sozinho, que boneco
+[0:56:58] lionrawwrr: dam
+[0:57:00] imramis11: god
+[0:57:02] dws_tomioka: Pq choras Gravathar?
+[0:57:04] forgettlol: essa qyiana ta no teu time, só pode kkkk
+[0:57:07] lmupl: compton usa angel dust
+[0:57:08] ErickPeresKlitzke: yone é imbecil demais bicho
+[0:57:08] lionrawwrr: damn
+[0:57:09] jeanc413: essa qiyana é elojob qq isso
+[0:57:17] uZeft: larva serve pra nada goat
+[0:57:23] gatodiff: O cara tem família, vai com calma
+[0:57:25] UrieL1169: kkkkkkkkkkkkkkkk
+[0:57:26] Elogard1: KKKKKKKKKKKKKKKKKKKKKK
+[0:57:26] shingouki1010: Redbert vai trazer o título pra Pain, goat? Sdd ceos, inclusive. LUL LUL LUL
+[0:57:26] lincolntx: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[0:57:28] manyfreak: kkkkkkkkkkkkkkkkkkk
+[0:57:29] TrustOnHiro: q isso kkkkkkkkkkk
+[0:57:29] mvkgod: Kkkkkkkkkkkkkkk
+[0:57:29] crvgeo: COEKKKKKKKKKK
+[0:57:33] vipor_idk: KEKW isso q n pode
+[0:57:34] naotemnicknenhummais: Kkkkkkkkkkkkkkkkkkk
+[0:57:36] Trusck1: Coe
+[0:57:37] xupiscu: GOAT
+[0:57:38] O_Pimposo: GVKOLDSAJNBGVOLIKDFASGBIOLDFASHGBIOLDFASZCHBIOLUJFSVXHBI
+[0:57:38] jotavi_: gravathar*
+[0:57:39] lincolntx: denesesauro em goat
+[0:57:42] rdbradock: calmoooooooo
+[0:57:42] manyfreak: Evita
+[0:57:44] marcelean1: gravatrarkkk
+[0:57:48] davidpatron22: grevethar tmb faz isso na soloq, ai é paia
+[0:57:53] sirhrn: oxi braum e jhin ? zero sentido
+[0:57:55] rootssx: Mas ele jogou bem a lane, só vacilou em nao fazer side
+[0:58:04] Petuti_: jakcho é melhor q manopla
+[0:58:16] lmupl: MFERS FORGOT ABOUT DRE
+[0:58:17] kslucashr: @rootssx vacilou em nao jogar o jogo né?
+[0:58:19] UrieL1169: @rootssx ele só esqueceu de dar dano
+[0:58:37] vipor_idk: @sirhrn 4 bala = 4 hit da passiva calculadokkkkkkkkk
+[0:58:45] Petuti_: simm
+[0:59:03] sirhrn: @vipor_idk vdd, ai da o timer de recarregar enquanto stuna
+[0:59:14] joaovitordena: cade o dano
+[0:59:25] HOTZRD: ih deu merda
+[0:59:30] roddcr: goat
+[0:59:30] judeuz: godd
+[0:59:31] UrieL1169: zilian god
+[0:59:33] lmupl: zilean god fds
+[0:59:34] faygodreamsz: GOAT
+[0:59:36] thevictir: Zilean foda vei
+[0:59:37] ursinholol1: goat
+[0:59:38] jotavi_: WTFFFFFFFFF
+[0:59:39] joaovitordena: zilean diff
+[0:59:39] SucoDeCacto: zillean goat
+[0:59:40] f4finh4: zilean foi goat agora
+[0:59:42] netwlol: Esse zilean sabe muito
+[0:59:42] forgettlol: essa qyiana n existe KKKKKKKKKKK
+[0:59:42] afttaiser: q zilean
+[0:59:43] ConradoCereja: QUE ESSOO
+[0:59:44] lmupl: crl, god zilian mesmo
+[0:59:44] brheimdalll: !elo
+[0:59:46] StreamElements: --- Rangerzada = Master I (269 LP)
+[0:59:46] yuukya_: eu de qyiana
+[0:59:48] cabeludo_burro: kkkkkkkkkkkkkk
+[0:59:50] 1zest: zilean 01
+[0:59:51] schieri_: que zilian bom
+[0:59:55] Nardinhuu: @rangerlol1 cadê o 105 no cariok?
+[0:59:56] jotavi_: esse rumble kkkkkkk
+[0:59:57] Clacius: ZILLIAN GOLD
+[0:59:59] RompeFerro: Zé Delivery?
+[1:00:01] UrieL1169: nem da pra fazer isso de zilian
+[1:00:03] vinidotruan: kkkkkkkkkkkkkkkkkkkkkkkk
+[1:00:03] Petuti_: KKKKKKKKKKKKKKKKKKK
+[1:00:04] lincolntx: kkkkkkkkkkkkkkkkkkkkk
+[1:00:05] netwlol: BANDO DE ANALFABETO
+[1:00:06] paulocyberr: krl q zilean god
+[1:00:07] flash_da_lei: kkkkkkkkkkkkkkkkkkkkkkk
+[1:00:07] ConradoCereja: kkkkkkkkkkkkkkk
+[1:00:12] naotemnicknenhummais: Kkkkkkkkkkkkkkkkkkk
+[1:00:12] Deathevan: GOAT
+[1:00:15] realfdsb: eu corro pra mata
+[1:00:20] jotinha_71: GOST
+[1:00:21] Petuti_: vai fazer gume dps de arco?
+[1:00:27] Icesix: Tão achando que é o yone do gravathar
+[1:00:43] LuaaN8: GOAT
+[1:00:44] ConradoCereja: easy
+[1:00:44] vinidotruan: KR soloQ?
+[1:00:45] thevictir: ggs
+[1:00:52] lehadesguy: 2 A 0 FORA O BAILE DE BOLA
+[1:00:53] UrieL1169: kkkkkkkkkkkkk
+[1:00:53] f4finh4: Apenas o basico do Goat
+[1:00:54] judeuz: F CHAT
+[1:00:55] davica18: Vai tomando kkkkkkk
+[1:01:00] coswosck12: Vai fazer o academy hoje, GOAT?
+[1:01:00] newdik: BAN DE CHAT
+[1:01:00] roddcr: f chat kkkkkk
+[1:01:00] higuxi: kkkkkkkkkk
+[1:01:01] wsafad0: !playlist
+[1:01:01] StreamElements: https://open.spotify.com/playlist/1CBqIVOVvZ90TcMyu7mrew?si=024812073636417e
+[1:01:03] seraphiam3: vlw goat, eu era o braum =D
+[1:01:03] lmupl: tá chat restricted goat?
+[1:01:03] martlnsfelipe: f chat
+[1:01:05] flash_da_lei: F CHAT
+[1:01:12] cecinya: ADD O ZILEAN WUE O CARA PEDIU
+[1:01:17] zWitherz: Vai voltar a ser pro como Mid?????
+[1:01:19] LuaaN8: Já dá pra falar que você TEMMM esse Yone?
+[1:01:22] ConradoCereja: goat, presente
+[1:01:23] coswosck12: Vai fazer o academy hoje, GOAT??
+[1:01:25] zynxzz77: Tô com um até 2025
+[1:01:25] jeanc413: olha essa qiyana ai
+[1:01:31] eucocs: pq a cam do Ranger sempre ta 20fps?
+[1:01:34] CampolinaS: Ban de chat é algo belo e moral, só n leva ban quem n se garante
+[1:01:45] Fox_Collie: o Penz tambem está
+[1:01:48] juanzinho417: inimigo da derrota wtf
+[1:01:52] santhiiz: @CampolinaS disse tudo
+[1:02:07] CampolinaS: @santhiiz 😎👍
+[1:02:10] cabeludo_burro: contra jax n é bom?
+[1:02:28] Fox_Collie: @rangerlol1 o Penz tambem está jogando de smolder top e tem os replays no ***
+[1:02:28] Darkizinu: hackeado
+[1:02:30] lincolntx: pegou trojan
+[1:02:53] martlnsfelipe: esse boneco e mt roubado
+[1:02:58] 0lucas10: Gameplay alto nível
+[1:03:00] eucocs: hackeado
+[1:03:03] martlnsfelipe: late game carrega
+[1:03:19] vianah: video de quem ?
+[1:03:39] AndKatKat: jhin millio é esculacho mano
+[1:03:43] Schhimidtt: Muda a camera de lugar goat?
+[1:03:50] lccharlotte: Ranger voce ficou irritado real ontem nas cartinhas ou foi resenha?
+[1:04:08] GMynem: gg
+[1:04:20] eucocs: ele ta de pezinho?
+[1:04:21] caibalion__: sorte dele é o biscoito na runa
+[1:05:08] Rafhiulsk20: Rafhiulsk20 subscribed with Prime. 
+[1:05:14] tokikaze1: smolder = the shy ?
+[1:05:22] yatoall: se fosse um boneco de dash, o smolder estaria fudido, nao?
+[1:05:23] 0lucas10: A mana desse boneco é um problema? Ou tá de boa?
+[1:05:42] judeuz: é mesmo
+[1:05:45] chaosmix001: @yatoall o E da gwen é oq?
+[1:05:57] raezu7: @rangerlol1 NAO QUER DESAPOSENTAR E ASSUMIR O TOP DA KABUM NAO ????
+[1:05:57] UrieL1169: spacing no E foi god
+[1:06:05] petermccain: vod de quem isso?
+[1:06:06] duhi96: QM É O SMOLDER
+[1:06:23] o_sion: esse boneco é impossivel de matar por causa desse E
+[1:06:26] yatoall: @yatoall to imaginando um gap closer melhor do que e da gwen
+[1:06:30] slayerlol7: @duhi96 top da lec
+[1:06:34] slayerlol7: SAlve rnagert
+[1:06:36] slayerlol7: RANGERRR
+[1:06:46] duhi96: tks, sei quem é
+[1:06:56] duhi96: nome dificil do krl n da pra pronunciar mas sei asdlkfjsldkf
+[1:06:57] slayerlol7: @duhi96 n sei tbm
+[1:06:59] slayerlol7: mb
+[1:07:12] SportOne545: o szygenda?
+[1:07:46] FamosoSkoba: Eu acho que no cblol ele ia ganhar de uns
+[1:07:49] duhi96: @SportOne545 isso
+[1:07:54] vaskinho3d2y: quem é esse player?
+[1:08:04] judeuz: diferença de gold ta com?
+[1:08:11] Lel0zz: tu acha q ele vai aparecer mais no top ?
+[1:08:15] SportOne545: @vaskinho3d2y jogava na lec
+[1:08:37] vaskinho3d2y: @SportOne545 obg, n conhecia
+[1:08:37] f4finh4: pq bota 3?
+[1:08:52] martlnsfelipe: a lane dele bot e uma merda, mas quando tu stacka full o q
+[1:08:52] AndKatKat: a lane dele é boa ate, mas tem q UPAR 3 vezes o W e  pegar cometa
+[1:09:03] zayeon_: é zac jg
+[1:09:03] joelzerahlfg: o zac é jg nao ?
+[1:09:04] AndKatKat: o early game dele é mais no poke
+[1:09:05] luizmunir798: zac é jg dog
+[1:09:11] Lel0zz: no bot funciona com cometa
+[1:09:12] raezu7: zac jg dog
+[1:09:13] h4ssi_: no caso do top, a build dele é mais parruda né?
+[1:09:13] zayeon_: karthus ta mid
+[1:09:16] Fox_Collie: shojin é first item
+[1:09:17] imramis11: Oq e isso goat?
+[1:09:20] tfthiagod: ue mas é zac jg
+[1:09:22] raezu7: ZAC É JUNGLE RANGER kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[1:09:24] allan_1903: allan_1903 subscribed at Tier 1. They've subscribed for 4 months! Salve goat
+[1:09:28] bluntlol1: é zac jg po
+[1:09:30] perguntasboas: @imramis11 vod mano, nao ta vendo?
+[1:09:35] vianah: Imagina o robo com esse boneco, o tanto que ele vai se matar
+[1:09:40] onetrickkkk7: Smolder virar meta no top não abre lek pra uma vayne top?
+[1:09:48] Shadoow007: o R dele acho muito fraco
+[1:10:00] raezu7: que agonia ele n olhar o chat
+[1:10:01] imramis11: @perguntasboas  mas é de quem?
+[1:10:06] Lel0zz: achamos um counter pra ksante ?
+[1:10:08] isaiasrodriguess: @rangerlol1  Salve GOAT, o que acha de Yone e Akali mid atualmente?
+[1:10:15] Fox_Collie: @raezu7 carentou?
+[1:10:18] perguntasboas: @imramis11 leia o nome do boneco mano
+[1:10:25] raezu7: @Fox_Collie pra corrigir o zac mula
+[1:10:28] Arthurzim7: n eh melhor começar de anel doran?
+[1:10:28] f4finh4: quantas stacks ja?
+[1:10:39] yagami_ntj: @raezu7 mas oq q muda nada a ver
+[1:10:57] netwlol: A irelia só pula no minion e ele morre dog
+[1:10:59] luizmunir798: o Q dele é on hit? se sim, contra jax melhor upar W ?
+[1:11:11] Lindhollm: eu achei que ele faz pouco, para a proposta dele, sinto que tem boneco que escala mais e faz mais
+[1:11:12] erichpidde: trynda deve comer ele no top não goat?
+[1:11:15] perguntasboas: @yagami_ntj vcs sempre arrumam um jeito de ter DR no chat né? caramba, não aprendem nunca mano.
+[1:11:15] imramis11: @perguntasboas  mb
+[1:11:19] Arthurzim7: @rangerlol1 anel de doran n ehj melhor?
+[1:11:19] Lel0zz: apareceu na lcs ja né ?
+[1:11:20] fabinfernandes: Ele não tem uma lane ruim adc, usando pézinho ou cometa. Mas depende da lane também, Kalista é pra espancar ele
+[1:11:22] isshinlol1: contra aatrox  n é free match n
+[1:11:26] rodrigo_v7: Uma dúvida
+[1:11:33] perguntasboas: @imramis11 De boa mano, só tente observar mais as coisas antes de sair perguntando.
+[1:11:34] raezu7: @erichpidde trynda ta apanhando pra mt coisa no top, imagina ranged
+[1:11:39] lolzinhoderua: O w desse boneco é insuportável
+[1:11:47] joaovitordena: boneco no top incomoda mto
+[1:11:55] yagami_ntj: @perguntasboas oq q tu falando, o cara só perguntou oq era e tu respondeu na maior ignorância... q hipocrisia né
+[1:11:57] rodrigo_v7: Não jogo lol, só curto acompanhar. Pq a galera bate sempre girando? Tipo quando ele foi bater na torre free, tinha nada próximo e ficou girando?
+[1:11:59] Fox_Collie: @raezu7 é coreia, nao tem oq corrigir
+[1:12:07] so7_seven: RANGED TOP É BROKEN
+[1:12:08] Lel0zz: apareceu na lcs adc ou top ?
+[1:12:15] shingouki1010: Smolder e ornn no bot seria crime?
+[1:12:17] raezu7: @yagami_ntj ta carentona no chat ein, jesus
+[1:12:17] perguntasboas: @yagami_ntj ué porque tá mudando o direcionamento do assunto? vamos falar de você, pq encheu o saco do cara?
+[1:12:28] Fox_Collie: @Lel0zz adc
+[1:12:34] erichpidde: @raezu7 ah mano sei lá mas um trynda com ghost só vai pra cima desse smolder
+[1:12:35] rodrigo_v7: esnoobCry esnoobCry esnoobCry esnoobCry esnoobCry
+[1:12:36] yagami_ntj: @perguntasboas ????? tu é engraçado dog
+[1:12:44] perguntasboas: @yagami_ntj engraçado é você mano..
+[1:12:45] h4ssi_: se ele tivesse pego uma kill ele voltava de trinity
+[1:12:52] vinidotruan: sim
+[1:12:54] raezu7: @erichpidde problema é o que o goat disse, ele tem mt scape... nao tem como
+[1:13:03] rodrigo_v7: Obrigado
+[1:13:03] Thi_Marinho: w tambem
+[1:13:06] yagami_ntj: @raezu7 tu q ta carente querendo q o ranger te responda algo q nem tem importancia
+[1:13:06] lincolntx: @perguntasboas é crime perguntar?
+[1:13:12] clevinho1234: @rangerlol1 quem eu top 1 Br da solo kill
+[1:13:15] joaovitordena: agr como top ta meta ranged esse boneco fica mto forte
+[1:13:22] synapsedetoxing: fleetwork no bot parece mt melhor q cometa se vc joga direito a lane
+[1:13:26] raezu7: @yagami_ntj nao é responder mula, apenas arrumar. Deixa de ser carente
+[1:13:31] vinidotruan: @clevinho1234 escreve direito paizao
+[1:13:32] oDarlas: quantos stacks pro execute?
+[1:13:32] perguntasboas: @lincolntx é crime perguntar sendo que tá explícito na tela todas as respostas da sua pergunta.
+[1:13:49] vinidotruan: F catapa
+[1:13:50] lincolntx: @perguntasboas policial de chat kkkkkkkkkk
+[1:13:51] raezu7: @perguntasboas tão carente aqueles dois ali, só deixa
+[1:13:51] yagami_ntj: @raezu7 mas o assunto principal creio que seja a gameplay do smolder, né?
+[1:13:59] Texugod: inimigo das catapa
+[1:14:02] jime: pta achei paia em quase todas as situações
+[1:14:06] vinidotruan: Smolder Braum nunca?
+[1:14:06] mmaickk: o dano verdadeiro e execute sao quantos ?
+[1:14:06] perguntasboas: @lincolntx você concorda comigo mano.. no fundo vc concorda.
+[1:14:13] clevinho1234: @vinidotruan  Não sabia tem fiscal de português né 😎
+[1:14:18] shingouki1010: Smolder e ornn na mesma comp parece mto bom
+[1:14:19] antiqueralol: @rangerlol1 qual  build e runa mais roubada pra briar????
+[1:14:20] synapsedetoxing: fleetwork é mt gostoso até pra ficar sendo chato pré fight, indo e voltando
+[1:14:21] lincolntx: @perguntasboas eu concordo, so acho nada a ver querer rular o cara kkkk
+[1:14:21] AndKatKat: foda que o dano base dele é mto ruim p pegar PTA
+[1:14:24] perguntasboas: @raezu7 vou deixar mano, meros mortais.... ainda nao possuem o entendimento.
+[1:14:25] jime: é muito dificil procar dps da lane phase
+[1:14:25] alopeciaareataa: pta eu achei a lane meio pança
+[1:14:30] vinidotruan: @clevinho1234 Só pra conseguir se comunicar mesmo, por que ninguém entendeu tua pergunta
+[1:14:33] oDarlas: é o TheShy?
+[1:14:35] perguntasboas: @lincolntx viu.. eu sabia q vc concordava ;) o certo  é o certo..
+[1:14:37] MotMain: achei muito facil de punir ele no bot, e demora mais para escalar
+[1:14:48] antiqueralol: @rangerlol1 qual build e runa mais roubada pra briar????
+[1:14:52] Lel0zz: ele de cometa com lux no bot ta zaralhando no gold-
+[1:14:54] StormZera_: @jime ainda mais com essa build sem atk speed dele na bot
+[1:14:54] clevinho1234: @vinidotruan  ninguém vulgo só você né 😂😂
+[1:14:56] lincolntx: @perguntasboas uma coisa é ser bom senso, outra é ser lei kkkkk o cara pode ser lerdo meu bom
+[1:15:01] antiqueralol: hey @rangerlol1 qual build e runa mais roubada pra briar????
+[1:15:01] imramis11: O campeão é muito ruim, essa é a true
+[1:15:05] joaovitordena: achei o E dele mto forte pro top
+[1:15:09] renatoveronezz: @imramis11 true
+[1:15:11] FeIipeeeeeee: uma vez que ele usou o E errado ele perdeu flash
+[1:15:17] daleraelzeiro: 🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐🐐
+[1:15:21] vinidotruan: morre nunca
+[1:15:24] raezu7: @rangerlol1 no top, que campeões podem jogar contra isso ai?
+[1:15:25] Note52: a riot quer ver muito esse boneco no meta
+[1:15:31] perguntasboas: @lincolntx oq vc diz com "rular" eu interpreto como ajudar..
+[1:15:34] LuqiAnd: oh mãeeeeeeeee
+[1:15:35] vinidotruan: @raezu7 Quinn
+[1:15:37] juanzinho417: ele no top contra um jungle early, não vai ficaar -1 hard no jogo?
+[1:15:48] vinidotruan: q isso po
+[1:15:49] kenayto1: daninho msm
+[1:15:52] AndKatKat: dano dele é negativo mano kkkkkkk
+[1:15:54] synapsedetoxing: senna foi na ma vontade tb, se n ele matava
+[1:15:56] nagishow: one TRICK????
+[1:15:56] Note52: LEITADA
+[1:15:57] andrielsonn: quando ele começa a dar execute?
+[1:15:59] raezu7: @vinidotruan mais algum? pqp se pa, to fodido, meus campeões geralmente são bruisers ou tanks
+[1:15:59] vinidotruan: nem entendi esse dano
+[1:16:04] fabil_: ja vai de nerf prox patch
+[1:16:05] lincolntx: olkaida falou que ta nerfado kkkk
+[1:16:06] realfdsb: esse lucian trolou
+[1:16:08] bicaletto7: bicaletto7 subscribed with Prime. 
+[1:16:08] LeoSolucoesAgricolas: damn esse lucian
+[1:16:13] coswosck12: Perdão você, GOAT
+[1:16:13] vinidotruan: @raezu7 Irelia bem jogada
+[1:16:13] AndKatKat: @andrielsonn com 225 stacks
+[1:16:14] daleraelzeiro: Hellou my friend
+[1:16:22] erichpidde: eu não vejo esse boneco sendo um carry no top
+[1:16:22] lolzinhoderua: Sub de 4???
+[1:16:30] chongas_: bebel ta boa?
+[1:16:31] imramis11: Luncian do tin kkkkkkkk ntj
+[1:16:34] Kauaqua: achei ele fedido, se for pra pegar um camp que escala pega logo um kog
+[1:16:35] raezu7: @vinidotruan NotLikeThis  to lascado
+[1:16:38] TinaoDoGas: !elo
+[1:16:38] coswosck12: Culpa nossa.
+[1:16:39] Shadoow007: quantos stacks agora
+[1:16:39] StreamElements: --- Rangerzada = Master I (289 LP)
+[1:16:54] perguntasboas: @rangerlol1 vai fazer o academy hoje?
+[1:17:02] gabrielkr0nus: ue
+[1:17:04] perguntasboas: sem você não tem graça :s
+[1:17:22] Lel0zz: acho q na tf esse boneco perde muito pra outros picks, talvez jogar full side com ele seja uma boa
+[1:17:23] imramis11: @perguntasboas true
+[1:17:26] Shadoow007: quantos stacks agf pra upar
+[1:17:39] AndKatKat: 225
+[1:17:41] tainazao: mylin tá jogando de smolder top
+[1:17:49] joaovitordena: clear wave dele late game é ridiculo de rapido
+[1:17:50] erichpidde: eu acho que ele é um Ez piorado
+[1:17:57] gustaxk: é o theshy msm?
+[1:18:01] gamerhoring: ?
+[1:18:07] Ryan_RAF_: @jime vai lançar o smolder top?
+[1:18:20] punishershoww: review de que isso ai? cheguei agr
+[1:19:00] kayobaonline: esse boneco existe top no competitivo ? nao vai ser divado 100x ?
+[1:19:11] wykzinho: é o que mais acontece no meu esmeralda
+[1:19:25] Conrras: isso me deixa maluco quando acontece
+[1:19:26] isshinlol1: isso que ele joga no EU
+[1:19:26] caibalion__: voice resolvia ?
+[1:19:29] imramis11: Ae família alguém sabe quando a lck voltar?
+[1:19:35] jhonatauwu: @kayobaonline provavel, mas vamos ver, ele fica bem sabe e cleana legal
+[1:19:36] yagami_ntj: @punishershoww gameplay de smolder top da europa eu acho
+[1:19:47] joaovitordena: negócio dele n é dar dano e sim encomodar e o dps dele
+[1:19:57] Lel0zz: acho q na tf esse boneco perde muito pra outros picks, talvez jogar full side com ele seja uma boa 󠀀
+[1:19:58] Conrras: Saio do bot pra dar roaming, meu adc morre indo pra cima de dois, volto pro bot meu mid morre pra gank
+[1:20:18] lehadesguy: 1.60 é bem baixo memso
+[1:20:27] sykesq: esse boneco da dano sem parecer q as skills dele dao realmente o dano
+[1:20:57] Livansu: !elo
+[1:20:58] StreamElements: --- Rangerzada = Master I (289 LP)
+[1:21:03] lunabellerose: Mylon fez manopla
+[1:21:13] jhonatauwu: @lunabellerose era uma matchup diferente
+[1:21:18] judeuz: champ mt fraco, mt coisa para fazer ele ser relevante e carregar
+[1:21:27] juanzinho417: se não jogar slow é caixao e vela preta
+[1:21:28] lunabellerose: @jhonatauwu ss, trynda
+[1:21:28] christinaalencar: pergunta off topic: onde tu compra tuas camisas? sempre acho lindas e fico com curiosidade
+[1:21:32] imramis11: Kog>>>>>>
+[1:21:38] jhonatauwu: @lunabellerose eu sei, to afirmando
+[1:21:39] joaovitordena: vi mta gente fazendo rookern pra ele no top
+[1:21:51] moeeb1: 23 stack
+[1:21:54] perguntasboas: @christinaalencar vc por acaso ta na conta da sua avó ou mãe? ou é vc mesma?
+[1:22:03] cabeludo_burro: oloco, mais do que 21
+[1:22:05] takemeone: tem a passiva quando tem um aurelio que ganha tipo umas 70
+[1:22:08] christinaalencar: @perguntasboas ????? wtf kkkkk sou eu
+[1:22:17] perguntasboas: ahhh que top haha ^^ @christinaalencar
+[1:22:20] wykzinho: foda é explicar isso pros cara low elo na soloq
+[1:22:29] fred7xx: O smolder é pro player? @rangerlol1
+[1:22:31] juanzinho417: q
+[1:22:35] jhonatauwu: ele lança um craifendas agr
+[1:22:38] reTiredAI: @christinaalencar 2 perguntas ruins do perguntasboas
+[1:22:41] thars34: !elo
+[1:22:42] StreamElements: --- Rangerzada = Master I (289 LP)
+[1:22:47] MaaTzin: no mid tb é decente n?
+[1:22:50] perguntasboas: @reTiredAI manda no sac
+[1:23:03] kondoriano: Pq cria fendas?
+[1:23:04] Lel0zz: acho dificil encaixar ele no meta atual, tem q ser uma comp muito slow pq a tf dele é fraca no all in
+[1:23:06] jhonatauwu: doutrinou
+[1:23:07] Conrras: @fred7xx nem, é so um random da soloq um tal de the shy
+[1:23:08] imNeall: Smolder de  terno
+[1:23:12] imramis11: Cara bom
+[1:23:13] christinaalencar: @reTiredAI entao ne kkkk o caba me envelheceu 40 anos
+[1:23:17] mmaickk: @rangerlol1 vc confia no robs com esse smolder ? pergunta sincera
+[1:23:18] lucaskrebs05: humilhou
+[1:23:24] jhonatauwu: @Conrras ele é o top da lek
+[1:23:25] fred7xx: @conrras ata vlw
+[1:23:30] reTiredAI: @fred7xx nao é o theshy
+[1:23:33] isshinlol1: tu acha que esse mano ai amassaria no cblol @rangerlol1  ?
+[1:23:35] viniruh: ele n tinha visão do aurelion
+[1:23:41] elekidgod: krl
+[1:23:42] realfdsb: slc, essa ult merece um nerf
+[1:23:43] onezerus: !elo
+[1:23:44] StreamElements: --- Rangerzada = Master I (289 LP)
+[1:23:57] imNeall: @rangerlol1 tlg que ultar pra tras diminui o tempo q a ult bate em quem ta perto ne goat
+[1:24:06] Conrras: @reTiredAI eu nao disse q era KEKW
+[1:24:10] imramis11: Ult da zero de dano
+[1:24:32] Conrras: eu sinto q o R do smolder nao da dano
+[1:24:47] erichpidde: @imramis11 da dano mas tem que acerta no meio, é igual a da Sena
+[1:24:47] necaris_x: @imramis11 tá louco? Dá muito dano
+[1:24:49] reTiredAI: @reTiredAI esquizo
+[1:24:51] jhonatauwu: @imramis11 é q escala com crit e tals, ai n da mt dano nessa build
+[1:25:07] juanzinho417: acho que um pouco mais de scaling com a passiva fica perfeito
+[1:25:08] Lel0zz: a clear wave é absurda
+[1:25:24] andrielsonn: o execute dele é muito roubado
+[1:25:48] erichpidde: ele funciona também com build de assassin
+[1:25:48] tgev: mostr a build. goat
+[1:25:48] jhonatauwu: ve algum jogo de manopla dps
+[1:25:52] chongas_: lvl 17 contra 13
+[1:26:18] imramis11: A passiva dele é muito roubada principalmente late game
+[1:26:20] FlNDOW: quem é esse
+[1:26:33] joaovitordena: essa lyandri nela ta mto forte
+[1:26:37] antiqueralol: @rangerlol1 qual build e runa mais roubada pra briar????
+[1:26:46] Priimezera: aquece pro bagre ou goat?
+[1:26:49] petekalol1: mas se ele nao tivesse tp ele nao taria na fight
+[1:27:05] mmellopkr: se ele tivesse ghost ele não tinha dado esse tp mid
+[1:27:12] erichpidde: nerfaram letalidade pra ela não?
+[1:27:12] isshinlol1: ele era da Rogue
+[1:27:14] daniel20aquino1: foi muito nerfado parch passado
+[1:27:14] kenedyjon: @petekalol1 se ele n tivesse tp ele n taria puxando aquele top
+[1:27:21] ruuanzera: Se ele tivesse ghost ele limpava, mas não teria chegado sem o TP lá 💁🏾‍♂️
+[1:27:21] callebebr: Goat o q tu faria pra campea mais lixo desse jogo (Shyvanna)?
+[1:27:23] gabrielkr0nus: dava tempo de ele chegar andando seus bronzes
+[1:27:23] obuenoh1: boa boa momozu
+[1:27:32] joaovitordena: até alta
+[1:27:37] joaaososo: roubado
+[1:27:38] forgettlol: e uma hydra nele?
+[1:27:38] rozzatti1: !elo
+[1:27:39] thuggbatata: alto pra crlh
+[1:27:39] StreamElements: --- Rangerzada = Master I (289 LP)
+[1:27:40] vorkesz: isso é normal?
+[1:27:41] Rywsui: dragao anciao e 10?
+[1:27:47] joaaososo: boneco eh mto forte lategame
+[1:27:51] Jackinnss: smolder late game e bizarro
+[1:27:52] Marcelo_CastroC: coletora so no Q
+[1:27:52] sppotty: isso estaca com coletora? nunca testei
+[1:27:53] erichpidde: será que comba com coletora?
+[1:28:00] nagishow: ancião é mais se pá pô
+[1:28:09] joaovitordena: boneco ta tankando tmb
+[1:28:21] jhonatauwu: @sppotty acho q n
+[1:28:22] imramis11: Late game ele é rei
+[1:28:42] gamerhoring: goat e o projeto body builder
+[1:28:50] stormxisd: 20%
+[1:28:50] amadeujosefino: Boa tarde Sr. Sua internet cairá em instantes devido a pendências de pagamentos das suas faturas há 3 meses. Faça o pagamento e seu acesso retornará assim que o boleto for compensado. 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, boa tarde, tchau pessoal Cheer10
+[1:29:07] jhonatauwu: essa bel pqp ksdkadaskasdk
+[1:29:23] imramis11: @amadeujosefino  enviando mentiras
+[1:29:23] neeto912: passiva comba com coletora?
+[1:29:25] ruuanzera: Se ele tivesse ghost ele limpava, mas não teria chegado sem o TP lá 💁🏾‍♂️
+[1:29:27] kondoriano: é pra da GG mesmo
+[1:30:10] reTiredAI: @neeto912 ela executa com mais vida que a coletora, entao nao
+[1:30:17] netwlol: Lunático
+[1:30:20] dien_f: goat, quando fazer warmog na jg?
+[1:30:21] yotrabsseia: o q e isso q o ranger ta assistindo?
+[1:30:21] 77focato: @rangerlol1  tem um br tt de lee sin jg kkkk
+[1:30:27] pepsi__999: só pelo contexto pq eu cheguei agora, pq o ranger tá vendo esse game?
+[1:30:31] callebebr: uma anula a outra
+[1:30:49] Novvve: Não sei por que existe Warmog ainda
+[1:30:49] isshinlol1: tu acha que o smolder scala que mais q  aurelion @rangerlol1  ?
+[1:30:50] callebebr: até pq o execute da passiva é maior q o da coletora (salvo o erro)
+[1:30:52] nagishow: de quem é esse replay?
+[1:30:53] kondoriano: pelo slow sepa
+[1:30:58] Lindhollm: criafendas tbm era bom
+[1:31:04] joaaososo: bem melhor msm, conta com a colhedora q tem critico
+[1:31:12] celinhoweber: replay de quem?
+[1:31:15] Lel0zz: pelo scale da passiva dele não é melhor ele no mid ?
+[1:31:21] imramis11: O GOAT tem esse smolder?
+[1:31:21] tainazao: @celinhoweber top da koi
+[1:31:22] 77focato: @rangerlol1  nao vai na live do tt e nao veja ele de lee sin jg pfv kkkkk
+[1:31:23] daniel20aquino1: lw de corts cura sempre?
+[1:31:42] celinhoweber: @tainazao ata, vlws
+[1:31:58] jackventura: Boa tarde GOAT, que partida essa que você está degustando?
+[1:32:04] Rywsui: o burn da liandry se mata minion conta pra passiva mo bom
+[1:32:21] jackventura: Entendi, muito obrigado
+[1:32:58] imramis11: GGWP
+[1:32:59] kondoriano: quase 400 stack
+[1:33:03] andrehh0: vê o brtt de lee pls
+[1:33:19] milenavcb: de quem foi essa play ranger?
+[1:33:19] mmaickk: play de smolder pra gente agr goat ?
+[1:33:20] maoupunch: Eu acho q o smoldrr anda  0.5x
+[1:33:21] iourN: depois dos 225 os stacks fazem oq ?
+[1:33:25] aleqxs_: tao jogando na lec é de tf top
+[1:33:25] andrehh0: ele tá jogando agora
+[1:33:28] touperao: ranger qual a build melhor pra karthus
+[1:33:37] deafem: tomou punição de que GOAT
+[1:33:49] kondoriano: Quantos stack precisa pra dar o mesmo execute do elder?
+[1:33:55] truzalol: Atualiza o placar?
+[1:34:04] Lindhollm: malho congelado, saudades
+[1:34:09] imNeall: liandry
+[1:34:13] iourN: ah nao , eu quero dizer ... depois que pega o execute os stacks aumentam status puro só ?
+[1:34:13] imramis11: O goat têm esse smolder?
+[1:34:19] Beidou_xD: liandrys n ?
+[1:34:22] touperao: valeu dog
+[1:34:26] henriquehxhh: @rangerlol1 joga de ahri kskskskkskks
+[1:34:47] TinaoDoGas: n faz apice da tempestade?
+[1:34:59] 1przy_: @rangerlol1 uma champion pool boa pra sup ?
+[1:35:02] kondoriano: Dei IK em 3 sem bota e ancião antes de nerfarem apice da tempestade LUL
+[1:35:08] Pikiniki: !elo
+[1:35:09] StreamElements: --- Rangerzada = Master I (289 LP)
+[1:35:13] maspoxajoao: apice da tempestade nao vale nem para akali ?
+[1:35:18] matheus55579uhj: Joga de corki
+[1:35:24] maoricore_: apice da tempestade pra akali eh daora ainda?
+[1:35:31] imramis11: Até o Tay? Kkkkkk
+[1:35:35] vorkesz: qual o corte do gm?
+[1:35:40] henriquehxhh: Algm sabe se ahri ta boa nesse patch família???
+[1:35:47] gamerhoring: quase GM em goat
+[1:35:52] judeuz: hj tem react?
+[1:35:56] eERICeeeee: @henriquehxhh a build tá cara ainda
+[1:35:57] iourN: Goat eu estava com vc ontem sobre o Titan x Cariok , Titan fez chover enquanto cariok só fez perfeitamente o basicao
+[1:35:57] IgxrLeal: lich bane
+[1:35:58] ebertmota: Acho que pra Evelyn ainda compensa fazer o apice
+[1:36:02] s0lkiee: Kartus mid??
+[1:36:07] cabeludo_burro: lich pra ela é core
+[1:36:16] imNeall: cria fendas e liandry é a build antes de inventarem os miticos
+[1:36:17] vorkesz: vai fazer academy hj goat?
+[1:36:18] henriquehxhh: Ahhh
+[1:36:19] Lindhollm: vai participar do academy hj?
+[1:36:33] rodrigo_v7: Não jogo lol, só curto acompanhar. Dúvida, pq bate sempre girando? As vezes tá free na Lane e fica girando e não bate parado? É reset de AA?
+[1:36:40] imramis11: Vai participar do academy goat?
+[1:36:54] jasinda17: vai de Cassiopéia aí GOAT
+[1:36:54] cabeludo_burro: ta mesmo
+[1:37:05] mmaickk: @jasinda17 ia ser foda
+[1:37:15] nagishow: só jogo com essa porra e perdi uma partida 18/4
+[1:37:16] eduardoalexandre157: Goat agora só nos dados ..
+[1:37:18] bandidodocrime: porque orianna tá tão ruim?
+[1:37:23] maspoxajoao: ela ser muito pickada tbm tem gaver com isso ai nao ?
+[1:37:25] LigthBlood: LigthBlood subscribed with Prime. 
+[1:37:26] rodrigo_v7: Leona joga vôlei?
+[1:37:27] vinic1nhu: TF
+[1:37:29] IgxrLeal: ql site é esse ?
+[1:37:31] mmaickk: queria ver um ez, ele jogou bem esses dias mas a live caiu
+[1:37:37] vinic1nhu: picka TF
+[1:37:43] danse41: ziggs
+[1:37:45] eduardoalexandre157: Kkkkk
+[1:37:45] cabeludo_burro: akali pls
+[1:37:51] netwlol: KEK
+[1:37:56] ZarinaMab: viu os provaveis nerfs pro proximo patch goat?
+[1:37:56] iourN: Alkaida tá feliz
+[1:37:57] sr0000000: esse boneco ta meio morto
+[1:37:57] kondoriano: Boneco ta forte pra desgraça, perde nem ferrando
+[1:38:00] eduardoalexandre157: Ele tem esse Aurélio gays ??
+[1:38:03] mmaickk: live do kami ?
+[1:38:09] Lindhollm: aurelio vale por dois smolder
+[1:38:17] govinsk: @eduardoalexandre157 precisa ter?
+[1:38:21] jeeybas: @rangerlol1  coe alguma dica pra aprender a jogar adc??
+[1:38:24] bandidodocrime: @mmaickk proibido nordestinos?
+[1:38:26] cabeludo_burro: smolder top po, é meta, ja ouviu falar? kkkkk
+[1:38:40] imramis11: Como tá o winrate do sylas ?
+[1:38:47] mmaickk: @bandidodocrime era pelo pick kkkkkk
+[1:38:53] dedas1411: Trade dele lvl 1 tá mt bom pq tá ganhando 3 stacks cada bagulho lan
+[1:38:56] zWitherz: Upa  Q,E,W
+[1:38:56] rootssx: Skin de yummi esse smold3r
+[1:38:58] alicelandim: o nick do nautilus tf
+[1:39:03] Lindhollm: ta valendo transcendência , não tá fazendo mais item de cdr
+[1:39:11] bsevero: chall nick em ingles
+[1:39:11] govinsk: @rootssx como assim dog
+[1:39:12] IgxrLeal: GOAT, o Alphari ainda tá no Brasil?
+[1:39:21] imramis11: Yone 1v9
+[1:39:22] inhonhokyiok88: deve ta com o mmr ruim pra cair nessa fila
+[1:39:30] vinic1nhu: Goat, te assistir mais do que vejo minha namorada, eh considerado traicao?
+[1:39:30] jasinda17: pickou aurelion automaticamente começa a ter uma visão diferente do povo nordestino kkkkkkkkkk
+[1:39:35] rootssx: @govinsk a splash parece um gato, não dragao
+[1:39:51] inhonhokyiok88: dragon vs dragon no mid
+[1:39:53] bsevero: x1 de dragao
+[1:39:57] juanzinho417: aurelion merecia mais
+[1:39:57] netwlol: Ele tinha que ser mais gordinho
+[1:40:02] imramis11: Só perde pro shaco
+[1:40:18] MaxArthuzz: @rangerlol1 vc engana sentado parece que é magro man efeito sejuani
+[1:40:19] bsevero: shaco nao tem lore
+[1:40:22] kkkkkaiky: Pena q ingame o aurelion é meio fraco
+[1:40:24] AguiTFT: shaco n tem lre
+[1:40:26] alopeciaareataa: lore do shaco: literalmente palhaço
+[1:40:27] lleko_: ele segura o sol na mao
+[1:40:36] LucasFelipeCDM: kkkkkkkkkkkkkkkkkkkkkkkkkkk
+[1:40:36] Tarllys_Atilan: ShenLong
+[1:40:37] dmentoriahs: O universo dele não estar nas bolas ?
+[1:40:38] IgxrLeal: Shaco não tem lore.
+[1:40:39] DzzO0: shaco é o coringa buffado kakakakakaka
+[1:40:43] cabeludo_burro: lembra mt meu começo
+[1:40:46] TRIlNDADE: shaco nem lore trm
+[1:40:49] mmellopkr: Quem faz o palhaço rir?
+[1:40:49] imramis11: Shaco é um palhaço pô mó daora
+[1:40:51] eduardoalexandre157: Saco é ridículo . Bani esse animal aí falando bosta kkk
+[1:40:52] AzuriaSama: shaco é o coringa da shopee
+[1:40:55] dieguinhozbs: Nao faz
+[1:40:55] ingloriamori22: paiaço
+[1:40:55] sk_dente: !elo
+[1:40:56] 1zest: shaco pode ser tudo mas tbm pode ser nada
+[1:40:56] StreamElements: --- Rangerzada = Master I (289 LP)
+[1:40:58] inhonhokyiok88: para de passar a barba no mic ae goat
+[1:40:59] leoncomunista: faz
+[1:40:59] suricato_de_hornet: @dmentoriahs ta nas minhas
+[1:40:59] iourN: gota é só adc
+[1:41:00] geraldonto: Ninguém sabe como tá a mente do palhaço
+[1:41:14] netwlol: Krlaho, esquivou do grab
+[1:41:15] trash_cak3: Aurelion segura o universo, mas se o sol cair ce moree?
+[1:41:15] naokixx01: kkk
+[1:41:18] LucasFelipeCDM: tu ficou beijando o nexus 5seg
+[1:41:18] vinic1nhu: aurelio no flash
+[1:41:26] leoncomunista: esquivo esquivo lei tus deretchos
+[1:41:35] LucasFelipeCDM: passiva
+[1:41:36] dillydavi: o jogo ta sem som msm?
+[1:41:39] truzalol: Sem som
+[1:41:39] netinho008: o
+[1:41:42] gamerhoring: b lvl1?
+[1:41:43] dedas1411: N tamo escutando o o league goat
+[1:41:45] imramis11: Essa skin é paia dog
+[1:41:51] govinsk: aurelion foi bem nerfado
+[1:41:54] Lindhollm: faz liandry e depois rylai
+[1:41:57] netinho008: o Q ganha por sec de dano o E ganha por abater minion
+[1:41:58] vinic1nhu: goat por 1 motivo
+[1:42:00] iYEAP: Começa de E Q , prioriza Q e W
+[1:42:03] inhonhokyiok88: esse ruido é da barba no mic???
+[1:42:04] dillydavi: ae
+[1:42:12] KaLiLpY: Meu mano o Aurilion foi nerfado
+[1:42:26] iourN: o Q gasta mt mana antes do 6
+[1:42:28] cabeludo_burro: guerra de skaling, smolder vs aurelion
+[1:42:34] lotusblack97: @Calilpy vai receber outro nerf proxima semana
+[1:42:36] imramis11: @iyeap o goat sabe oq tá fazendo, afinal ele é o goat
+[1:42:40] ThisCharminWoman: dragaozao vs dragaozinho
+[1:42:41] clovisfi: Aurelion antigo engolia esse smolder vivo
+[1:42:42] bnleal: essa é a famosa lane budista
+[1:42:48] cerseizinha: faz academy hoje ranger?
+[1:42:51] iYEAP: @imramis11 kkk sempre
+[1:42:56] lotusblack97: Aurelion ta com 53.5% WR no high elo, ai vai tomar mais 1 nerf proxima semana
+[1:43:29] imramis11: F
+[1:43:31] baruka123: ?
+[1:43:32] vinic1nhu: aurelio por 1 motivo
+[1:43:34] lotusblack97: Tu ganhava a troca se n tivesse cancelado o Q
+[1:43:35] inhonhokyiok88: solado
+[1:43:37] CarrySteps: goat por um motivo
+[1:43:38] govinsk: w pra frente de aurelion meteu o loco
+[1:43:39] fofort2: é o rager
+[1:43:40] joa0_vict0r: !elo
+[1:43:41] StreamElements: --- Rangerzada = Master I (289 LP)
+[1:43:41] leoncomunista: joga y joga
+[1:43:46] lotusblack97: acontece, missclick
+[1:43:48] iYEAP: tem tp pq compra bota? eu sou contra essa jogada uashuahsa
+[1:43:52] imramis11: Kkkkkkkkkk
+[1:44:07] lotusblack97: @govinsk é assim q se joga com ele hj em dia
+[1:44:07] secadordemendigo: !elo
+[1:44:08] StreamElements: --- Rangerzada = Master I (289 LP)
+[1:44:27] InnocenceEvanescence: kkk
+[1:44:31] bnleal: aq acabou
+[1:44:35] Aslipe: x1 de dragão?
+[1:44:41] caiozinn19: next
+[1:44:41] govinsk: @lotusblack97 vida dele po andava pra frente nem fudendo
+[1:44:41] amadeujosefino: Batatinha quando nasce, se esparrama pelo chão, Faz o L, sorri pro sol, com a vida não tem não. Cabelinho na régua, estilo não vai faltar, Água de torneira refresca, pra sede matar.  Perereca no brejo, canta sem parar, Piririco na festa, todos a dançar. Juntos nessa rima, alegria vem brotar, Na melodia da vida, todos a cantar Cheer10
+[1:44:43] thenextstationisshibuya: mds
+[1:44:50] serginblz: gravathar?
+[1:44:50] InnocenceEvanescence: ta certo isso ranger ?
+[1:44:50] M4tewsLOL: Ranger tem quantos Cblol?
+[1:44:51] imramis11: Mb
+[1:44:53] bandidodocrime: kkkkkkkkkkkkkkkkkkkkkk
+[1:45:00] govinsk: @M4tewsLOL 2
+[1:45:00] Tibureu: @M4tewsLOL 2
+[1:45:03] inhonhokyiok88: vai virar polst no X
+[1:45:07] lotusblack97: @govinsk ele ganhava a troca se n tivesse dado missclick e cancelado o Q
+[1:45:07] henriqw_7: aqui que é a live do mono aurelion?
+[1:45:10] iYEAP: W pra chegar na lane nao? rsrs
+[1:45:19] scottZinnN_: @amadeujosefino eh espalha rama pelo chao dog
+[1:45:19] Chrisskillerxd: só o ig
+[1:45:23] bnleal: ninguem xinga ninguem
+[1:45:27] imramis11: Kkkkkkkkkk
+[1:45:34] govinsk: KKKKKKKKKKKKKKK
+[1:45:37] 063_sebas: kkkkkkkkkkkkkkkkkkkk caralho
+[1:45:48] proerd7_: ngm se estressa
+[1:46:01] imramis11: @proerd7_ kkkkkkkkkkkk
+[1:46:14] marceloww99: @rangerlol1 usa o E atras dele pra ele nao escapar do seu Q
+[1:46:15] 063_sebas: o maior inimigo do goat é ele mesmo kkkkk
+[1:46:20] HeyFyx: 23 poeira 6min kkkkkk ta certo ? kkk
+[1:46:47] two_paypal_182: tem q usar a bolinha pra farmar poeira goat
+[1:46:48] lotusblack97: @HeyFyx N, mas n a o fim do mundo tbm
+[1:46:59] milenavcb: kkkkkkkkkkkkk assustei
+[1:46:59] bnleal: como q stacka esse bagulho do aurelion?
+[1:47:03] renatotorrestchufi: !elo
+[1:47:04] StreamElements: --- Rangerzada = Master I (289 LP)
+[1:47:15] iMayeer: esse smolder ai ta vingando mais mid que ac
+[1:47:16] Altzen: @bnleal Farmar no E e dar dano noo E em champ inimigo se nao me engano
+[1:47:17] HeyFyx: @bnleal os minios tem que morrer dentro do teu E
+[1:47:20] lotusblack97: @bnleal Minion morrendo no E + Q procando nos campeões inimigos
+[1:47:27] iYEAP: kkkkkkkkk acertou o fim do rabinho
+[1:47:46] two_paypal_182: ta usando muito cedo a bolinha
+[1:47:52] marceloww99: @rangerlol1 usa o E atras dele pra ele n escapar do teu Q
+[1:47:56] two_paypal_182: tem que usar pra executar
+[1:48:01] junimsouza1: kkkkkkkkkkk
+[1:48:02] renan_ae22: gg
+[1:48:05] xxpudimraivosoxx: Kkkkkk
+[1:48:19] Lukas_moonwalker: !elo
+[1:48:20] StreamElements: --- Rangerzada = Master I (289 LP)
+[1:48:21] iYEAP: usa o W pra chegar na lane
+[1:48:23] zWitherz: Voa da base GOAT
+[1:48:23] Altzen: W pra voltar pra lane nunca?
+[1:48:44] two_paypal_182: GOAT, para de usar cedo o E, tem que usar pra stacar e executar, senao vc nao farma poeira
+[1:48:46] LeagueofBR: goat nao tem as manhas
+[1:48:59] imramis11: Late game quem ganha a match up  ?
+[1:49:21] dod0ubleg: !elo
+[1:49:22] 063_sebas: !elo
+[1:49:23] StreamElements: --- Rangerzada = Master I (289 LP)
+[1:49:23] gamerhoring: true todo farm tem q ser no e
+[1:49:25] ovomelete: delay 15 seg
+[1:49:33] gamerhoring: todo farm tem que ser no E goat
+[1:49:41] lotusblack97: Aurelion n é um champ tão facil de stackar na primeira vez
+[1:49:44] Lindhollm: depois que fecha um item, o aurelio só dá  W e mata
+[1:49:50] lotusblack97: W
+[1:49:51] cecinya: Inimigo dos stack
+[1:49:51] iYEAP: w
+[1:49:55] henriqw_7: w
+[1:49:55] juanzinho417: w
+[1:49:58] hrickbrando: w
+[1:50:02] zWitherz: S
+[1:50:05] gamerhoring: inimigo do Aurelion
+[1:50:08] leoncomunista: 10/1 eu ja tinha puxado o ff
+[1:50:12] lotusblack97: Usa ER
+[1:50:15] gamerhoring: KAMI FICARIA ABISMADO
+[1:50:20] LeagueofBR: combinho de E+R
+[1:50:28] thenextstationisshibuya: aurelion do grev @rangerlol1
+[1:50:34] imramis11: @gamerhoring true
+[1:50:38] xxpudimraivosoxx: FF isso
+[1:50:49] allatars: Tockers já tá churrascado com a soloq br. O goat está com a mente blindada hj?
+[1:50:49] cristzovenos: é quando se está desacreditado que acontecem as coisas mais fascinantes Kappa
+[1:50:50] xxpudimraivosoxx: 15
+[1:50:58] zaphodh: naut 3 karma 1
+[1:51:02] clovisfi: 3 a 1 naut fala da karma
+[1:51:10] iMayeer: essa karma ta mais presente que o maoka ue
+[1:51:26] xxpudimraivosoxx: E vc
+[1:51:28] marceloww99: e o GOAT n é
+[1:51:30] ovomelete: todos, somos brasileiros
+[1:51:32] inhonhokyiok88: os 3
+[1:51:33] cabeludo_burro: acho que é a karma e o chat
+[1:51:36] zaphodh: eu diria os 3
+[1:51:39] darkold: D:
+[1:51:41] clovisfi: Ta botando dificuldade ja
+[1:51:44] cabeludo_burro: ikkkkkkkkkkkkkkkkkkkkkkkkkkk
+[1:51:45] demiris: kkkkkkkkkk
+[1:51:49] zaphodh: naut 4 karma 1
+[1:51:50] gassalol: bafora e mama
+[1:51:50] imramis11: NT
+[1:51:56] M4tewsLOL: Até por cima o cara vem
+[1:51:58] Altzen: musiquinha goat?
+[1:51:58] rootssx: Ff
+[1:52:00] lotusblack97: Esse Naut ta foda em
+[1:52:00] iMayeer: eu n vi esse maokai ainda
+[1:52:01] klessandra: Devia ter aceitado a morte dog
+[1:52:02] darkold: time bom
+[1:52:07] 1zest: yone churrasqued
+[1:52:08] coswosck12: i yo confesso que no sue tão fuerteeee
+[1:52:10] thenextstationisshibuya: usa ER
+[1:52:11] Dougx_Live: Realmente vc é melhor que o Brucer no mid, mas tá querendo ficar no msm nível que ele
+[1:52:11] judeuz: aqui é 15
+[1:52:12] IgxrLeal: Acho que não vemos a quest do lvl14.
+[1:52:18] coswosck12: como yo pensava
+[1:52:18] Altzen: cade a musica goat?
+[1:52:19] Sprunger: Goat, to com 9 derrotas seguidas, o que fazer para não coringar de vez na soloq br?
+[1:52:22] celljunior: kkkkkkkkkkkk
+[1:52:23] inhonhokyiok88: NÃO EXISTE LOSERS QUEUE
+[1:52:32] allatars: seu time já derreteu
+[1:52:36] Skadoshhh: !rivalry
+[1:52:39] vitalera1: DAWEUHAWEUHAEWUHAEWUH
+[1:52:40] feiyss: kkkkkkkkkkkkkk
+[1:52:41] lunaticlun4: KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+[1:52:44] iMayeer: maokai apareceu na tela KKKKKKKKKKKKKKKKKKKKK
+[1:52:45] xxpudimraivosoxx: Kkkkkkkkkk
+[1:52:46] lauranicolao: ja entro na live assim
+[1:52:48] demiris: ff
+[1:52:50] celljunior: aq cabo
+[1:52:51] lotusblack97: ER GAP
+[1:52:51] vitalera1: k
+[1:52:52] dialetika: kkkkkkkkkkkkkkkk
+[1:52:55] gevslol: sup gap
+[1:52:55] M4tewsLOL: OLHA E R MONSTRO
+[1:52:56] pogdeleite: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[1:52:56] gustayt: kkkkkkkkkkkkkkkkkkkkkkkkk
+[1:52:57] milenavcb: kkkkkkkkkkkkkkkkkkk
+[1:52:57] lunaticlun4: Ranger esse teu dragão ai é uma lagatixa pprt
+[1:52:57] klessandra: calma goat
+[1:52:59] ducha_1: kkkkkkkkkkkkkkkkkkkkkk
+[1:53:00] Alisson7_: kkkkkkkkk
+[1:53:01] vitalera1: coe cara DAWEUHAWEUHAEW
+[1:53:02] ecoquality6568: kkkkkkkkkkkkkkkkkkk
+[1:53:04] Jean_Sousa_: ue
+[1:53:05] EttoreTotoro: de aurelion ou maokai
+[1:53:06] Mylonzete: 2043 raiders from Mylonzete have joined! 
+[1:53:06] filhodobatman_: W de aurelion?
+[1:53:07] CaiamNiegy: KKKKKKKKKKKKKKKKKK
+[1:53:07] zaphodh: de aurelion?
+[1:53:07] zandr3: de aurelion
+[1:53:10] demiris: esse dragão virou calango
+[1:53:10] sidneypslv: de aurelion?
+[1:53:10] rafichera: ué
+[1:53:12] feiyss: kkkk
+[1:53:13] Altzen: de aurelion?
+[1:53:14] gamerhoring: CORINGOU
+[1:53:16] two_paypal_182: falta odio nessa largatixa ai
+[1:53:22] LuccaBazooka: SALVE SALVE mylonOK
+[1:53:24] CaiamNiegy: nao consegue apertar W d aurelion @rangerlol1  ?
+[1:53:25] iMayeer: o maokai ta tao perdido que ate perdeu o nome do champ
+[1:53:27] demiris: maokai né, ele falou errado zzz
+[1:53:27] duagreste: gank do mylin
+[1:53:29] Frosted_10O: Gank do mylon
+[1:53:29] vitalera1: essa quest é mt forte
+[1:53:29] LuqiAnd: pq n fecha bota? @rangerlol1
+[1:53:34] Jean_Sousa_: q
+[1:53:40] Altzen: Fala portugues agora, obrigado
+[1:53:40] munirg1: gank do mylin
+[1:53:41] vitalera1: da 50 almas
+[1:53:41] ducha_1: tem q matar ele
+[1:53:43] flu_kabal: gank do mylon
+[1:53:46] Sprunger: goat, to com 9 derrotas seguidas na sooq br, o que fazer para não coringar de vez?
+[1:53:47] inhonhokyiok88: VIM DO MYLIN
+[1:53:49] imramis11: Mylin god
+[1:53:55] vitalera1: @ducha_1 assist tb
+[1:53:56] gamerhoring: GOAT
+[1:54:00] lotusblack97: minimo de 15 stacks, maximo de 60, stacks só contam dps da missão começar
+[1:54:00] duagreste: KKKKKKK
+[1:54:01] flavincharmoso: kkkkkkkkkk
+[1:54:05] Altzen: Kkkkkkkkkkkkkkkkkkkkk coe cara
+[1:54:06] gamerhoring: EXISTE SIDEQUEST NO COMPETITIVO?
+[1:54:06] Angeljrm: @Sprunger melhorar
+[1:54:10] celljunior: coitado do maokai kk
+[1:54:11] mephysto_tagman: 19x4 kkkkkkkk
+[1:54:12] flavincharmoso: que carinho com jungle
+[1:54:27] sillarleaf: @rangerlol1 vc que é do Sul já chegou a participar de uma suruba gaucha?  Aquela q só tem macho
+[1:54:36] gamerhoring: EXISTE SIDEQUEST NO COMPETITIVO?
+[1:54:37] lotusblack97: @gamerhoring dificil é ver champ q tem quest no competitivo
+[1:54:41] flavincharmoso: trye
+[1:54:41] Altzen: agradece o gank do mylon dog
+[1:54:43] Sedylon: partida incarregável
+[1:54:43] izabellahirai: @sillarleaf pqp
+[1:54:45] iMayeer: ta quebrado
+[1:54:48] imramis11: Até o cariok faz isso ai
+[1:54:51] sidneypslv: q interação do aurelion é essa guys? por conta do smolder?
+[1:54:51] flavincharmoso: true*
+[1:54:59] marceloww99: se é facil entao joga direito
+[1:55:00] vitalera1: @sidneypslv sim, smolder
+[1:55:01] natanation: !elo
+[1:55:02] StreamElements: --- Rangerzada = Master I (289 LP)
+[1:55:08] yellow_stars_: Vc tem esse Aurélio ranger ,
+[1:55:14] gamerhoring: @lotusblack97 Com aurelion e smolder é capaz agora
+[1:55:20] LuqiAnd: q ult fopi essa
+[1:55:27] iYEAP: jesus ai nao jogada feiona uashuas
+[1:55:27] M4tewsLOL: Gank do mylon dog
+[1:55:29] demiris: kkkkkkkkkkkkkkkkkk
+[1:55:30] Jean_Sousa_: bafora y mama
+[1:55:32] flavincharmoso: K
+[1:55:33] xxpudimraivosoxx: Tá poha
+[1:55:33] henriqw_7: KKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+[1:55:33] thenextstationisshibuya: kkkkkkkkkkkkk
+[1:55:34] flu_kabal: kkkkkkkkkkkkkkkkkkkkkkkkk
+[1:55:37] fefeecs: KKKKKKKKKKKKKKK
+[1:55:39] rafichera: KKKKKKKKKKKKKKKKKKK
+[1:55:40] mafeuso: KKKKKKKKKKKKKKKKKK
+[1:55:40] gggggroovy: kkkkkkkkkkkk
+[1:55:42] iMayeer: maokai mvp
+[1:55:42] flavincharmoso: KKKKKKKKKKKKKKKKKKKKKKKKKKKK
+[1:55:42] celljunior: calma calabreso
+[1:55:43] filhodobatman_: chala
+[1:55:43] klessandra: TF da Esqueletica ai
+[1:55:43] DavicoRj: Tem q dar
+[1:55:45] AannoY: Kskskskskkssksksk
+[1:55:45] munirg1: KKKKKKKKKKKKKK
+[1:55:49] guts1977: Calma goat kkkkkkkkk
+[1:55:50] thenextstationisshibuya: @rangerlol1 maokai é mt difícil de jogar
+[1:55:52] subhrz: vai uma de lb goat
+[1:55:52] flavincharmoso: GOAT
+[1:55:53] gevslol: CALMA GOAT SUP GAP
+[1:55:54] Sedylon: mestre tem partidas impossíveis
+[1:55:55] netwlol: A Samira deu um flash pra frente no meio de 5
+[1:55:56] Altzen: Vim do mylon se apresenta
+[1:55:58] lotusblack97: @gamerhoring aurelion vai de nerf proximo patch, n sei se rola de ele aparecer no competitivo
+[1:55:59] proerd7_: ai sim ranger jogando na intz parabens mano
+[1:56:00] iMayeer: se fosse na coreia era outra coisa
+[1:56:01] inhonhokyiok88: nem vc acredita nisso goat
+[1:56:05] Torzach1: kkkk
+[1:56:06] Jean_Sousa_: intz xala prx split
+[1:56:08] mwldigital: vim do mylon
+[1:56:08] imramis11: Cariok está rindo nesse exato momento
+[1:56:09] suricato_de_hornet: kkkkkk
+[1:56:11] judeuz: react
+[1:56:11] marceloww99: com os piores tbm
+[1:56:12] bhwkg: Q denúncia do goat llkkkkkk
+[1:56:16] M4tewsLOL: Gank d9 mylon po
+[1:56:18] rodzzzs: Histórico
+[1:56:20] gabrielfungarooo: lol br é 99% aberrações
+[1:56:21] IgxrLeal: kkkkkkkkkkkkkkkkkkkkkkkk
+[1:56:24] matheussoadias: !elo
+[1:56:26] StreamElements: --- Rangerzada = Master I (269 LP)
+[1:56:26] judeuz: na escuta react
+[1:56:28] junimsouza1: kkkkkkkkkkkkkkkkkk
+[1:56:35] bolotinhaz: hoje tem ACADEMY?
+[1:56:37] imramis11: Foi NT
+[1:56:52] milenavcb: ja saiu o na escuta?
+[1:56:53] gggggroovy: a gente já chega no ranger reclamando do time... nd diferente debaixo do sol KSJALKSJLKAJSJALKSJLKASJKL
+[1:56:53] rmdla: Canal mano titas
+[1:56:58] siriuna: ranger lol gay
+[1:57:02] Sedylon: O CARA TA CORINGADO
+[1:57:03] gggggroovy: god goat
+[1:57:03] imramis11: True
+[1:57:03] kimarge1: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[1:57:04] galdinofm: kkkkkkkkkkkkkkkkkkkkkkkk
+[1:57:04] cerseizinha: kkkkkkkkkkkkkkkkkk
+[1:57:05] marceloww99: kkkkkkkkkkkkkkkkk
+[1:57:06] ovomelete: maokai só tem vitoria, refem demais
+[1:57:06] matheussoadias: !elo
+[1:57:06] iMayeer: aiai esse ranger.. ''pica pau passando pano''
+[1:57:07] mickeyyyxd: off role sim kkkkkkkk
+[1:57:07] StreamElements: --- Rangerzada = Master I (269 LP)
+[1:57:09] poweroftt: kkkkkkkkkkkkkkkkkk
+[1:57:10] Nardinhuu: MANDA O JG ASSISTIU O CARIOK JOGANDO, MERECEU O 105
+[1:57:11] juninhudias117: MAOKAI ABUSER
+[1:57:14] vipor_idk: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[1:57:15] KumyOhkuSeul: Kkkkkkkkkkkkk
+[1:57:16] leooschirmer: te comporta goat
+[1:57:18] VINAOfc: KKKKKKKKKKKKKKKKKKKKKKKK
+[1:57:19] lotusblack97: kkkkkkkkkkkkkkkkk
+[1:57:19] Torzach1: 105 GOAT
+[1:57:19] victorpavan08: kkkkkkkk
+[1:57:20] vitalera1: sai do fake cariok
+[1:57:20] mmellopkr: AFHUASIUFHASIUHFIAUHFISAHUFA
+[1:57:22] proerd7_: pior q é vdd
+[1:57:24] luukones: KKKKKKKKKKKKKKKKKKKKKKKKKK
+[1:57:24] bsevero: calma goat
+[1:57:25] marceloww99: @rangerlol1 CARIOCA DÁ COVER PRO BOT E NOTA 101
+[1:57:25] cerseizinha: mais respeito com o seu papai
+[1:57:25] lccharlotte: kkkkkkkkkkk
+[1:57:27] Bardocker: kkkkkkkkkkkkkkkkkkkkkkkk
+[1:57:28] judeuz: react na escuta
+[1:57:33] Samkz11: Salve goat
+[1:57:34] DanteBlaire2: yampi só joga de vi e sejuani kkk
+[1:57:48] cerseizinha: na escuta
+[1:57:51] imramis11: Cariok só têm um botão R
+[1:57:51] marceloww99: @rangerlol1 CARIOCA TACA 1 BATATA, MINERVE: GENIO
+[1:57:53] fepssx: maokai jg ta roubado paiw
+[1:58:02] minezumbi: mastery score 518 LEE
+[1:58:02] iYEAP: RANGER BAN CHAT?
+[1:58:02] xxpudimraivosoxx: !elo
+[1:58:03] StreamElements: --- Rangerzada = Master I (269 LP)
+[1:58:08] lincolntx: kkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[1:58:11] M4tewsLOL: Tem ngm pra atualizar pra tu n?
+[1:58:13] Blacklink13: Para de chorar
+[1:58:18] 1Codde1: ranger quantos anos de ban de chat tu tem?
+[1:58:23] judeuz: react na escuta
+[1:58:25] iMayeer: tenho saudade do rangernation no cblol =(
+[1:58:26] MFDoom05: A discussão de ontem com a nota do cariok contra do titas foi mt pica
+[1:58:28] gamerhoring: qual sua maior maestria goat?
+[1:58:28] imramis11: Vai participar do academy goat?
+[1:58:39] vianah: o basico muito bem feito tem que ser valorizado no brasil. Tem pro dando ult no pé ai
+[1:58:40] jesus1209: @rangerlol1 e o na escuta?
+[1:58:43] bhwkg: Pc agora tá Nice goat?
+[1:58:47] 192ell: ranger, tu tem orianna na pool?
+[1:58:50] juninhudias117: Não sei pq o Yampi parou de jogar de Maokai, resolveria 80% dos problemas da INTZ
+[1:58:56] filhodobatman_: eu to ate dezembro '-'
+[1:58:56] inhonhokyiok88: tira o mic da barba
+[1:58:57] Ritchyeri: eita, eu tbm goat
+[1:58:59] leoncomunista: vai jogar um urf depois?
+[1:59:00] joaopaulowolff: n
+[1:59:00] suricato_de_hornet: eu tenho ate o ano q vem
+[1:59:00] omachado1: Queremos
+[1:59:01] mmellopkr: fic
+[1:59:01] douglascarry: ss
+[1:59:01] lincolntx: nao
+[1:59:02] cerseizinha: não
+[1:59:02] M4tewsLOL: Vai
+[1:59:02] gggggroovy: vai la
+[1:59:02] plagzinn: S
+[1:59:02] vitalera1: q medo
+[1:59:02] maspoxajoao: n
+[1:59:03] subhrz: le blanc
+[1:59:03] guts1977: Azor
+[1:59:03] MFDoom05: joga de fizz
+[1:59:04] milenavcb: SIM
+[1:59:04] Sprunger: hwei de cria
+[1:59:05] kimarge1: vai ter que provar
+[1:59:05] gamerhoring: sim
+[1:59:05] 192ell: SIM
+[1:59:05] Stauru1: s
+[1:59:06] robodashopee: Tem Katarina na pool?
+[1:59:06] PaulinhoBorella: zedd mid
+[1:59:06] inhonhokyiok88: nao
+[1:59:07] fran1v3: e a karma do goat?
+[1:59:10] vitortatz: rumble mid duvido
+[1:59:12] cerseizinha: queremos zed
+[1:59:12] lincolntx: manda um AZIR AI GOAT
+[1:59:13] naokixx01: karma mid
+[1:59:14] imramis11: Vai de sylas goat
+[1:59:14] bhwkg: Orianna é paia
+[1:59:14] maspoxajoao: quero ser torturado nao
+[1:59:15] guts1977: AZIR GOAT
+[1:59:16] DanchevvCBF: aurelion again pra compensar o ultimo game
+[1:59:17] M4tewsLOL: Mostra um Yone pro Grev
+[1:59:18] MFDoom05: picka karma hasuehasueas
+[1:59:18] davica18: Quantos pontos pro Chall? @rangerlol1
+[1:59:18] Aslipe: sim, mostra pro tinowns como faz
+[1:59:19] rootssx: Se perder fica feio
+[1:59:19] iMayeer: picka aurelion dnv
+[1:59:19] Nardinhuu: TEM LB?
+[1:59:20] milenavcb: vc tem a karma goat?
+[1:59:24] zWitherz: Tem SINGED na pool goat?
+[1:59:25] manderzinhu: Se eh bom mesmo joga de zigs mid
+[1:59:25] Boo_sz: mostra Yone
+[1:59:26] bhwkg: Azir d massa
+[1:59:26] vitortatz: rumble do goat
+[1:59:28] juninhudias117: azir do Gravathar
+[1:59:29] kimarge1: mostra essa diana pro mundo ent
+[1:59:31] DanchevvCBF: aurelion again pra compensar o ultimo gam
+[1:59:31] sht_viktorr: agr a samira que ficou 10/0 antes vai ficar 0/10 pq ta no seu time audhaudh
+[1:59:31] vitalera1: joga de akali goat
+[1:59:31] leoncomunista: Aurelion pra compensar o crime do ultimo game
+[1:59:33] iMayeer: aquela foi bad lucky, picka aurelion dnv
+[1:59:36] lincolntx: AZIR GOATELA
+[1:59:39] maspoxajoao: lissandra do grev
+[1:59:39] lolzinhoderua: !elo
+[1:59:40] imramis11: Vai de Sylas goat
+[1:59:40] StreamElements: --- Rangerzada = Master I (269 LP)
+[1:59:47] guts1977: AZIR GOAT
+[1:59:51] subhrz: vai de lb
+[1:59:51] mwldigital: kassadin
+[1:59:54] theusin_xd: Queria ver seu azir goat
+[1:59:54] lolzinhoderua: F Pool de 5 boneco
+[1:59:57] PaulinhoBorella: PaulinhoBorella subscribed with Prime. They've subscribed for 2 months, currently on a 1 month streak! Se jogar de Yasuo MID, HUMILDE. Você é GOAT.
+[1:59:59] DanchevvCBF: aurelion again pra compensar o ultimo game
+[2:00:00] zoyr__: jungle é o mais certo de pegar chall goat?
+[2:00:03] maspoxajoao: puxa a lissandra ao
+[2:00:04] pandaaaaaaaa69: calma goat
+[2:00:08] Ritchyeri: acontece com os melhores
+[2:00:11] iMayeer: aurelion dnv, foi bad lucky porram vai em frente
+[2:00:12] luizflaviou: tu tem esse viktor?
+[2:00:15] imramis11: Sylas do goat
+[2:00:18] wquintiliano: qual champ do mid para virar mono ranger
+[2:00:24] robodashopee: Sylas
+[2:00:26] lolzinhoderua: O Goat tenta jogar só com 5 boneco mais nao, e ele tem que jogar com o lol todo
+[2:00:29] vitalera1: k
+[2:00:30] wquintiliano: ?
+[2:00:30] feiyss: kkkkkkkkk
+[2:00:33] fran1v3: justo
+[2:00:34] LandoMMO: lança soraka mid
+[2:00:35] joaopaulowolff: tem cho gath ap?
+[2:00:36] milenavcb: kkkkkkkkkkkkkkkkkkk
+[2:00:40] iMayeer: tudo pede aurelion caralho vai
+[2:00:41] guts1977: Azir GOAT
+[2:00:42] joaovss6: Pq diabos alguem pega janna num mundo que existe maokai?
+[2:00:44] thevictir: justo
+[2:00:45] vitalera1: akali goat
+[2:00:54] imramis11: Sylas do goat?
+[2:00:59] wagnertcg: ele ranger bem de boa kkkk
+[2:01:02] Torzach1: vai ver é a da passada
+[2:01:05] gamerhoring: KKKKKKKKKK
+[2:01:07] matheuslucas28: foda
+[2:01:09] alopeciaareataa: KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK ou isso da um odio
+[2:01:10] iMayeer: Eu peguei maokai sup e um arrombado pegou ez meu mano, reclam n
+[2:01:11] juninhudias117: Dodgezada?
+[2:01:13] sht_viktorr: pior de tudo que era a samira que ficou 10/0 antes udahaudsh
+[2:01:15] bsevero: azir do goat?
+[2:01:15] xar0pes: azir goat
+[2:01:15] gamerhoring: JANNA É PAIA
+[2:01:17] marcoosh26: F1 e assistir o GOAT melhor coisa
+[2:01:18] matheuslucas28: esse scara q v e o pick de adc e pega maguinho
+[2:01:19] Giow2: nesse elo é só isso ai goat, só janinha KKKk pqp
+[2:01:20] DanteBlaire2: aqui é o dodge do dia
+[2:01:21] alopeciaareataa: uma vez eu fui vítima de braum e ziggs nessa aí
+[2:01:22] alefpeoi: Ele sabe de algo ranger
+[2:01:24] marcospaulodev: Soloq BR é isso ai, por isso parei de jogar de adc kkkkk
+[2:01:24] lolzinhoderua: Escudinho
+[2:01:25] ZarinaMab: mas janna e nilah funciona??
+[2:01:25] rootssx: Não pode nem dar chat pra xingar kkkkkk
+[2:01:26] tibaztv: qual seria o pick?
+[2:01:26] gamerhoring: @marcoosh26 DAKE
+[2:01:31] lolzinhoderua: ESCUDINHO
+[2:01:31] subhrz: le blanc
+[2:01:32] Nardinhuu: CAVALO VAI JOGAR DE JANNA SEMANA Q VEM
+[2:01:37] gamerhoring: DALE*
+[2:01:37] victoriucass: dar dodge em live é paia
+[2:01:38] vitalera1: talon zada
+[2:01:38] f1zzh: lb ad foda-se
+[2:01:39] pandaaaaaaaa69: YONE DO GREV
+[2:01:39] leoncomunista: la o suporte vai ser um nautilus só espera
+[2:01:39] bsevero: lb ad
+[2:01:39] gabriel3332: tem o yasuo
+[2:01:39] juninhudias117: Jayce do Goat
+[2:01:39] klessandra: yasuo dale
+[2:01:41] bhwkg: Zed
+[2:01:42] imramis11: Lb
+[2:01:43] Psyimaker: tf ad
+[2:01:46] Mister_Dexter: zedao
+[2:01:46] croosbunitin: yone
+[2:01:47] Keterpie: coe goat, como nao ficar louco jogando jungle nesse patch?
+[2:01:47] DanteBlaire2: LB ad
+[2:01:48] lincolntx: pode dar quantos dodge pro dia?
+[2:01:58] rodrigo_v7: Comp perfeita pra fazer 1v9
+[2:02:00] gamerhoring: 1 DODGE
+[2:02:02] jackbmt: se for o do grev é all in na derrota
+[2:02:04] luke_pw: Gravatar ?
+[2:02:04] juninhudias117: @rangerlol1 Joga uma de LB ad depois pra ensinar como funciona e eu testar no prata
+[2:02:08] lincolntx: @gamerhoring vlw
+[2:02:10] gamerhoring: 2 SE TIVER OUTRA CONTA KK
+[2:02:10] Nardinhuu: A JANNA É O CAVALO
+[2:02:13] dragonsleyerr: O cara realmente pegou syndra vendo o yone?
+[2:02:16] ovomelete: pq nao conqueror?
+[2:02:20] pandaaaaaaaa69: @lincolntx o primeiro é 5 minutos o 2 é 30 e o 3 1 hr e meia e o 4 12 horas
+[2:02:21] iMayeer: zac top é free win, apenas
+[2:02:22] Dromedariossauro: Ta de Greve ta?
+[2:02:26] theusin_xd: Lb ad
+[2:02:29] brunomaia666: Boa tarde lindo
+[2:02:29] gamerhoring: @lincolntx Senao é 30min de espera dps do 2 dodge
+[2:02:32] humankey: GOAT por que joga como GOAT, ou por que fala como GOAT? ou Ambos?
+[2:02:34] lincolntx: @pandaaaaaaaa69 caralho kkkkk
+[2:02:45] netwlol: Letal tempo >>>>
+[2:02:52] MFDoom05: qual foi o problema do grevthar de yone?Mecanica?
+[2:02:52] PaulinhoBorella: Ae GOAT, nao rola um YASUOzinho?
+[2:02:54] lincolntx: @gamerhoring pdc, vou começar a usar meu dodge kkk ta foda
+[2:02:57] gustaxk: pq q o mic ta com xiado
+[2:02:58] douglascarry: sett faixa preta la kkkkkkkkkkkkkkkkkkkkkkkkkkk
+[2:02:59] iurifister: quer conq contra uma syndra ainda ta louco
+[2:03:00] 192ell: gameplay explicativa pro grev ver o vod?
+[2:03:03] yfulloff: !ventilador
+[2:03:04] ovomelete: num sei, sou prata
+[2:03:04] Maitri__: Pq Viktor sumiu dog?
+[2:03:06] flu_kabal: letal tempo = ritimo fatal
+[2:03:16] wykzinho: tu tem yasuo na pool?
+[2:03:16] pandaaaaaaaa69: @Maitri__ pq viktor n tem uma lane boa
+[2:03:16] douglascarry: @rangerlol1 sett faixa preta la, conhece?
+[2:03:17] Dromedariossauro: P E C U L I A R.
+[2:03:17] strilcat: cade o som do jogo
+[2:03:20] VHPJ: Jogo tá sem som
+[2:03:27] wGoes_: F som
+[2:03:30] disogo: !elo
+[2:03:31] StreamElements: --- Rangerzada = Master I (269 LP)
+[2:03:32] gamerhoring: ABRE MAPA?
+[2:03:33] imramis11: F som
+[2:03:39] celljunior: yone do grev
+[2:03:56] gamerhoring: KKKKKKKKKKKKKKKKKKK
+[2:04:03] felipenhooo: essa skin do yone eh feia de mais dog
+[2:04:05] L1u_k4ng: bom dia GOAT 🐐
+[2:04:12] iMayeer: viu a live do gordox ontem @rangerlol1
+[2:04:15] felsgood: q aperta pro boneco dançar no lol?
+[2:04:22] NevarcTT: koe ranger, o que acha do hwei?
+[2:04:27] brunomaia666: Micao so conseguiria estragar uma carreira de 4 vezes cblol champion continuando jogando na má fase? Comenta goat
+[2:04:29] tibaztv: d
+[2:04:34] juninhudias117: Céu dividido não seria bom pra Yone Goat?
+[2:04:35] dentistalol: pq joga sem sobra @rangerlol1
+[2:04:40] gamerhoring: CACETA ELA
+[2:04:42] akashyfinalboss: @felipenhooo concordo, mas com o chroma vermelhou ou branco da uma ajudada legal
+[2:04:43] theusin_xd: Kkkkk
+[2:04:46] vitalera1: k
+[2:04:49] L1u_k4ng: LUL
+[2:04:50] leooschirmer: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[2:04:51] mmellopkr: FAFSAFASGHUHUFASHUFHUAHUFA
+[2:04:52] caiozinn19: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[2:04:55] celljunior: krl e um urgot sup?
+[2:04:57] mayansinc: KKKKKKKKKKKKKKKKKKKKK
+[2:05:04] marcospaulodev: Jukes ?
+[2:05:07] Pipoquir: Goat vc já é o melhor Sup e o melhor Jg e já é um mid melhor que o Grevthar, pretende superar o Robo tbm?
+[2:05:17] theConst4ntine2: Yone abuser dog
+[2:05:18] InnocenceEvanescence: k
+[2:05:19] imramis11: Skin linda
+[2:05:19] L1u_k4ng: @celljunior é o super server GlitchCat
+[2:05:28] celljunior: essa lane ae era escudo em
+[2:05:30] clovisfi: Janna suporte vs Urgot suporte... so Deus
+[2:05:41] imramis11: Yone é o campeão mais estiloso do lol
+[2:05:51] carletosss: @clovisfi urgot deve fazer mais coisa do que uma janna ainda
+[2:05:58] HemsyX: @imramis11 soraka joga volei?
+[2:06:02] vitalera1: urgot sup DUHAWEUHAWEH
+[2:06:04] celljunior: kkkkkkkkkkkkkkk
+[2:06:07] Rafleeu: pegar escudo de doran nessa lane é ser mto bunda mole????
+[2:06:08] L1u_k4ng: nooooooooo
+[2:06:08] clovisfi: @carletosss faz so umas 10x mais
+[2:06:08] matheuslucas28: kkkkkkkkkkkkkkkkkkkkk
+[2:06:13] caiozinn19: kkkkkkkkkkkkkkkkkkkkkkkkkkk
+[2:06:16] inhonhokyiok88: kkkkkkkkkkk
+[2:06:18] gamerhoring: KKKKKKKKKKKKKKKKKKKKK
+[2:06:19] imramis11: @hemsyx mb kkkkkkkkkk
+[2:06:20] rem_flamenguista: kkkkkkkkkkkkkkkkkkkkkkkk
+[2:06:22] lincolntx: kkkk um aa era kill
+[2:06:22] GuiilhermXD: os cara jogou mt mal agr slk
+[2:06:24] caiozinn19: q porra é essa
+[2:06:25] luukones: KKKKKKKKKKKKKKKKKKKKKK
+[2:06:26] indigo__la__end: frio e calculadora
+[2:06:30] Dromedariossauro: ROAMING ABSURDO DE URGOT SUPORTE
+[2:06:36] Rafleeu: pegar escudo de doran nessa lane é ser mto bunda mole???
+[2:06:38] L1u_k4ng: pikaOMG  que tá acontecendo
+[2:06:39] chrono_oo: LIVE GRAVADA, RANGER TA AO VIVO  NAS CARTINHAS DO BAIANO
+[2:06:49] brinoooo: Janna xd
+[2:06:54] rootssx: Bot estourado ja
+[2:07:02] vitord4niel: mDs
+[2:07:33] yuukya_: ue virou aram ?
+[2:07:42] YOUPI_ROSADOLOVER: Meee
+[2:07:43] perguntasboas: demorou pra krl pra dar e q irmao
+[2:07:53] perguntasboas: era strike nos 2
+[2:07:53] lincolntx: aramzada
+[2:07:55] lucasbcc2: Falada Janna
+[2:07:56] rodrigoas002: aram mid kkk
+[2:07:57] gustaxk: tropa inteira no mid
+[2:08:00] L1u_k4ng: jana ajudou :O
+[2:08:00] vitalera1: honra a janna.
+[2:08:03] renatoxavier7: YONE DO GRAVATHAR
+[2:08:03] NevarcTT: o que acha dp hwei no mid?
+[2:08:06] zKerli: roubou a kill da janna
+[2:08:14] matutolol: esse yone tem vaga na red?
+[2:08:15] felipenhooo: pq craquens dog
+[2:08:17] zolfric: se a janna pega aquela kill no W, o goat ficava maluco
+[2:08:30] Dromedariossauro: kkkkkkkkkkkkkkkkkk
+[2:08:30] ovomelete: rs
+[2:08:34] GuiilhermXD: kkkkkkkkkkk
+[2:08:35] iMayeer: kkkkkkkkkkkkkkkk
+[2:08:35] L1u_k4ng: WhySoSerious
+[2:08:35] inhonhokyiok88: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[2:08:36] jackbmt: coringoat
+[2:08:36] dentistalol: pq joga sem sombra @rangerlol1 ??
+[2:08:40] brinoooo: Krl parece eu jogando de ad
+[2:08:44] matutolol: janna é mto ruim
+[2:08:54] hrq_sts: !elo
+[2:08:55] StreamElements: --- Rangerzada = Master I (269 LP)
+[2:08:55] iMayeer: se fosse o rangernation de yummi tava apaleando
+[2:08:56] Mafer01: pediu uma botlane e ganhou um guma+keria
+[2:08:56] boisola: true
+[2:08:59] L1u_k4ng: F Gatuno
+[2:09:02] flu_kabal: o meu nao porque eu sou o adc rs
+[2:09:02] YuRiNeSs: @rangerlol1 goat acha essa skin pesada?
+[2:09:05] geng_gui: no caso eu sou o ADC que feeda
+[2:09:08] NevarcTT: F coturno
+[2:09:14] ConhecidoLol: O meu é a solo lanes que trolam
+[2:09:17] marceloww99: minhas ward eu gasto tudo no bot pra eles n tomar gank
+[2:09:23] vitalera1: o zac OUIDJHAOWENOPIAWEJHAEWOUIHAWEUIH
+[2:09:26] LucasFranca_1: já teve o N/A escuta?
+[2:09:37] M4tewsLOL: Greve that?
+[2:09:50] GuiilhermXD: inimigo do farm
+[2:09:51] vitalera1: janna
+[2:09:53] inhonhokyiok88: lkkkkkkkkkk
+[2:09:53] zolfric: qualquer semelhança com o gravathar é mera coincidência
+[2:09:53] mayansinc: KKKKKKKKKKKKKK
+[2:10:00] judeuz: eu
+[2:10:03] imramis11: True
+[2:10:03] vitalera1: D: 󠀀
+[2:10:06] hokagg7: @rangerlol1  você ja deu o toba mano?
+[2:10:06] fran1v3: janna é o pior
+[2:10:07] mailsonsl01: lulu é boa uai
+[2:10:08] gamerhoring: LULU NAO POW
+[2:10:08] YuRiNeSs: @rangerlol1 goat essa skin é muito pesada seloko
+[2:10:10] brinoooo: Lulu não, se respeita goat
+[2:10:12] tutilol1: eu sou igual o  ranger,odeio que roubem minha xp e odeio peel player
+[2:10:16] douglascarry: @judeuz vai se fude
+[2:10:19] ducpqp: kkkkkkkk
+[2:10:19] bhwkg: Lulu não goat kkkkkk boneco broken
+[2:10:21] redbunga: kkkkkkkkkkkkkkkk
+[2:10:28] rockerxdx: jogo de nautilus
+[2:10:32] theConst4ntine2: Calma goat
+[2:10:38] ducpqp: foca goat
+[2:10:38] cabeludo_burro: lkkkkkkkkkkkkkkkkkkkkkkkkkk
+[2:10:40] Dromedariossauro: COM TODO RESPEITO
+[2:10:41] zolfric: respira goat
+[2:10:42] vitalera1: por isso eu jogo de yummi
+[2:10:47] joaovitordena: Como um cara desse chega mestre?
+[2:10:49] mmellopkr: jann é de fuder, pior que encoxar a mãe no tanque
+[2:10:53] uZeft: é impressionante como que pra subir é só jogar de supp DECENTE e dar gap TODA BOT LANE
+[2:10:55] rootssx: A
+[2:10:56] tutilol1: praga nao,parasita
+[2:10:57] craudius: Cheer30 top 1 bits agora, o goat eh goat ou nao/
+[2:10:59] naninhachi: A poh mas ai nem é culpa do boneco poxa a pessoa que tem burro kkkk
+[2:11:00] zKerli: janna e soraka são a represantação do inutil, vc "impacta" o jogo sem precisar fazer bosta nenhuma
+[2:11:03] uZeft: tu vai ganhar a maior parte dos jogos só de jogar com um suporte q jogue o jogo.
+[2:11:09] rootssx: Sona é muito pior que Lulu
+[2:11:10] rockerxdx: @uZeft Só jogar de ashe e senna que sobe
+[2:11:12] vitalera1: k
+[2:11:12] craudius: only e apenas
+[2:11:14] GuiilhermXD: tralyah?
+[2:11:16] MiguelArkjow: kkkkkkkkkkkk
+[2:11:17] sekhmetdev: fleshei
+[2:11:19] iMayeer: G . O . A .T
+[2:11:23] L1u_k4ng: flaaaaaahsei
+[2:11:29] craudius: yone do grevthar
+[2:11:37] matutolol: vai ayu que o grevthar tá logo atrás
+[2:11:44] vitalera1: KKKKKKKKKKKKKKKKKKKKKKKKKK
+[2:11:44] celinhoweber: kkkkkkkkkkkkkkkkka
+[2:11:45] Mikoda__: mto ruim kkkkkkkkk
+[2:11:47] glassyyyy: kkkkkkkkkkkkkkkkkkkkkkk
+[2:11:56] fivezv: fivezv subscribed with Prime. 
+[2:11:59] L1u_k4ng: kkkkkkkkkkkkkk
+[2:11:59] brinoooo: Ranger, se tu jogar bem tu entra na INTZ?
+[2:12:00] imramis11: Yone do grev
+[2:12:00] redbunga: kkkkkk  sei
+[2:12:01] Draculoko: kkkkkkkkkkkkkkkkk
+[2:12:02] fugazifps: KKKKKKKKKKKKKKKKKKK
+[2:12:02] ovomelete: k
+[2:12:02] M4tewsLOL: Alg joga bem aí?
+[2:12:04] lincolntx: kkkkkkkkkkkkkkkkkkk
+[2:12:04] GuiilhermXD: kkkkkkkkkkkkkkkkkkkkkk
+[2:12:05] luukones: KKKKKKKKKKKKKKKKKKKKK
+[2:12:06] l_02m: call do grev?
+[2:12:06] iourN: kill pro carrt
+[2:12:07] geng_gui: grevthar comunicando
+[2:12:07] cabeludo_burro: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[2:12:08] nordberctus: Goat você foi injustiçado no programa de ontem.
+[2:12:09] galdinofm: se a janna pegasse o neutralizado ia ser muito engraçado
+[2:12:11] bhwkg: Rapaz mas essa nilah aí é meme
+[2:12:12] zolfric: gravathar?
+[2:12:14] felipe316316: KKPOKSOPAKSPOKASOPKAOSPKAASKAKSOAKSOPK
+[2:12:14] marceloww99: gravatar jogaria melhor
+[2:12:17] celinhoweber: mais algumas partidas voce consegue jogar na intz
+[2:12:18] acyer: @brinoooo mas nem precisa jogar bem pra ir pra intz
+[2:12:19] MrzDynamo: Ranger,Depois analiza dive que os bagres do seu time deram em mim(SAMIRA) no bot? kkkkkkkk
+[2:12:20] Chrisskillerxd: kkkkkkk syndra sem flash
+[2:12:20] PedroHSS35: 2kill por minuto
+[2:12:25] L1u_k4ng: fé nos muleke
+[2:12:29] DanteBlaire2: gente, é um urgot sup?
+[2:12:29] Nemesis_s_: 0/8 é arrasto
+[2:12:34] MotMain: grevthar dava mais game
+[2:12:34] zKerli: tá parecendo jogo do bronze
+[2:12:50] l_02m: ja ta quase imitando o grev perfeitamente goat, até a comunicação do flash ta idêntica já
+[2:12:50] sobekrs: teu bot é cavalo e micao, goat?
+[2:12:59] tampico122: tampico122 subscribed with Prime. 
+[2:13:12] L1u_k4ng: catJAM
+[2:13:19] M4tewsLOL: Por que tp?
+[2:13:21] inhonhokyiok88: alguem me manda 50 no pix ae
+[2:13:33] iourN: a barricada
+[2:13:38] sonotseven: bot do ranger é kojima e scamber
+[2:13:43] DanteBlaire2: NA barricata
+[2:13:44] sekhmetdev: esse urgot
+[2:13:46] ovomelete: janna curou, fala mal dela
+[2:13:54] marceloww99: kkkk
+[2:14:07] Dromedariossauro: kill pra janna worth
+[2:14:13] srfantastic0: como que vc esta fazendo live aqui e no baiano?
+[2:14:13] marceloww99: farm de gravatar
+[2:14:22] inhonhokyiok88: kill pro carry]
+[2:14:23] vitorpontes08: @srfantastic0 baiano é reprise pow
+[2:14:39] Akylles: porque o GOAT nao e challenger se ele e GOAT?
+[2:14:45] Beidou_xD: @vitorpontes08 po dog acho q ele falou isso por meme
+[2:14:55] inhonhokyiok88: @Akylles personagem
+[2:14:57] vitorpontes08: @Beidou_xD nunca se sabe , o mundo é doido cara
+[2:15:10] StreamElements: --- Rangerzada = Master I (269 LP)
+[2:15:15] M4tewsLOL: Talyah carregando
+[2:15:15] sonotseven: ult linda da taliyah
+[2:15:19] AannoY: Visão é bom
+[2:15:19] pedromito777: pq é  que no mestre pra cima, só jogam de janna/sona/soraka?
+[2:15:21] panaderofantasma: !elo
+[2:15:22] Beidou_xD: @vitorpontes08 ngm é tao burro assim
+[2:15:22] StreamElements: --- Rangerzada = Master I (269 LP)
+[2:15:25] tommyox_: @vitorpontes08 esse n é o ranger cara é um primo dele
+[2:15:25] hatesun: q isso
+[2:15:27] PedroHenriquemed: kkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[2:15:28] B3nnete: KKKKKKKKKK
+[2:15:31] f4finh4: @Akylles o challenger nao merece o GOAT
+[2:15:34] Arauujo7: REI
+[2:15:37] eslepope: talya acabandop com o jogo
+[2:15:38] akashyfinalboss: Gume
+[2:15:39] Predrinh0: wit's end n?
+[2:15:40] RV_Thrash: gume
+[2:15:41] PhzinGomes: kkkkkkkkkkkkkkkkkkkkk
+[2:15:42] BrunoSovza: Hex?
+[2:15:43] ylvisaker79: ARCO ESCUDO
+[2:15:47] rootssx: Talyah tá batendo também ta
+[2:15:47] shinigami3sh: visão de taliyah é insane
+[2:15:47] iourN: IE e limite
+[2:15:55] akashyfinalboss: Mata, Gume e dps Arco
+[2:15:55] Sagevini: rabadom
+[2:15:56] redbunga: 0 de dano
+[2:15:59] mailugei: Arco escudo imoral
+[2:16:05] Dromedariossauro: niah já passou pro outro lado
+[2:16:09] Camarata13: !elo
+[2:16:10] StreamElements: --- Rangerzada = Master I (269 LP)
+[2:16:14] sonotseven: faz mandato imperial pro yone kkkkkkkkkkkkkkk
+[2:16:22] Predrinh0: esse jogo aí n tá bom pra wit's end n?
+[2:16:34] gamerhoring: Q do yasuo e do Yone Crita?
+[2:16:39] unperson_r: !elo
+[2:16:39] theuziu: wits end com tenacidadezinha em? ia ser pog
+[2:16:39] StreamElements: --- Rangerzada = Master I (269 LP)
+[2:16:42] fugazifps: aq era flash pra cima dela n?
+[2:16:55] cabeludo_burro: acho que espada do rei é melhor que ie aqui
+[2:17:02] govinsk: 1k pra kalista
+[2:17:03] DioMagenta: Mano, a janna nao faz nada que agonia
+[2:17:22] govinsk: @DioMagenta o champion n faz nd kkkkkkkkkkkkkkkkkkkkkkk
+[2:17:24] 1cqr: tutorial de Yone pro Gravathar ?
+[2:17:25] lincolntx: @DioMagenta é uma janna cara kk
+[2:17:46] zoooiodegato: @DioMagenta janna sendo janna
+[2:17:54] hatesun: cara bom
+[2:17:55] L1u_k4ng: goat OMG :O
+[2:17:57] thiagomoreiras: GOAT
+[2:17:57] govinsk: goat
+[2:17:57] ohzorio_: goat
+[2:18:03] murilo1213: !elo
+[2:18:04] oRapha: boa ta parecendo o grevthar
+[2:18:04] StreamElements: --- Rangerzada = Master I (269 LP)
+[2:18:05] cabeludo_burro: mata craquens é bizarro pra yone slk
+[2:18:07] PeNN_y: mano o lol me baniru ate 12/04, pq eu falo izi lixos no final das partidas
+[2:18:18] gamerhoring: @PeNN_y KKKKKKKKKKKKK
+[2:18:21] welintond: =kkkkkkkkkkkkkkkk
+[2:18:22] ohzorio_: @PeNN_y bem feito
+[2:18:23] hatesun: bom tp
+[2:18:23] inhonhokyiok88: taliyah é o cellin
+[2:18:24] L1u_k4ng: tepeeeeeeeeei
+[2:18:28] gamerhoring: lixo nao pode
+[2:18:28] RV_Thrash: @PeNN_y foi pouco
+[2:18:29] govinsk: nilah é um champ lixo o cara nem deve ser tão ruim assim
+[2:18:30] Draculoko: ela ta na live
+[2:18:38] matheuzmelo: @PeNN_y kkkkkkkkkkkkkkkkkkk
+[2:18:38] vianah: certas coisas n tem explicação. pq o cara joga de janna, e pq o cara pega nillah junto de janna kkk
+[2:18:43] simsenhorq: @govinsk Fala isso pro ayu
+[2:18:43] Draculoko: te ouvindo kk
+[2:18:53] redbunga: Taliah é boa
+[2:19:02] govinsk: @simsenhorq mesma coisa do vento ventania de janna e um random de janna kkkkkkkkkkkkkkkkkkkkkk
+[2:19:03] Draculoko: nila 0/7 kkk
+[2:19:05] M4tewsLOL: Live boa pra dormir
+[2:19:10] vianah: @govinsk nilah não é ruim, mas o bot com janna tem 0 sinergia
+[2:19:14] govinsk: janna é um champ lixo mas o cara faz parecer bom
+[2:19:16] inhonhokyiok88: @vianah o cara tava mostrando samira, e o sup lockou janna, logo o adc tacou o foda se
+[2:19:38] chongas_: qual tua runa?
+[2:19:49] suricato_de_hornet: @PeNN_y tlg dog falei q a mae do cara me sugo legal tomeu ban ate 2025
+[2:19:58] vianah: @inhonhokyiok88 ai é duro
+[2:20:01] cabeludo_burro: ningueeem sabe o que faz
+[2:20:09] hiuri_santos: !elo
+[2:20:10] SrAkuma: macro game nessa season tá porco
+[2:20:10] govinsk: @vianah acho o champion horroroso até o shaquinn q era mono diz ser o pior boneco do jogo
+[2:20:10] StreamElements: --- Rangerzada = Master I (269 LP)
+[2:20:12] cabeludo_burro: ningueeem sabe pra onde vai
+[2:20:14] bbmistylol: falta um voice nesse lol
+[2:20:20] pandabranco1: ULTEEEEI
+[2:20:28] Legegod: grevthaaaaaaaaaarr
+[2:20:34] CYBORGnat: Gravatar
+[2:20:55] haebox: pareceu um yasuo
+[2:20:57] gamerhoring: carry
+[2:20:57] vianah: nuss that damage
+[2:21:00] darkold: janna 1v9
+[2:21:12] welintond: sera elo job essa nilah mano ?
+[2:21:13] dan_anao_lover4x4: Então era isso q o grevtar deveria fazer ?
+[2:21:14] Satthryxigor: Caralho, tu tem essa ionne
+[2:21:18] petrickzada: @bbmistylol pprt
+[2:21:21] jeanc413: boa nilah jogando muito
+[2:21:23] welintond: q maluco ruim
+[2:21:25] redeglobo: salve goat
+[2:21:26] theusin_xd: Ie não era melhor pra dar ik na kalista ?
+[2:21:44] vianah: @govinsk quando tem um setup é brabo, mas depende de muitas variaveis, sem setup é dificil demais, sofre mt lane phase no geral
+[2:21:55] Draculoko: so nao foi positiva pra nila 0/8
+[2:22:04] ohzorio_: @bbmistylol porra não era vc que deu um tapão na cara de um velho que tava olhando seu pau no banheiro ???? kkkkkkkkkkkkkkkk
+[2:22:04] inhonhokyiok88: @theusin_xd kalista n vai ficar parada esperando ele matar n dog
+[2:22:15] mmellopkr: Gravatar, o que vc ta fazendo ai, meu filho?
+[2:22:19] oLevii_: ulteeeei
+[2:22:19] Ving4tivo: Aqui foi Grev
+[2:22:20] cabeludo_burro: os cara jogaram bem tbm
+[2:22:22] derossipspsps: !elo
+[2:22:22] maycoww: nt
+[2:22:23] StreamElements: --- Rangerzada = Master I (269 LP)
+[2:22:25] pandabranco1: calma goat
+[2:22:33] akashyfinalboss: Só ult defensiva q isso goat
+[2:22:42] kinghtmagics: Ranger ta na hora da pausa
+[2:22:42] eslepope: nylah ta tentando carregar
+[2:22:47] M4tewsLOL: Melhor champions do mid essa season
+[2:22:54] choraoz: bebeu bastante água hoje ranger?
+[2:23:02] Blstecaaa: ranger dá aula p nois pf
+[2:23:03] italo_a1: mono yone
+[2:23:08] Satthryxigor: Eu curtia o lava de Yone, ele era insano
+[2:23:11] lucaaaskz: @choraoz ta secando ele?
+[2:23:31] eslepope: mopss
+[2:23:31] lznDKNG: N/A FLASH
+[2:23:32] homermatador: pro goat a ult do yone é overkill ele ta jogando na ética
+[2:23:36] joxogbrl: goat, pq manopla de segundo?
+[2:23:37] choraoz: @lucaaaskz sua prima tmb
+[2:23:41] choraoz: brinks rs
+[2:23:48] eslepope: talyah ta jogando mt
+[2:23:50] vianah: mano a Taliyah ta tentando mt
+[2:23:53] murilo1213: @joxogbrl terceiro dog
+[2:23:55] maycoww: todo mundo tem flash kkkkkkk
+[2:23:58] avilaar: kkkkkkkkkkkk
+[2:24:03] akashyfinalboss: era dificil o Gravathar jogar assim de Yone ?
+[2:24:06] BongaBosta: Sett inimigo da morte
+[2:24:07] lznDKNG: n/a flash goat
+[2:24:07] lucaaaskz: @choraoz ai que diliça
+[2:24:08] senn4444: !elo
+[2:24:09] StreamElements: --- Rangerzada = Master I (269 LP)
+[2:24:10] engcarry: rulado kk
+[2:24:12] rootssx: Suttou
+[2:24:13] mmellopkr: Gravatar, o que vc ta fazendo ai, meu filho?
+[2:24:14] softyecs: lutou mal em dog
+[2:24:14] gamerhoring: coringou
+[2:24:18] 1cqr: morde o teclado
+[2:24:18] netwlol: Loss
+[2:24:18] iourN: todo mundo tem Flash
+[2:24:20] businessrichardfernandes: Parece o Grevthar
+[2:24:20] minicraqi: gravatar?
+[2:24:21] cabeludo_burro: slow do caralho
+[2:24:22] NobreDiplomata: ai foi de coringa
+[2:24:22] Akylles: taliah 1v9
+[2:24:24] inhonhokyiok88: ta clicante em goat
+[2:24:25] gamerhoring: ea lilia ta como
+[2:24:25] jpznlindo: Unlucky goat
+[2:24:30] azinwr: gravathar
+[2:24:30] eslepope: fez nada nessa figth em dog
+[2:24:35] majordux16: taliah 1v9
+[2:24:37] joxogbrl: goat, pq manopla de segundo?
+[2:24:37] brinoooo: Esse Yone é uns 70 nas cartinhas?
+[2:24:47] kielvieira: imagina uma rellzinha de suporte
+[2:24:48] patolinuo: NT ou NC?
+[2:24:48] akashyfinalboss: dps da manopla qual item vai fazer ?
+[2:24:49] businessrichardfernandes: Filho do Grevthar kkkkk
+[2:24:52] dentistalol: vc e goat na jg
+[2:24:57] inhonhokyiok88: seu time startou luta, faltando 12 sec pra sua ult
+[2:25:04] homermatador: como seria bom se o goat tivesse um adc
+[2:25:05] bmo10lol: ou se  vc tivesse um time
+[2:25:06] thenextstationisshibuya: @rangerlol1 é meu irmão jogando de janna, pega leve
+[2:25:08] juninhudias117: @rangerlol1 Não é só o zac fazer front que vcs ganham?
+[2:25:08] lznDKNG: se o vasco fosse bom ele era bom
+[2:25:12] cabeludo_burro: se fosse um ranger sup tava ganho ja
+[2:25:14] noah_exev: ranger de yone PogBones
+[2:25:20] muladatribo: Ranger bagre
+[2:25:27] Beidou_xD: qualquer merda é melhor q janna
+[2:25:39] jovemhawkins: so na jg pra carregar esses manos
+[2:25:47] dieguinhozbs: Se tivesse de gume teria matado tudo mundo alu
+[2:25:51] juninhudias117: COMO KKKKKKKKKK
+[2:25:55] inhonhokyiok88: prefere janna ou yummy???
+[2:25:56] Akylles: foi inocente dog
+[2:25:59] JoaoBrenlla: tinha q ter seguido seus instintos
+[2:26:00] businessrichardfernandes: TP DO LEP KKKKK
+[2:26:06] 007arthu: se n mata o set e ff kkkk
+[2:26:09] eslepope: zac deu dano q isso
+[2:26:11] Lubortt: Kill p carry
+[2:26:12] slayerlol7: !ELO
+[2:26:14] StreamElements: --- Rangerzada = Master I (269 LP)
+[2:26:15] noah_exev: minha nossa
+[2:26:21] eslepope: talyah tilto ja
+[2:26:22] sobekrs: agora vai, nilah tem 1 kill
+[2:26:28] HAUNTER1: satoro gojo com recurso agora vai
+[2:26:29] businessrichardfernandes: o mestre ta punindo kkkkk
+[2:26:32] noah_exev: se essa taliah é mestre eu posso ser challenger
+[2:26:34] akashyfinalboss: Qual item vai fazer agr GOAT ?
+[2:26:40] dr_loup_noir: !elo
+[2:26:41] StreamElements: --- Rangerzada = Master I (269 LP)
+[2:26:49] KrustyCollerTv: tem academy hj?
+[2:26:51] inhonhokyiok88: @noah_exev pode nao
+[2:26:54] Luis_08912: Vale a pena a manopla mesmo contra syndra e e lillia?
+[2:26:55] ratonopalito: tem
+[2:27:17] dentistalol: ti
+[2:27:33] cabeludo_burro: GOAT
+[2:27:35] 007arthu: todo mundo tem f kkk
+[2:27:39] HAUNTER1: krl q kalista durinha
+[2:27:41] noah_exev: boa pergunta
+[2:27:42] dentistalol: @luis_08912 tem que ser limite da razão né?
+[2:27:44] vianah: mano o flash desses caras tem menos CD que o meu
+[2:27:44] maycoww: como o flash dela voltou tao rapido wtf
+[2:27:51] gabrindoss: @Luis_08912 ele n chega nos caras
+[2:27:58] vianah: ela deve estar com bota de cdr e runa tbm n ? só pode
+[2:27:59] tutilol1: como teu jg peredu smite pra kalista kk
+[2:27:59] inhonhokyiok88: @HAUNTER1 ela tomou slow do E da taliya ali
+[2:28:02] maycoww: @vianah deve ta com cdr na runa e na bota
+[2:28:06] gamerhoring: agr tomei
+[2:28:07] Lubortt: Nylah carregou solo
+[2:28:12] HAUNTER1: @inhonhokyiok88 eu falo de estar tank mesmo, é jaksho agora q vi
+[2:28:30] theuziu: dano dessas vasilarva credo
+[2:28:42] theuziu: 500 true damage na torre
+[2:28:43] inhonhokyiok88: @HAUNTER1 é meta agr pow
+[2:28:46] TENT4C1ON_: ta melhor que o Gravathar
+[2:28:47] hmslowed: @rangerlol1 Mano, como vc se sente lembrando que teve uma epoca que o povo do cenario vivia te criticando por você ser polêmico e hoje em dia todo mundo entendeu que não era bem assim?
+[2:28:48] tob1son7: Esse q e o famoso gravhtar de Yone?
+[2:28:54] ovomelete: wtf
+[2:28:56] jalesbrgyn: safe
+[2:28:57] cabeludo_burro: kkkkkkkkkkkkkkkkkk
+[2:29:00] homermatador: gume jak cho rangerzada
+[2:29:00] maycoww: oxe kkkkkkkkkkkk
+[2:29:01] L1u_k4ng: saved
+[2:29:02] Makumba_No_Zoio: cold
+[2:29:03] RodrigoWrok: gelado
+[2:29:03] guizxao: oxi k
+[2:29:03] yuukya_: amigo ?
+[2:29:04] inhonhokyiok88: orou muito em
+[2:29:04] imkabane: frio
+[2:29:05] demetri0x: yone do avenger from maringá
+[2:29:05] ovomelete: sabe mto ranger
+[2:29:06] Aldovani1: amigo ?
+[2:29:07] Blstecaaa: amigao kkkkkk
+[2:29:10] businessrichardfernandes: e esse farm do grevthar kkkk
+[2:29:11] noah_exev: sim
+[2:29:12] welintond: friamente caLCULADO
+[2:29:13] suricato_de_hornet: frio
+[2:29:15] ovomelete: goat
+[2:29:17] inhonhokyiok88: passou nem wi fi
+[2:29:20] Aldovani1: GOAT
+[2:29:21] majordux16: presente
+[2:29:21] victorpavan08: goat
+[2:29:24] cabeludo_burro: GOAT
+[2:29:24] L1u_k4ng: 🐐
+[2:29:24] hodrino: !coomands
+[2:29:27] italo_a1: participar da ilha das lendas é clt ? @rangerlol1
+[2:29:31] nivek_07_: lenda por um motivo
+[2:29:46] renatoxavier7: YONE DO GRAVATHAR ?
+[2:29:50] DioMagenta: GOAT
+[2:30:03] HAUNTER1: pprt jogar com janna broxa qualquer um
+[2:30:12] ovomelete: urgot sup k
+[2:30:13] jeantlg: ta duro esse urgot
+[2:30:15] srflinstons: é o gravatar
+[2:30:34] jeantlg: 0 dano
+[2:30:34] luizmunir798: Q PECADO
+[2:30:37] theusin_xd: Nt
+[2:30:43] galvaolol: GRAVATHAR dew yone
+[2:30:45] rodrigofusao: grevthar de yone
+[2:30:46] lznDKNG: !catapa
+[2:30:48] akashyfinalboss: Nt
+[2:30:48] jeantlg: mas essa build ai só mata adc
+[2:30:49] uPounDzZ: salve goat esse é o tal do yone do grev ? ou é dos bons ?
+[2:30:52] Xeneguete: proximo item o yone começa a arregaçar
+[2:30:52] biro255: perdeu duas catapas seguidas, apenas dor
+[2:31:08] leoltp1: nilah trolando firme
+[2:31:09] GabrielFundao: @biro255 3 agr
+[2:31:19] lznDKNG: eh o gravatar ctz msm farm e msm habilidade
+[2:31:22] reinaldi_: essa nilha e boa ranger?
+[2:31:30] L1u_k4ng: Flaasheeeeeei
+[2:31:34] tob1son7: Prime alguém
+[2:31:41] espadachimdemadeira: !followage
+[2:31:42] StreamElements: @espadachimdemadeira, espadachimdemadeira has been following rangerlol1 for  1 year 7 months 5 days 21 hours
+[2:31:44] Blacklink13: Urgot burrao
+[2:31:46] neurolouco01: yone do grev
+[2:31:52] hmslowed: kkkkkkkkkkkkkk
+[2:31:52] HAUNTER1: kkkkkkkkkkkkk
+[2:32:00] cabeludo_burro: kkkkkkkkkkkkkk
+[2:32:10] noah_exev: adc diff
+[2:32:12] ygxl1: janna n acerta nada
+[2:32:15] jeantlg: proibido dar dano
+[2:32:18] karysten: nilah 1/12
+[2:32:20] MatheusKussi: furado
+[2:32:23] feiyss: kkkkkkkkkkk
+[2:32:24] Beidou_xD: satoru gozou
+[2:32:25] dr_loup_noir: kkkk
+[2:32:26] SimSouKiller: nt
+[2:32:26] maycoww: kkkkkkkkkkkkkkkkkkkkkk
+[2:32:28] screenjs: kkk chegou e sumiu
+[2:32:28] ducha_1: kkkkkkkkkkkkkkkkkk
+[2:32:29] luizmunir798: Ta faltando um rei nessa build em
+[2:32:30] theusin_xd: Só pela metade kkkk
+[2:32:31] imkabane: KKKKKKKKKKK
+[2:32:32] cabeludo_burro: ss
+[2:32:32] noah_exev: ean
+[2:32:32] businessrichardfernandes: Faz Infinity edge
+[2:32:33] reinaldi_: essa nilha e boa ranger?
+[2:32:36] junior2200: IE
+[2:32:38] boarding_rtl: espada do rei
+[2:32:39] unstoppablo: gojou jogou metade o que sabe rs
+[2:32:39] magistradooo: Esse cara ai é Challenger nao é? O satoro gojo
+[2:32:40] jackbmt: faz um SEXO
+[2:32:41] juninhudias117: LW, rei ela tem pouca vida
+[2:32:42] juzecanalha: gume
+[2:32:45] taewoan: Espada do rei, tem 3 com muito hp la peepoHappy
+[2:32:45] srfantastic0: oq é LW?
+[2:32:45] lycanfeliz: gume
+[2:32:46] Domiods: eu ia de rei
+[2:32:46] tutilol1: rei
+[2:32:47] homermatador: é GUME PORRA
+[2:32:48] caldoverd: Terminus
+[2:32:48] victoriucass: rei tu derrete o urgot
+[2:32:48] maycoww: aaaaaaaaaa vazio roxo
+[2:32:49] Blacklink13: Urgot entregando
+[2:32:50] igorgrandine: q putaria do krl kkkkkkkkkkkkkkkkk
+[2:32:51] EngFreitas: samira?
+[2:32:51] ducha_1: 2/13 é foda
+[2:32:52] eslepope: kkkkkkkkkkkkkkkkk
+[2:32:56] cabeludo_burro: terminus é uma boa tbm
+[2:32:56] quikboyy: vai ta no academy hj?
+[2:32:57] brinoooo: Faz uma oração pra ter mais sorte na proxima e não cair com esses bagres
+[2:32:59] noah_exev: "kim petras"
+[2:33:03] DelphiNlol: sup peel no low master é pior q o inferno
+[2:33:04] 1zeitgeist: mental de yasuo
+[2:33:05] AannoY: Rei aí é melhor
+[2:33:08] lolzinhoderua: Kkkkkkkk
+[2:33:16] lolzinhoderua: Eu não tenho esse mental
+[2:33:16] azullzin1: GOAT
+[2:33:23] kyohan15: kyohan15 subscribed with Prime. They've subscribed for 2 months! Boa tarde Goat
+[2:33:33] Ponteon: goat análise
+[2:33:38] luizmunir798: vc precisa de rei, ta dando 0 dano no urgot e sett, com rei tbm vai dar slow na kalista
+[2:33:42] SimSouKiller: vc fiz isso pq o cara é mt ruim de janna ou janna é podre mesmo goat?
+[2:33:43] noventacs: ranger consegue fazer uma analise GOOD GAME GG XD#korea
+[2:33:56] srflinstons: nss gravatar
+[2:33:56] tainazao: @universo_dos_reactions os dois
+[2:33:58] lolzinhoderua: Sai do fake Grevthar
+[2:34:01] leoncomunista: calma gravatar
+[2:34:11] businessrichardfernandes: Foi de grevthar kkkk
+[2:34:11] joaaososo: esse r n podia errar
+[2:34:31] NossaSenhoraQENomeGrande: @joaaososo ele sabe disso dog
+[2:34:36] maycoww: KRL JOGOU A TALYAH
+[2:34:37] jalesbrgyn: jg dif
+[2:34:37] L1u_k4ng: thalia tá tentando
+[2:34:41] eslepope: talya jogouy
+[2:34:41] jeantlg: CARALHO CRIPTOFLORA É MT BROKEN WTF
+[2:34:41] leoncomunista: Talyah ta tentando
+[2:34:42] naxzera: taliyah refém
+[2:34:44] Aslipe: a cura do cripto flore
+[2:34:45] ratonopalito: fala da janna Kappa
+[2:34:48] imkabane: mano essa jana
+[2:34:48] majordux16: thalia 1v9
+[2:34:51] jeantlg: curou 1k essa porra
+[2:34:54] tutilol1: mano essa pedrita é mto god
+[2:34:59] paulobacana12: talia se tivesse humanos no time carregava
+[2:35:00] golfinzinn: vamo visão porra
+[2:35:00] SokomoKuduomi: talyah no lugar do yampí da jg em
+[2:35:06] L1u_k4ng: F
+[2:35:07] maycoww: @jeantlg o item da taliyah
+[2:35:11] sobekrs: Talia eh o Aithusa, certeza
+[2:35:13] smolcking: gg
+[2:35:13] henriqw_7: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[2:35:13] refreshvlr: na ult
+[2:35:13] noah_exev: gg
+[2:35:13] KrustyCollerTv: kkkkkkkkk
+[2:35:14] victoriucass: meus olhos
+[2:35:14] jeantlg: NOSSSAAAA
+[2:35:14] cabeludo_burro: gg
+[2:35:16] VictorBRuschel: NAO ACERTA NADA
+[2:35:16] gabrindoss: grev
+[2:35:16] reinaldi_: KKKKKKKKKKKKKKKKKKKKKKKK
+[2:35:17] lucasspadel: nt so errou tudo
+[2:35:17] Vitorm01: AVE MARIA KKKKKKKKKKKKKKKKKKK
+[2:35:17] jvitorffranca: Acerta nada
+[2:35:18] rohuek: Nossa
+[2:35:19] Beidou_xD: gravatar
+[2:35:20] Exduardt: yone do grev
+[2:35:20] imkabane: F
+[2:35:22] yuukya_: grevtou
+[2:35:22] majordux16: bagret
+[2:35:23] lolzinhoderua: Grevthou
+[2:35:24] BongaBosta: Nuuu
+[2:35:24] srfantastic0: criminoso kk
+[2:35:25] TENT4C1ON_: GAP sup ABISMO
+[2:35:26] 1zeitgeist: zac errou tbm
+[2:35:27] tob1son7: Greve e vc
+[2:35:27] jeanbarbosa: grevtou
+[2:35:28] eslepope: VC E TALYAH TENTARAM
+[2:35:28] Ritchyeri: 3/19
+[2:35:29] vinny30_: gravatar
+[2:35:29] RodrigoWrok: sai do fake  gravatar
+[2:35:31] h4wll: saido fake grevthar
+[2:35:35] businessrichardfernandes: joga com boneco mais facil tipo lux
+[2:35:35] marceloww99: gravatou
+[2:35:36] refreshvlr: o cara 2/14 tá p escaralho tbv
+[2:35:37] brinoooo: Não Goat, os inimigos que jogaram mal e desviaram de suas skills
+[2:35:38] jeanbarbosa: gravatar
+[2:35:38] Lubortt: Se tentou roubar o dg de uma kalista? Kewk
+[2:35:40] noah_exev: se o ranger pode erra a ult eu também posso
+[2:35:41] reinaldi_: o satoro gojo merecia ganhar o jogo
+[2:35:41] chikenlirouxd: RuleFive RuleFive RuleFive
+[2:35:41] mephysto_tagman: tu deu 100 cs no mid mas sla
+[2:35:44] kevin_mammah: eu de yone
+[2:35:45] muramu_otori: FALA DO GRAVATAR AGORA
+[2:35:46] Satthryxigor: O lava era insano com esse boneco
+[2:35:48] caiocarvalho16: O que é IDL
+[2:35:52] businessrichardfernandes: Tem que joga com boneco mais facil
+[2:36:06] Mercchy: oq os sups da soloq tem contra jogar de tank? qual o tesão em pegar essa merda ai
+[2:36:06] Beidou_xD: janna é um boneco mt podre slk
+[2:36:09] theusin_xd: Janna e muito podre
+[2:36:11] hodrino: lul
+[2:36:19] maycoww: como o adc morreu
+[2:36:20] celinhoweber: KKKKKKKKKKKKKKKKKKKKKKKA
+[2:36:22] hodrino: @rangerlol1 GOAT mostra suas conf dentro do jogo?
+[2:36:23] flu_kabal: acho que se voce faz gume e bt voce carrega isso
+[2:36:26] jeantlg: q isso tme um urgot la embaixo
+[2:36:36] Taifuzinha: Goat vc pode analisar essa sua jogada no drag no Goat ou Bagre dessa semana?
+[2:36:37] SaiBR1: Ranger, vai fazer o academy no IDL hj?
+[2:36:38] vinny30_: gravatar
+[2:36:40] paulobacana12: os caras sao mt poderosos
+[2:36:42] tiago_soprani: MALPITE TAVA BAN DOG?
+[2:36:44] eslepope: VC E TALYAH TENTARAM MAS N DEU
+[2:36:47] TENT4C1ON_: Gravahou ali
+[2:36:49] Lubortt: Nylah e top tentou muito
+[2:36:53] smolcking: satoro gojo kkkkk
+[2:36:53] mysterion6: urgot sup > janna
+[2:36:55] trainerburn: @tiago_soprani kkkkkkkkkkk
+[2:36:57] imkabane: Handicap?
+[2:37:02] screenjs: adc com 2 itens em 30min de game
+[2:37:04] netwlol: Pq esse vysion nunca competiu, ele joga bem dog
+[2:37:06] alicelandim: foi uma boa tentativa
+[2:37:07] ohudsonfelipe: satoru jobado?????????
+[2:37:08] noah_exev: kekw
+[2:37:09] feiyss: kkkkkkkkkkkkkkkkk
+[2:37:10] L1u_k4ng: kkkkkkkkkkkkkk
+[2:37:10] eslepope: KKKKKKKKKKKKKKKKK
+[2:37:11] gbc_gean: hj tem adademy?
+[2:37:15] Satthryxigor: O lava era insano de Yone fala tu
+[2:37:16] jmfurios66: mesmo aposentado a gameplay do ranger continua a mesma que ele apresentava no CBLOL
+[2:37:19] srfantastic0: kkkkkkkkkkkkkk
+[2:37:19] noah_exev: yodaKEK
+[2:37:23] homermatador: ranger vc me autoriza a fazer um canal de cortes dos aeus piores momentos
+[2:37:24] SimSouKiller: Ranger vc considera que Sup é a lane que tem mais bagres na soloq?
+[2:37:24] Satthryxigor: Vocês foram o time que mais deu trabalho pra loud,
+[2:37:25] eduardoi3: urgot suport gap kkkk
+[2:37:25] ThePutzManlol: obg pela vitoria ranger
+[2:37:26] srflinstons: k
+[2:37:27] rdd_carry: essa kalista ai é o adc da intz academy
+[2:37:33] imkabane: ate o urgot supp tava no game
+[2:37:37] Xamisko: Main soraka ela
+[2:37:38] ThePutzManlol: nunca achei tão facil
+[2:37:39] hodrino: @rangerlol1 GOAT mostra suas conf dentro do jogo?
+[2:37:39] mephysto_tagman: tu acha que existe losers queue ranger?
+[2:37:43] tcaiot: kkkkkkkkkkkkkkkk
+[2:37:44] screenjs: kkk
+[2:37:44] marceloww99: jkkkkkkkkkkkkkkk
+[2:37:46] neurolouco01: kkkkkkkkkkkkkkkkkkkkkk
+[2:37:46] pedrolaguinho: puxa historico da janna
+[2:37:49] guilhermecostax: que isso dog
+[2:37:49] gilis: o0 que elo job kk
+[2:37:50] alopeciaareataa: hoje tem academy?
+[2:37:51] paulobacana12: canal nao vai ter conteudo
+[2:37:52] magistradooo: ad
+[2:37:53] MrBoto_: ranger nunca teve piores momentos
+[2:37:53] noah_exev: ok
+[2:37:54] juninhudias117: @rangerlol1 E vai piorar, proximo patch entra skin nova da Janna
+[2:37:56] rem_flamenguista: @rdd_carry kkkkkkkkkkkkkk
+[2:37:56] mafeuso: mas ai seria a live toda entao
+[2:37:57] L1u_k4ng: opa
+[2:37:57] patolinuo: Ja tem esse canal kkkkkkkkkkkkkkk
+[2:38:01] judeuz: E O NA ESCUTA?
+[2:38:01] ThePutzManlol: segue lá ranger
+[2:38:02] jeantlg: vai, vai timbora carniça
+[2:38:02] B3nnete: KEKW
+[2:38:04] quikboyy: vc vai ta lá?
+[2:38:06] casual_xyz: vc vai participar?
+[2:38:07] RodrigoWrok: TTours
+[2:38:07] M4tewsLOL: A Janna nem jogou tão mal, o que fudeu foi o pick
+[2:38:08] zero_phototeta: talentos kkkkkkkkkkk
+[2:38:10] TheChadTC: Vai estar na live do academy hj?
+[2:38:10] soloqphrx: Vc vai participar do academy?
+[2:38:11] L1u_k4ng: prestigiar com ódio Kappa
+[2:38:11] ThePutzManlol: para vc aprender de com GOAT DE VDD
+[2:38:11] zWitherz: @theputzmanlol tu jogou mt mal dog
+[2:38:11] wGoes_: prestigiar os novos bagres
+[2:38:12] lolzinhoderua: Não pode ter um Ranger Compilation por razões judiciais??
+[2:38:15] srfantastic0: Tela
+[2:38:29] smolcking: kkkkkkkkkkkk
+[2:38:31] feiyss: kkkkkkkkkkkk
+[2:38:34] Cabelovlr: kkkkkkkkkk
+[2:38:38] rodzzzs: Chatbox
+[2:38:39] juninhudias117: kkkkkkkkkkkkkkkkkkkkkk
+[2:38:43] judeuz: chatbox
+[2:38:47] leoncomunista: chatbox
+[2:38:57] srfantastic0: o goat leui o meu nick, aqui é o céu
+[2:38:57] inhonhokyiok88: salve youtobas
+[2:39:01] renanz_M: oi goat te amo
+[2:39:24] tiago_soprani: O micao ta tao ruim q pensei q tava na intz
+[2:39:38] leomrqs_: eitroux
+[2:39:40] L1u_k4ng: udyr chatão
+[2:39:41] lucaoshowxd: !lcs
+[2:39:45] Maalo7: "Matando o udyr"
+[2:39:48] SaiBR1: vai passar callzinha da Rivlary sobre o academy hj?
+[2:39:59] TENT4C1ON_: cavalo e -1 no game
+[2:40:00] matheussoadias: !ELO
+[2:40:01] StreamElements: --- Rangerzada = Master I (251 LP)
+[2:40:06] mysterion6: caralho, aquele dash do aatrox pela parede nao existe
+[2:40:10] lockevl_los: pra n dizer q se fudeu
+[2:40:10] alex_alves89: pilot kennzySleep
+[2:40:20] areialavada: @rangerlol1 fala do momento da elise, precisa de rework? boneco ta uma merda nessa season, injogável
+[2:40:23] fraga_015: sua camera ta diferente goat
+[2:40:44] taoista9: mt gente falando n entendo nada
+[2:40:50] ボイドボーン: EITRÔX, EITRÔX, EITRÔX - CLEBER, Super
+[2:41:21] srfantastic0: kkkkkkkkkkkk
+[2:42:02] dotBR: kkkkkkkkkkkkk
+[2:42:10] ihuryc: Rangerzada tu n acha q se a ilha ta tentando melhoras a sena fazer retrasmissao e meio egoista com as lives menores?
+[2:42:13] taoista9: E QUERIAM 95
+[2:42:19] marceloww99: esse jungler é nota 94? kkkkkkkkkkkkkkkkkkkkk
+[2:42:20] Deathevan: aquele disengage foi mto bom
+[2:42:30] 0felipebs: @creepingna13 que comentario burro dog kk
+[2:42:36] RodrigoWrok: aaaaaah Kreygasm
+[2:42:48] RafinhaiU: mas é o titanzada xsqdl
+[2:42:48] ogustaka7: mas o titas é dono do time agr
+[2:42:51] Dayside: @dnldil1999 Ne nao po, é tu q é
+[2:42:57] tutilol1: se for o titan e o chovy nao
+[2:43:13] ihuryc: @0felipebs isso obviamente foi uma pergunta
+[2:43:18] TrustOnHiro: calma kuriii, deixa os caras falar tbm
+[2:43:26] LKDLOL: Damage?
+[2:43:34] 0felipebs: @creepingna13 nao é só comentario entao kk
+[2:43:37] MatheusKussi: titan afobadao
+[2:43:41] taewoan: Vc acha que o Maokai ta inflando a gameplay do Cariok por ser um champion noob friendly ou o Cariok ta muito bem mesmo?
+[2:43:46] bgzeraa: azir no mena
+[2:43:46] sobekrs: azir no mena
+[2:43:48] oliveiv: goat painzete
+[2:43:49] SagazAgatsuma: dito isso vice mais de 3 vezes
+[2:43:49] casual_xyz: ?
+[2:43:52] dotBR: o titas é bao dmais
+[2:43:54] c40sz: pena que vai tomar 3x0 da louduxa na final
+[2:44:02] counterdefense: e pperdeu pra liberty kkk
+[2:44:05] tutilol1: gravathar kk
+[2:44:08] bgzeraa: @sobekrs sadasdjnasdan
+[2:44:09] iourN: Titan tá com a call mt afobada que trouxe da RED
+[2:44:10] GusmaoVG: esse ai foi call do grev
+[2:44:18] L1u_k4ng: gravatar pikaOMG
+[2:44:27] demiris: isso é o na escuta de sábado?
+[2:44:28] DerHellraiser: o route tá mt mais comunicativo
+[2:44:28] sobekrs: @b0rgesxl se combinasse nao saia kkkkkk
+[2:44:32] BraunN__: TEM
+[2:44:33] GusmaoVG: no na escuta que a red postou mostra
+[2:44:33] ZeyCarlitz: CULPA DO FROSTY, ENTRA JOJO LUL LOGICA DA RED
+[2:44:39] Handanight: @rangerlol1 da pra ver no na escuta da red rangerzão
+[2:44:43] BraunN__: NO TWITTER DA RED, TWITTER RED
+[2:44:47] Filipee_1: rangerzada, pergunta sincera, não cabia um 55 na cartinha do gravathar?
+[2:44:51] bachan_n: o.o
+[2:44:59] oliveiv: kkkkkkkkkkkkkkkkk
+[2:44:59] Deathevan: @creepingna13 não é assim que popularidade funciona, quem deixa de ver a Ilha não vai automaticamente ver outras streams de LoL. E isso é bem fácil de notar qdo acaba uma transmissão. O conteúdo não se resume ao jogo
+[2:45:08] TENT4C1ON_: F gravathar
+[2:45:34] khazzny: GOAT
+[2:45:40] dericzinn: gravathar
+[2:45:44] idlkeria: F GRAVATHAR TOTAL
+[2:45:44] jun9nho: red sonhou com o hauz e acordou com o grev
+[2:45:45] jackbmt: bagretar
+[2:45:46] Fumamafu: ele tava indo pra ver se dava pra pega o croc
+[2:45:47] pandagames94: Guardou o Q pra roubar kill
+[2:45:49] sobekrs: detalhe do detalhe
+[2:45:49] Fepo01: tirou do Q do brance tbm
+[2:45:57] Handanight: chega ranger, o gravathar ja ta morto no chão, pare de chutar ele
+[2:46:02] iourN: Nota dele ja ta baixa dog , pega leve
+[2:46:06] dericzinn: unico flank de lissandra
+[2:46:17] darkold: ele tava muito forte
+[2:46:41] Nopsk: they fucked up é mto bomkkk
+[2:46:52] demiris: robo tava sempre no lugar certo e na hora certa
+[2:46:54] viniciusdotalon: goat inocente lendas ausente
+[2:46:55] imkabane: meu o dano que a lb deu no aatrox foi normal ?
+[2:46:57] filhodorobs: meu pai tá adulto ranger
+[2:46:58] Makumba_No_Zoio: prodelta é mudo?
+[2:46:58] tutilol1: merito dele ou demerito da red?
+[2:46:59] tcaiot: a red NUNCA tinha visao do robo como isso
+[2:47:02] natasI0: ranger cade sua tag de ilha das lendas na twitch?
+[2:47:03] demiris: igual o guigo falou msm, o macro do robo é o melhor não tem como
+[2:47:04] oLucasAlx: tudo q o robo faz é bom
+[2:47:22] maycoww: nice call robo kkkkkkkkkk
+[2:47:26] shy369: um bom flank
+[2:47:26] juninhudias117: Croc tava certo lai
+[2:47:55] lotusblack97: E errou o Q
+[2:48:10] tutilol1: eles juntaram mto pra salvar o fnb po
+[2:48:14] 0felipebs: mas a culpa disso da errado nao é só do frosty
+[2:48:17] tcaiot: o grev sem ult ai
+[2:48:17] counterdefense: e a nota do robs nesse jogo é god
+[2:48:19] demiris: grevtar tinha acabado de se ultar ai kkkkk
+[2:48:22] GusmaoVG: pqp nao mostrou nada da red, olha o na escuta no tt da red
+[2:48:29] mangasuja: nossa eles nao colocaram a trolada do grev
+[2:48:30] majordux16: jogou o Q no cara errado e errou com ele parado lkkkkkkkkkkkkkkkkkkkkkkkk
+[2:48:32] shy369: @rangerlol1 uma soloq da kr com 10 challengers tem o nivel mais alto q isso ai, sem meme
+[2:48:33] demiris: não mostrou o grev se ultando
+[2:48:41] filhodorobs: greenbert tá muito lento jogando tomara que ele melhore
+[2:48:42] mymorx: eles não colocaram a trolada do grev kkkkk
+[2:48:43] chapajhin: koreano fica gemendo cara coisa feia
+[2:48:44] trash_cak3: AAA SHIBA NICEEE AHH
+[2:48:46] M4tewsLOL: Teve comunicação do greve se lutando?
+[2:48:46] 1ryanzin__: no na escuta da red tem, ele só xinga e o aegis fala q vai ter q flipar
+[2:48:48] LucenaOFC: @demiris escondendo um pouco da vergonha alheia
+[2:48:50] kedrycklol: @filhodorobs GRAVATAR
+[2:48:58] RV_Thrash: @0felipebs mas foi pq o q dele nem acertou ele so gastou cd atoa
+[2:49:00] Deathevan: churrasqueidos
+[2:49:02] shy369: oxigenio
+[2:49:02] Kelvintf: to ligado
+[2:49:04] netwlol: COPIUM
+[2:49:06] casual_xyz: oxigenio
+[2:49:07] lotusblack97: tomando copium
+[2:49:07] kuadrado: helld?
+[2:49:10] brinoooo: Isso ai é a churrascaria inteira
+[2:49:14] demiris: kkkkkkkkkk
+[2:49:14] L1u_k4ng: copium
+[2:49:16] DerHellraiser: cope
+[2:49:20] 0felipebs: @RV_Thrash a fight ter dado ruim pode ate sido, mas a execuçao inteira nao
+[2:49:21] feiquexis: O CARA FALA EMOJI DA TWITCH NA VIDA REAL KKKKKKKKKKKKKKKKKKKK
+[2:49:27] PedroHSS35: Rodizio 99,99 promoção
+[2:49:30] RV_Thrash: @0felipebs s
+[2:49:31] viniciusdotalon: ASDKASFKPOASKFOPKASPOFKPOASKFPOASKPOFKASPOFKPOASKFPOAKSPOFASKFOPA nunca vi o grev assim crl
+[2:49:31] dotBR: tinha que saber pq ele mandou o copium
+[2:49:33] areialavada: Copium
+[2:49:34] J_Haydar: kkkkkkkkkkkkkkkk
+[2:49:38] jjamess97: perdeu o game solo, é q tem pa hj KEKW
+[2:49:39] tiago_soprani: esse aegis é o cara mais nerd cabaço q eu nunca conheci
+[2:49:39] judeuz: @feiquexis bizarro KKKKKKKKK
+[2:49:39] th_man_: croc meio esquisito ein
+[2:49:56] inhonhokyiok88: @dotBR pq o grevthar deu missclick na ult
+[2:50:06] 1ryanzin__: @tiago_soprani e vc assiste ele jogar
+[2:50:07] dericzinn: time da furia n fala quase nada
+[2:50:12] tutilol1: ashe do prods tava feijucada
+[2:50:13] SimSouKiller: me parece que o croc n aguenta mais o Brasil kkk se pa é o ultimo split dele.
+[2:50:36] tiago_soprani: @tiago_soprani  Gayge peepoHappy
+[2:50:38] breagui: pq o prodelta nao saiu rapido da ult
+[2:50:50] jeanc413: guys oq esse mid da vks tava aprontando q os cara tava zoando?
+[2:51:08] jpsevero: Como que ele cancelou o cc?
+[2:51:12] maycoww: @jeanc413 deu em cima da mina do duds(ele nao sabia que ela namorava
+[2:51:16] dericzinn: pq eles começaram a inverter as cameras? achei isso uma bosta
+[2:51:34] demiris: krl guigo engoliu a senna
+[2:51:37] maycoww: @maycoww mas acho que nao deu em cima literal,deve ser exagero dos caras kkk
+[2:51:40] marceloww99: mecanica da keyd tem q melhorar muito
+[2:51:42] inhonhokyiok88: só paulada esse aatrox
+[2:51:43] ThiagueiraZ: Gozaro
+[2:51:43] xtayh_: tadinha da senna
+[2:51:45] ogustaka7: essa syndra ta boa ou so na mao de quem sabe?
+[2:51:47] ZeyCarlitz: esse hype da furia eu nunca comprei, n pega nem playoff
+[2:51:49] RafinhaiU: pede o penta no all
+[2:51:49] tcaiot: pede o penta no /all kkkkkkkkkkkkkkkkkkkkkk
+[2:51:50] luccablois1: pede o penta no all eh bom
+[2:51:52] Deathevan: PEDE O PENTA NO ALL
+[2:51:55] josuekallebe333: @dericzinn muda nada
+[2:51:55] gamerhoring: PEDE O PENTA NO ALL
+[2:51:57] demiris: pprt, dava o pente
+[2:52:03] tcaiot: e o penta?
+[2:52:04] alopeciaareataa: pula essa parte goat
+[2:52:06] PedroHenriquemed: egoking
+[2:52:07] L1u_k4ng: F Tay
+[2:52:08] th_man_: comunicação da esquelética...
+[2:52:09] inhonhokyiok88: kkkkkkkkkkkkkkkkkk
+[2:52:10] jun9nho: quem quer penta que o conquiste
+[2:52:11] dericzinn: @josuekallebe333 pra mim muda mt, sempre acho q o top ta no msm lugar
+[2:52:13] richardagm_: mt apatico, o goat estaria morto ha 20s
+[2:52:15] Deathevan: igual o cara do NA que comprou zhonyas pra n dar penta
+[2:52:15] alopeciaareataa: é esculacho com a magrética...
+[2:52:15] tutilol1: eu fico puto quando só sobra 1 e o cara nao da penta
+[2:52:15] ralpheraz: elimnado na sequencia
+[2:52:15] soldi3r: penta n se pede se conquista
+[2:52:23] imNeall: @ogustaka7 syndra é scalling dps do rework, ela nao tem tanta pressao inicial igual antes... mas dps fica mt forte
+[2:52:24] eliisasanches: eliminado na sequencia
+[2:52:32] jun9nho: yampi, é o pior jungle do cblol hj?
+[2:52:35] SimSouKiller: mano esse aithusa é mt criminoso
+[2:52:39] juninhudias117: kkkkkkkkkkkkkkkkkkkkkkkkk
+[2:52:40] imNeall: @ogustaka7 e como o meta ta bem lento, ela ta boa em mts drafts
+[2:52:43] PedroHenriquemed: kkkkkkkkkkkkkkkkkkkkkkkk
+[2:52:43] marceloww99: kkkkkkkkkkkkkkkkkk
+[2:52:44] dotBR: kkkkkkkkkkkkk
+[2:52:56] ZeyCarlitz: @jun9nho infelizmente drakehero ainda tem time
+[2:52:57] 0felipebs: @jun9nho drakehero joga volei?
+[2:52:58] jun9nho: olha o tayKKKKKKKKKKKKKKKKKKK
+[2:53:06] RafinhaiU: esse tão me focando vai virar intro do bronziocre
+[2:53:15] kedrycklol: comunicação da esquelética
+[2:53:24] eguinima: Yampi lkl
+[2:53:28] PedroHenriquemed: os kra tao derretido dms
+[2:53:30] marceloww99: kbm tá bem mal
+[2:53:38] kondoriano: call do tai pegar o mid em
+[2:53:44] lvcii_13: Vendeavagatz
+[2:53:45] screenjs: e tomaram baron
+[2:53:45] ogustaka7: canalha é gringo?
+[2:53:46] MatheusKussi: ai a kabum vai la e faz
+[2:53:46] pedro_vitorfs: I nt Z
+[2:53:54] vorkesz: malrang tem esse 50/50
+[2:53:55] dericzinn: churrascado
+[2:53:57] marceloww99: tilto
+[2:53:58] pedro_vitorfs: w! coffinPLZ
+[2:54:01] Coimbrao: o damage ta tentando né vei
+[2:54:02] rammusap: GOAT OU BAGRE?????
+[2:54:03] matheusramella: Derreteu total
+[2:54:04] Niuh_: INTZ
+[2:54:06] ZeyCarlitz: ''eles tão trollando'' dito isso perdemos o baron
+[2:54:09] dericzinn: yampi gostava mt dos 2 coreano
+[2:54:10] rootssx: Total sem confiança
+[2:54:13] PedroHenriquemed: kkkkkkkkkkkkkkkk cara
+[2:54:14] perna_necrosada: MANO OLHA OQ O CEOS FEZ COM DAMAGE
+[2:54:14] Niuh_: efeito esqulético
+[2:54:17] 1ryanzin__: mas smite é sorte né
+[2:54:18] hypnojason: pq q kassadin nao aparece no competitivo?
+[2:54:19] kondoriano: Tay se pudesse ficava base desde o inicio do jogo que isso
+[2:54:23] imkabane: meu o tay parece uma barata tonta com o olaf
+[2:54:43] 1ryanzin__: netuno mandando um russo do nada
+[2:54:45] blackfyreg2: Saiu de hoje
+[2:54:48] TigreTriste3: @hypnojason pq é uma merda
+[2:54:52] judeuz: VÊ A RODADA 8
+[2:54:52] kondoriano: Tay que falou pra não fazer, ele falou pra pegar mid
+[2:54:53] tugenio: !followage
+[2:54:53] richardagm_: hipoteticos
+[2:54:53] StreamElements: @tugenio, tugenio has been following rangerlol1 for  4 years 9 months 24 days 1 hour
+[2:54:58] gabrielfungarooo: faz mais um react legal
+[2:55:04] thallysarieltv: abrindo a vaga mais barata pro mengudoooo
+[2:55:04] hypnojason: @TigreTriste3 kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[2:55:13] breagui: @rangerlol1 os cara da intz recebe salario em playoff ou não pq não tão jogando ?
+[2:55:23] sh40_lin: COMO FOI A CONVERSA COM O DAMAGE?
+[2:55:32] ogustaka7: hj tem academy?
+[2:55:39] DaiiMePaciencia: chegeui na hora boa
+[2:55:40] tcaiot: @hypnojason ele não luta objetivos cedo, tem q ta muito bem no jogo cedo demais
+[2:55:45] noonezw: exclusivo pa nois
+[2:55:54] soldi3r: kkkkkkkkkkkkkkkkkkkkkkkkkk
+[2:56:05] taewoan: Mas o God é o Cariok Kappa
+[2:56:10] 0felipebs: ilha da pain, nao tem como
+[2:56:10] amaral19mafia: Se ele da o flash mais pra frente, tinha morrido na passiva do naut
+[2:56:11] zKerli: a verdade é que só saiu na medida pq tinha a parede
+[2:56:13] 1ryanzin__: o cariok jogou com esse batateiro todos os jogos do split?
+[2:56:14] omachado1: Prodelta de spec
+[2:56:15] valbss: essa botlane da keyd é lulu aphelios td game
+[2:56:19] judeuz: elogiar o caca = proibido
+[2:56:27] daandoshow: seel
+[2:56:29] Sagevini: seel?
+[2:56:36] filhodorobs: prodelta achou que estava de maginho
+[2:56:40] Fumamafu: mas ele tinha visao do mato?
+[2:56:43] ogustaka7: o titan ate falou: ele vai flashar
+[2:56:44] 1ryanzin__: @judeuz parabens pelo w no minion e a batata na moita!
+[2:56:47] tufecra: ele n tinha i flash
+[2:56:49] taewoan: @1ryanzin__ É o que to falando, eu acho que Maokai infla a gameplay dele. Ele não faz a mesma coisa com nenhum outro pick, e isso faz diferença numa final por exemplo peepoPls
+[2:56:49] marceloww99: prodelta é prata
+[2:56:49] tcaiot: o prodelta MUDO
+[2:56:50] kedrycklol: sup gap
+[2:56:56] matheusramella: Se o prods não tivesse entrado naquela pain encaixada,hoje ele tava low tower do academy,falei tô leve
+[2:56:57] Selivem: O caca deu q na hora do f do ddisamis
+[2:57:00] ralpheraz: prodelta bem ruinzinho
+[2:57:03] dericzinn: o tempo inocentou o ceo da pain
+[2:57:07] MatheusKussi: esquema de apostas esse prodelta rs
+[2:57:09] rammusap: Jogou nao Dog
+[2:57:09] valbss: kkk
+[2:57:13] Extrarx: explica
+[2:57:16] cafzz: touc tentou
+[2:57:20] tufecra: prodelta n tinha flash na play, era flash hextch
+[2:57:24] 0marvinn0: prods é muito pain, tava jogando pra nois
+[2:57:27] matheusramella: Se o prods não tivesse entrado naquela pain encaixada,hoje ele tava low tower do academy,falei tô leve
+[2:57:30] PedroHenriquemed: prodelta é academy
+[2:57:33] twhabo: lets cu?
+[2:57:35] haebox: mid da vks tava 3/0.. ele devia carregar, nao?
+[2:57:39] zyro_xyx: guigo god no x1
+[2:57:48] Miguero: comunicação da pain ta parecendo feira da fruta
+[2:57:50] rammusap: Pq os 2 ex spps da pain estão tao churrascado???
+[2:57:50] Niuh_: prodelta não tem nível cblol
+[2:57:51] tcaiot: kkkkkkkkkkkkkkkkkkkkkkkkk
+[2:57:52] juninhudias117: e
+[2:57:54] RodrigoWrok: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[2:57:55] ThiagueiraZ: Ai ele foi avisado po
+[2:57:56] kedrycklol: KKKKKKKKKKKKKK
+[2:57:56] bsevero: o guigo avisou
+[2:57:59] cafzz: a keyd tinha q pegr esse maokai pro disamao
+[2:58:00] MaikonAlx: eu nunca gostei da comunicação da pain
+[2:58:01] Chrisskillerxd: Dont Ult his W ok ?
+[2:58:02] 1ryanzin__: ????
+[2:58:03] CasluFrazao: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[2:58:04] trash_cak3: xqdl
+[2:58:06] alopeciaareataa: o titas é muito engraçado, nao tem como
+[2:58:07] carletosss: @haebox com um time desse nem moises carrega
+[2:58:08] fejoness: !elo
+[2:58:09] vianah: o titan gritando pro tuco... esse maluco é retardado kkk
+[2:58:10] Sagevini: titan gritou pro tuco
+[2:58:10] StreamElements: --- Rangerzada = Master I (251 LP)
+[2:58:10] juninhudias117: Titan canalha, gritando pro Tutuco
+[2:58:11] rammusap: Pq os 2 ex spps da pain estão tao churrascado????
+[2:58:15] solanoul: titan escaralha mt
+[2:58:20] skycwtch: Titan não grita nos playoffs
+[2:58:20] omachado1: O Smiley é de qual país?
+[2:58:23] marceloww99: prodelta mt ruim
+[2:58:27] haebox: @carletosss hahahah
+[2:58:29] ohudsonfelipe: suecia
+[2:58:32] miniyetirx2: @omachado1 suecia
+[2:58:34] ralpheraz: @rammusap damage foi pro pior time e a pain fazia o pro delta parecer melhor
+[2:58:35] viniciusdotalon: oq o dudão queria bater no touco a pain bateu
+[2:58:37] splmovies13: @skycwtch nunca assistiu kkkkkkkkkkkkkkkkkkkkkkkkk
+[2:58:39] omachado1: @omachado1 POG valeu
+[2:58:40] kedrycklol: KKKKKKKKKKKKKKKKKKKK
+[2:58:42] Cabelovlr: kjkkkkkkkkkkkkkkkkkk
+[2:58:43] kondoriano: sinergia do dynquedo com o titan é imoral, carioca tá feliz bagarai por isso
+[2:58:47] chrono_oo: RANGER pq hoje muito laner é solado? no passado era levemente mais raro acontecer, hj praticamente todo jogo alguém é solado
+[2:58:51] f4finh4: REXPEITA LEK XSQDELE SETALOCO
+[2:58:59] trash_cak3: O Lucian do Titan é diferente mn
+[2:59:00] counterdefense: a pain fez nd demais
+[2:59:03] richardagm_: igual a seju do goat
+[2:59:04] ThiagueiraZ: Ele já tinha gastado o Q
+[2:59:09] mmaickk: vc percebe q o cara n tem alma em jogo quando ele grita pro teucu kkkk
+[2:59:10] nickderme1: Ego coreano
+[2:59:11] haebox: ceos eh mto bom
+[2:59:18] dericzinn: a partida PAVOROSA do destroy
+[2:59:21] breagui: ceros e mto bom porra qisssoooooooooooooooooo
+[2:59:22] 1ryanzin__: oq ele ia errar o Q nessa parede grossa era sacanagem
+[2:59:22] cafzz: oq o ceos fez esse game foi brincadeira
+[2:59:28] majordux16: o que o ceos joga com esse naut nao ta escrito
+[2:59:35] neurolouco01: era um j4 nessa comp, ou n pegava rumble
+[2:59:38] lucasbfeg: 100K MAIS BEM GASTOS DA KABUM TODO MES
+[2:59:40] marceloww99: ceos n carrega essses maluco nao
+[2:59:41] nickderme1: Esse destiny é horrível
+[2:59:45] sacicompure: Ullltei
+[2:59:46] GaIinhazinha: Po cara, esse Rumble do Destroyer n ter dado um 40 nas cartinhas é putaria... Ele claramente tava intando isso... Imporrível um pro ultar assim, ainda mais coreano
+[2:59:48] RodrigoWrok: DASHEIIIIIII
+[2:59:53] michaelsccp1: ENGRAÇADO QUE CONTRA A RED O LUCIAN PASSOU EQUEM TOMOU PAU FOI O TITAN LOGO JA FOI REFUTATO TILTAN
+[2:59:56] GhostKing2075: Eiburun????
+[2:59:57] GaIinhazinha: impossível*
+[3:00:05] neurolouco01: a comp do time dele, era horrivel pra rumble,
+[3:00:07] dericzinn: OLHA O DESTROY QUEIMANDO AS MOITA CARA
+[3:00:17] 1ryanzin__: @michaelsccp1 na real q a red baniu lucian
+[3:00:19] tcaiot: o neturno não acertou uma ult esse game
+[3:00:24] babysfirra10: kkkk
+[3:00:25] ogustaka7: esse rumble
+[3:00:27] cafzz: ele é fofo
+[3:00:32] tutilol1: com destroy é
+[3:00:33] ZeyCarlitz: pega nem playoff
+[3:00:34] jun9nho: keyd vai ser campea já
+[3:00:36] marceloww99: o seeel discorda
+[3:00:38] ankarvos: falaram o mesmo da team one
+[3:00:38] dericzinn: olha as ult do rumble cara
+[3:00:38] filhodorobs: cara á melhor coisa é ver a pain feliz , é muito bom tirar o sorriso deles na final TwitchConHYPE
+[3:00:39] taewoan: Com o Destroy é foda mesmo KEKW
+[3:00:43] Serato_DJ: impossivel e questao de opiniao
+[3:00:44] ohudsonfelipe: kbm loud pain
+[3:00:44] screenjs: os provaveis campeoes
+[3:00:44] nickderme1: Pain
+[3:00:45] Dayside: @michaelsccp1 tava assistindo de olho fechado pelo visto pra falar q lucian passou kkkkkkkkkkkkkkk
+[3:00:45] Niuh_: final loud e pain dnv
+[3:00:46] tufecra: se o destroyer jogase 10% melhor a furia ganhava esse game
+[3:00:48] vianah: impossivel ganhar, mas acho que conseguem perfomar nos playoff
+[3:00:49] trash_cak3: KBM LOUDE e PAIN
+[3:00:50] SokomoKuduomi: pinto o campeao?
+[3:00:50] hrickbrando: pain?kkkkkkkkk
+[3:00:55] marcioo01_: red ?
+[3:00:55] LuqiAnd: e os 10?
+[3:00:59] victorsantaterra: ?????????????????????????
+[3:01:00] noonezw: Fala isso n mano, o Seel tá coringando dando a vida pela Keyd KKKKKK
+[3:01:01] MatheusKussi: A KABUM É IGUAL A LOS QUE VC JOGOU E PEGOU TOP 3
+[3:01:01] f4finh4: A Keyd tem um gap bem grandepra Fuia e Los
+[3:01:02] th_man_: matemática do minerva dog ?
+[3:01:02] 0marvinn0: lucido
+[3:01:02] dericzinn: 10 red
+[3:01:03] m4txlucas: 9% da intz
+[3:01:04] vi2tor: essa kabum não poe medo em ninguém
+[3:01:04] judeuz: não mentiu
+[3:01:05] GaIinhazinha: os outros 10 é da intz
+[3:01:05] khanjg: se a pain ganhar eu me mato
+[3:01:06] GhostKing2075: PRO SANTO
+[3:01:06] ThiagueiraZ: Os outros 10 é zebra
+[3:01:06] 1ryanzin__: red canids vai chocar o mundo
+[3:01:07] s0lkiee: 10 e da intz
+[3:01:07] soldi3r: 30% pra Loud é mto
+[3:01:08] ankarvos: falaram o mesmo da team one pit
+[3:01:08] richardagm_: red ta jogando volei?
+[3:01:09] EazyDans: INTZ?
+[3:01:09] rammusap: REDUXA É TAÇA PAPAI
+[3:01:10] MrBoto_: repete ai
+[3:01:10] Ferdiz1NhO: 10 los
+[3:01:11] Sagevini: dito isto Keyd campeã
+[3:01:11] c40sz: acho que a keyd é mais um projeto mesmo
+[3:01:11] marcioo01_: LOUD COMECU DA PAIN NAS FINAL
+[3:01:11] MatheusKussi: red churrascada
+[3:01:12] RV_Thrash: 1% pra intz?
+[3:01:15] kenayto1: a loud tem mais chance q a pain, o wizer e kuri sao botafoguenses
+[3:01:15] LKDLOL: Pain mais que loud se não for PAIN x LOUD na final
+[3:01:16] amandinhadoavc_: ohayooo sandman ;p ;p
+[3:01:16] screenjs: tu acha q a red vai pegar playoff goat?
+[3:01:17] ces6rr: red top 4 confia?
+[3:01:18] teeus_alves: mais facil a keyd ganhar do que a red
+[3:01:19] denilson_black_lanca: keyd é projeto
+[3:01:19] kwQw: é mais facil los do que red KKK
+[3:01:19] galatas00: 9% pra intz É MUITO
+[3:01:20] rammusap: Pq os 2 ex spps da pain estão tao churrascado????
+[3:01:22] 192ell: academyacademyacademyacademyacademy
+[3:01:22] marceloww99: @rangerlol1 o prodelta n ajuda
+[3:01:24] c40sz: Keyd é longo prazo tá claro
+[3:01:24] viniciusdotalon: minha LOUD VOLTARÀ
+[3:01:25] deltaroots1: sempre é assim e a loud ganha no final
+[3:01:26] G4ndalffo: seel falou ja que o time dele é longo prazo
+[3:01:33] GhostKing2075: TRUE
+[3:01:34] leoncomunista: pra mim é 40% Pain 40% Loud 40% Kabum e uns 30% Keyd
+[3:01:34] majordux16: 10% pra intz é muito
+[3:01:34] MrBoto_: se a pain ganhar jesus volta
+[3:01:36] viniciusdotalon: intz joga volei?
+[3:01:38] tufecra: tufecra is gifting 1 Tier 1 Subs to rangerlol1's community! 
+[3:01:38] tufecra: tufecra gifted a Tier 1 sub to clovisfi! 
+[3:01:39] neurolouco01: toucoulie é gabre
+[3:01:39] Rickzin_ftw: guigo é muito bom vlh
+[3:01:40] richardagm_: 40 pain 40 LLL e 10 kbm
+[3:01:43] vianah: Red se destiltar, vai dar uma alavancada absurda, mas ai é contar com ovo no cu da galinah tbm, pode acontecer ou não
+[3:01:44] dericzinn: bot lane da keyd é mt ruim, toma mt pau da loud e pain
+[3:01:44] sh40_lin: keyd ta mais perto q a RED
+[3:01:45] AguiTFT: smiley da pra jogar
+[3:01:46] srfantastic0: Toucu só tem nivel com o Azir
+[3:01:48] Seredy2: igual tua los?
+[3:01:50] joaovss6: a keyd tem que trocar o supp ( comprar o frosty talvez ) e o jungle
+[3:01:51] fmpwhat: @rangerlol1 no final, é sempre sobre paiN e Loud :(
+[3:01:51] EazyDans: @leoncomunista matematica da cadeia
+[3:01:52] catchugaa: sou egirl fofinha sem sub ...
+[3:01:52] skycwtch: Robô já deixou o recado no vídeo do schaeppi
+[3:01:53] otavioferre: INTZ tem 10% então
+[3:01:53] igoorgabriel25: IGUAL A SUA LOS? DHSUAHDSHDSAIH
+[3:01:54] bonfim21: hauz tem? lonely tem?
+[3:01:57] noonezw: O disamis tá melhorando mt recentemente
+[3:02:00] galatas00: INTZ so se cair um meteoro na riot ??
+[3:02:07] marceloww99: @rangerlol1 a loud vai levar
+[3:02:08] ankarvos: é a loud
+[3:02:09] dericzinn: pain é mono comp mesmo
+[3:02:09] MatheusKussi: furia n tem o mid late game
+[3:02:09] gigatinn: concordo 100% goat, pain ta favorita pelo oq mostrou, loud não convenceu nada nas vitorias e kabum não ta encaixada
+[3:02:10] PedroHSS35: @EazyDans do minerva kkkkk
+[3:02:11] 0felipebs: esse lonely é mito, só tem historia que ja jogou bem
+[3:02:11] c40sz: PAIN é o melhor lol mas vai pegar a LOUD e tomar pau
+[3:02:12] 1ryanzin__: melhor lol mas jogou com a mesma composição o camp todo
+[3:02:12] rammusap: O da Loud é o RedBert o CEOS QUE FAZ FALTA
+[3:02:13] sacicompure: Problema da LOS é o Celo?
+[3:02:13] leoncomunista: papo de 50% ou ganha ou não ganha
+[3:02:13] richardagm_: esqueleticos 100% chance de perder
+[3:02:14] MaikonAlx: AS CONDIÇOES DESSE META NÃO ESTÃO PERFEITAS PRA PAIN GANHAR ESSE ANO ?
+[3:02:16] MrQuintino: Po esse time da intz ganha... o acadamy
+[3:02:17] michaelsccp1: Tocoule mono azir
+[3:02:21] MatheusKussi: kabum dedo dif
+[3:02:23] salmorius: cabo a pool
+[3:02:31] yuuzinha1: Se a pain jogar bem q nem agr com outras comp a % deles ganhar aumenta?
+[3:02:31] skycwtch: Croc já usou 7 picks, Cariok apenas 3 picks
+[3:02:32] leoncomunista: faz falta um rebaixamento
+[3:02:32] ankarvos: problema da pain é a loud KEKW
+[3:02:33] soldi3r: baniu maokai cabo Cariok
+[3:02:36] rammusap: CEOS ta doendo demais
+[3:02:38] juanzinho417: Se o meta muda, o negocio fica esquisito para pain
+[3:02:39] joaovss6: a keyd tem que trocar o supp ( frosty talvez ) e comprar outro jungle
+[3:02:41] pablorbs12: o problema da pain é o pipoqueiro do top
+[3:02:41] filhodorobs: play-in normal para a loud
+[3:02:42] MatheusKussi: o malrang nao parece o snoop dog da korea ?
+[3:02:45] leoncomunista: Maokai e Lucian termina a Pain
+[3:02:47] otavioferre: todo split a pain tem o melhor lol, e nunca o melhor lol na final
+[3:02:47] danileansz: pain sempre vai tomar taca da loud na final, ja aconteceu 3 vezes, e n é o titan na pain q vai mudar isso
+[3:02:47] rammusap: É a ex que nao da pra superar :(
+[3:02:50] LilDhii: pelo menos a pain tem alguempra jogar de lucian, antes n tinha
+[3:02:52] kenayto1: a loud tem mais chance q a pain, o wizer e kuri sao botafoguenses
+[3:02:52] MuriR6: ta na fila?
+[3:02:52] LKDLOL: 40% pra loud se for PAIN x LOUD NA FINAL
+[3:02:53] LuqiAnd: a pain parece o FLA de 2019 @rangerlol1
+[3:02:53] felpolaa: netubas ta mal tbm ne goat
+[3:02:54] RV_Thrash: pain ta só escondendo o jogo Kappa
+[3:02:54] dani_fic: @pablorbs12 e no mid
+[3:02:59] MaikonAlx: ESSE META NÃO TA PERFEITO PRA PAIN NÃO ?
+[3:03:05] noonezw: Ainda sim o Redbert encaixou bem
+[3:03:06] darkold: hauz tem dna popcorn
+[3:03:08] joaovss6: a keyd tem que trocar o supp ( frosty talvez ) e comprar outro jungle ai vai dar certo
+[3:03:10] vianah: a função do Ceos dentro de um time é ABSURDA, não tem como negar
+[3:03:15] jvalcof: @joaovss6 a keyd só n tinha pegado o frosty pq a multa dele é alta
+[3:03:17] richardagm_: tristana
+[3:03:21] GaIinhazinha: A loud podia usar a fase de pontos pra treinar picks de nível internacional... mas não tão tentando isso e tão com um macro estranhão
+[3:03:22] ankarvos: samira
+[3:03:22] demiris: lonely arrumou uns cara bom e relaxou, quando tava com os pedreiro ele era tryhard
+[3:03:23] davipo2001: A Laud no começo sempre joga mau
+[3:03:24] Nardinhuu: METUNO
+[3:03:30] screenjs: saturno?
+[3:03:32] catchugaa: ranger questão de draft n deveria ser algo meio "basico" pros times ? vcs lendas conseguem ler o draft tao facil
+[3:03:37] castasxd: acha que a esquelética volta algum dia ou vai vender pro mengao?
+[3:03:38] pablorbs12: meu mano coturno é de fases
+[3:03:39] tiehaka: Neturno?
+[3:03:39] ThiagueiraZ: Mas vc mesmo comentou que ele melhorou o Varus então pode ser questão de adaptação
+[3:03:41] tufecra: os jogos da kabum tao banindo lucian do diurno?
+[3:03:44] caiodaniels: uwu
+[3:03:47] AngeloMarcioMC: Esperava mais do Fiat uno c Ceos
+[3:03:54] rammusap: CEOS  gigante é a ex que faz falta
+[3:03:58] caiodaniels: habla
+[3:04:00] vorkesz: brance no lugar do netuno n era taça?
+[3:04:02] alicelandim: pq o prodelta ta jogando tão abaixo?
+[3:04:04] thiagomoreiras: o mutano tem potencial
+[3:04:11] greennomo: Vai acompanhar o academy hj?
+[3:04:12] filalpark: micao é um pedaço de merda que nem devia tá ai
+[3:04:14] joaoalipiio: lucian nami
+[3:04:16] joaovss6: a keyd tem que trocar o supp ( frosty talvez ) e comprar outro jungle
+[3:04:30] richardagm_: red magnetica
+[3:04:30] breagui: é literalmente a comp com os boneco mas forte do meta kkk
+[3:04:33] danileansz: redbert n tem potencial pra passar o ceos?
+[3:04:37] michaelsccp1: AI FALOU MERDA AEGIS TE AMASSOU DE MAOKAI QUANTO TU TAVA NO FLAMERDA
+[3:04:38] leoncomunista: Grevthar é Neeko e Galio saiu disso é um bagre
+[3:04:39] catchugaa: nada é tao simples como parece ne entendi obg GOat
+[3:04:39] babysfirra10: Sim
+[3:04:40] thiagomoreiras: kuduro ainda vai melhorar
+[3:04:42] MrQuintino: Kkkk q q aconteceu com o gravata cara kkkk
+[3:04:44] caiodaniels: CALA A BOCA E VOLTA PRO COMP, PRECISAMOS DE VC <3
+[3:04:45] L1u_k4ng: true
+[3:04:46] marceloww99: kkkkkkkkkkkkkk
+[3:04:47] filhodorobs: problema da red é o aegis , falei  Goat
+[3:04:49] richardagm_: NAO FARMA
+[3:04:49] pablorbs12: @danileansz kkkkkkkkkkk tem sim pow
+[3:04:53] castasxd: acha que a esquelética volta algum dia ou vai vender pro mengao??
+[3:04:55] dericzinn: mas se o player for mt bom com o individual dele, as vezes dá jogo
+[3:04:56] ridleybr02: tipo quando o meta era lee sin e o ranger era jungler?
+[3:05:10] LuqiAnd: nice fepes kkkkk
+[3:05:10] miaucaio: Tipo udyr q tava escaralhado no mundo todo e perdeu todos os games na primeira semana
+[3:05:16] 0felipebs: solado = Nice febs
+[3:05:18] toryinn: makes tem mo vozerao
+[3:05:18] sonotseven: DRAKEHERO CARECA??
+[3:05:20] Macielzeraa_: a pain jogos HOJE é favorita?
+[3:05:20] 1ryanzin__: só um lee sin wukong diana e viego na jungle
+[3:05:24] tutilol1: makes tem voz de fumante com 18
+[3:05:36] Sagevini: voz de fumante do makes
+[3:05:38] dericzinn: devem ter dado call pra sair
+[3:05:40] playba77: ULT level 4?
+[3:05:44] juanzinho417: É assim que chama agr?
+[3:05:46] sonotseven: AMIGÃO TÁ PARECENDO O AOSHI
+[3:05:48] teteuzsy: Dito isto cavalo o pior sup de todos até a intz tem um sup melhor
+[3:05:49] Sudion_: Ele gastou o E @rangerlol1
+[3:05:50] playba77: kkkkkkkkkkk
+[3:05:51] juzecanalha: kkkkkkkkkkkkkk
+[3:05:52] 1ryanzin__: logico
+[3:05:56] chikenlirouxd: Aegis que falou deixa kill pro pai
+[3:05:56] templurun: gravatar é garçom do aegis
+[3:05:57] RafinhaiU: é o dono do time
+[3:05:59] 192ell: kssete dog
+[3:06:00] inhonhokyiok88: pq ele n carrega
+[3:06:00] sobekrs: @rangerlol1 INTZ com Karma ganharia da paiN ?
+[3:06:02] 1ryanzin__: o aegis de brand faz mt mais q o grev de taliyah
+[3:06:07] vitord4niel: @playba77 ?
+[3:06:11] babysfirra10: cara jogando de brand jg  quer kill xdd
+[3:06:11] yuuzinha1: Makes tem uma voz de fumante q diabo
+[3:06:12] kondoriano: micão 0 comunicação
+[3:06:13] teteuzsy: Cavalo horroroso
+[3:06:13] dericzinn: drakehero e makes tao com voz de fumante
+[3:06:14] tofurioso: pior que o makes ta tendo que calar as calls
+[3:06:23] templurun: cavalo de leona foi feio
+[3:06:25] joaovss6: @rangerlol1  a keyd tem que trocar o supp ( frosty talvez ) e comprar outro jungle
+[3:06:28] Niuh_: nem com 5  karmas
+[3:06:28] vianah: Espero que o Makes tenha oportunidades em times melhores, o cara ta se mostrando muito bem
+[3:06:32] Miguero: acho que pra intz ganhar da pain, o titan e o cariok precisam tomar uma cadeirada antes do game
+[3:06:33] templurun: bichao n sabe ultar de leona
+[3:06:34] Mais1_: n teve audio das 2 ult errada do grev ne ?
+[3:06:35] vorkesz: tomara que depois desse split os times comecem a valorizar os players daqui e parem de queima dinheiro com import
+[3:06:36] tufecra: intz com karma so ganha daRED
+[3:06:37] chikenlirouxd: pain pode jogar os 4 de suporte e só o titan de adc que a intz nn ganha da pain
+[3:06:37] tutilol1: o micao nao fala nada sendo o com mais xp
+[3:06:38] 0felipebs: nem se a pain tivesse o pior draft e a intz com karma com ashe
+[3:06:38] chrono_oo: A pain com KARMA ganharia da INTZ?
+[3:06:43] JubileuPipoca_: se a intz montar os dois drafts consegue nao perder por muito?
+[3:06:44] demetri0x: @templurun reformulando sua frase: cavalo no cblol tá feio p crl
+[3:06:45] ThiagueiraZ: Ficou no vácuo
+[3:06:45] guilhermekrash: calma ai gravathar
+[3:06:46] omachado1: é o pai
+[3:06:51] solanoul: Kkkkkkkkkkkkkkkkkkkkkk
+[3:06:53] templurun: horse
+[3:06:54] rohuek: KKKKKKKKK HORSE
+[3:06:56] GaIinhazinha: O Brance levantando a mão pro JoJo e o Jojo cagou pra ele kkkkkkkkk
+[3:07:00] Ferdiz1NhO: pra aumentar o ego
+[3:07:01] alvaron2105: pq é bagre
+[3:07:02] babysfirra10: AD
+[3:07:02] omachado1: Ele ultou pra cima
+[3:07:02] ryanzzz_00: ultou pra tras
+[3:07:03] c40sz: AD
+[3:07:03] Dayside: Ele ultou
+[3:07:05] dericzinn: O GREVTHAR N CONSEGUE FIGHTAR SEM SER FRONT TO FRONT
+[3:07:05] Mascola_96: ja ultou
+[3:07:05] catchugaa: o grev grita mais que o brance no penta
+[3:07:06] Icesix: Ele.ultou para tras
+[3:07:06] ThiagueiraZ: Ultou pra trás
+[3:07:06] 1ryanzin__: ele ultou pra tras
+[3:07:06] sacicompure: Imagina o dia que o Filho do Gtevthar passar no vestibular
+[3:07:07] tutilol1: utou pra tras man
+[3:07:07] sh9101: ele ultou pra tras
+[3:07:09] marceloww99: ULTO PRA TRAS
+[3:07:09] kimizii: Ele ultou
+[3:07:09] Waaay1: ultou pra trás
+[3:07:09] templurun: suporte dos caras n fala nada
+[3:07:09] fmpwhat: ELE ULTOU PRA CIMA, VOLTA
+[3:07:10] zMoreiraxx07: ELE ULTOU PRA TRSA KKKKKKKKKKKKKKKKKKKKKKK
+[3:07:11] breagui: nao foi ali q ele ultou pra tras?
+[3:07:12] igorarvelos: AD]]]]]]]]]]]]]]]]]]]
+[3:07:12] filhodcerol: Ultou pr tras
+[3:07:12] Miguero: vozeirão do makes
+[3:07:13] marcoshmp: ele ultou errado goat
+[3:07:15] ddziin: ultou pra cima
+[3:07:16] PandaT0o: ELE ULTOU
+[3:07:16] jjamess97: pra tras LUL
+[3:07:16] demiris: kkkkkkkkkkkkkkkkkkkkkkkk
+[3:07:18] RafinhaiU: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[3:07:18] richardagm_: wow
+[3:07:18] 1ryanzin__: olha ai a kill q era pra ficar pro aegis
+[3:07:18] ravsco0: ele ultou pra tras kkkkkkkkkkk
+[3:07:19] MaikonAlx: Eu acho um absurdo o makes callando as figths e o micão calado, absurdo. Ele não fala nada
+[3:07:19] guitadeu: CAKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+[3:07:19] killgraves: Pq  sera kkk
+[3:07:20] lucaxkkk: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[3:07:20] maxdu1998: ????????????
+[3:07:21] tutilol1: gravaTAR
+[3:07:21] thulioxff: KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+[3:07:21] th_man_: LUL LUL LUL LUL LUL
+[3:07:22] ohzorio_: kkkkkkkkkkkkkkkkkkkkkkk
+[3:07:24] RV_Thrash: o R do teclado dele ta com defeito Kappa
+[3:07:24] afttaiser: 1Q ISSO
+[3:07:24] sirpikapal: sirpikapal subscribed with Prime. 
+[3:07:24] templurun: Horse é mudo?
+[3:07:28] thiagomoreiras: academy
+[3:07:28] N1ckY_kill: bagrethar
+[3:07:29] LKDLOL: MDSSSSSSSSSSSSSSSS
+[3:07:30] fmpwhat: KKKKKKK ABAIXA A NOTA DA CARTINHA RANGER
+[3:07:30] HigaPlayerONE: tá explicado pq ele pediu descula
+[3:07:31] Tatsuya314: 58 player
+[3:07:31] noonezw: Agora entendi o que o Revolta tinha nos poupado ver
+[3:07:32] slothonly: jkkkkkkkkkkkkkk
+[3:07:32] omachado1: E ainda não deram 40 pra ele nesse fds
+[3:07:33] maxdu1998: Mano tem algo errado com ele
+[3:07:33] RafinhaiU: gravatar do céu
+[3:07:33] richardagm_: é o special move
+[3:07:34] breagui: mas pq ele nao entrou por tras dos carrys nessa fight cara? medo de jogar o jogo
+[3:07:34] tutilol1: gravatar ta paia
+[3:07:35] ohzorio_: goat
+[3:07:37] marcoshmp: bagretar
+[3:07:37] Downloudi: mds do ceu lek
+[3:07:38] Mais1_: queria ver o audio da red nesse momento
+[3:07:43] rammusap: Gravatar é GOD
+[3:07:46] fmpwhat: ABAIXA A NOTA DA CARTINHAAA
+[3:07:46] mymorx: ele ultando para cima kkkkkkkkk ainda deram nota boa d+ nas cartas para ele
+[3:07:48] marcoshmp: alguem tira o R do teclado do gravatar
+[3:07:48] juanzinho417: Ss fosse para escolher entre perder as pernas ou apostar no piloto para perder só uma eu preferia perder tudo
+[3:07:51] p4ndastv: Né azar não dog
+[3:07:52] ZarinaMab: ELE PRECISA ORAR
+[3:07:52] pablorbs12: olha o makes jogando e o time dele fazendo nada
+[3:07:53] sobekrs: baixa a nota da cartinha do bagrethar
+[3:07:53] vorkesz: micao ta derretido velho o cara n abre a boca
+[3:07:54] N1ckY_kill: BAGRATHAR
+[3:07:55] guitadeu: azar
+[3:08:00] noonezw: Inimigo da ult o Grevthar KKKKKKL
+[3:08:01] yuuzinha1: Se a pain mostrar outras comps com o msm nível de jogo qual a % deles @rangerlol1
+[3:08:01] tutilol1: @rangerlol1 nao te incomoda o micao nao ser o igl sendo o com mais xp
+[3:08:02] mysterion6: era tipo vc ultando de sejuani
+[3:08:02] vianah: @rangerlol1 vc acha que supercleber e makes vieram pra ficar? obvio que o camp nao acabou e ainda podem dar underperform
+[3:08:03] JotaNatan3: AZAR??? paninho vem forte
+[3:08:06] jhonnysm_: pegou a bagripe
+[3:08:07] MaikonAlx: o micão não fala nada vei
+[3:08:11] marceloww99: @rangerlol1 se isso acontece commigo eu compro mouse e teclado novo
+[3:08:15] beyondsky94: Qui azar Ranger tu é tão paga pau dele assim ? O cara é ruim msm
+[3:08:17] N1ckY_kill: SE FOSSE EU ALI DE TALIAH DAVA 1V9 OU FAZIA O BASICO PELO MENOS
+[3:08:18] inhonhokyiok88: gravthar ta protestano
+[3:08:18] RafinhaiU: ta parecendo tu nql split
+[3:08:23] tcaiot: depila?
+[3:08:25] tiago_lael: Por isso o revolta tava putasso
+[3:08:26] JotaNatan3: @beyondsky94 ele é mto ruim
+[3:08:34] GaIinhazinha: Goat, depois pode passar um olho nas notas das cartas pra ver se sua opinião mudou dps desses na escuta e revendo os jogos?
+[3:08:38] inhonhokyiok88: @tcaiot me pilla
+[3:08:38] chikenlirouxd: Micão o mais experiente, que era pra dar direção pro time, o cara nn abre a boca pra nada kkkkk
+[3:08:42] gui_mirandax: Piloto se posicionou mt mal,tomou do brand de graça
+[3:08:44] rammusap: PRA MIM É GRAVA GOD
+[3:08:47] teteuzsy: Cavalo o pior sup do cblol até a intz tem um sup melhor
+[3:08:54] rammusap: Digo e to leve
+[3:09:00] tufecra: micao e piloto n joga
+[3:09:02] miaucaio: Metade do time falando pra terminar o drag e o cavalo "ENGAAAAGE"
+[3:09:07] glaciafeels: O micao mto quieto espanta po, Makes fala absurdamente mais
+[3:09:13] lukao1020: micao e piloto sao covardes
+[3:09:13] ces6rr: micao n fala nada ne
+[3:09:23] tufecra: micao bixa muda
+[3:09:24] jonlokii: E O GOAT
+[3:09:28] dericzinn: brance fez 1v9
+[3:09:33] tutilol1: micao falou nada o jogo inteiro,é pra isso que colocaram o cara com xp?
+[3:09:42] MaikonAlx: micão é muito gazela e nem fala nada...
+[3:09:46] rammusap: Sera que a Bot lane da Intz nessa liberty daria melhor esse time??
+[3:09:46] majordux16: micao tiltadasso
+[3:09:47] templurun: papai ta aqui e quase perde
+[3:09:47] noroih: micao mudinho
+[3:09:49] dericzinn: era melhor trazer um mlk do academy do q botar o micao pra jogar assim
+[3:09:49] 0felipebs: mas é um time de novato
+[3:09:54] vorkesz: se não fosse o brance essa red ai tava com 2 win no maximo
+[3:09:54] JotaNatan3: contra liberty é facil
+[3:09:56] marceloww99: 10 anos de prazo ne
+[3:09:56] nickderme1: Ultra longo prazo
+[3:09:56] SokomoKuduomi: e o micao
+[3:09:58] inhonhokyiok88: longo prazo
+[3:09:59] templurun: Se n fosse o piloto e o horse com medo de jogar lol
+[3:10:00] Miguero: Eles acharam o micao
+[3:10:02] GaIinhazinha: só achar mais 4 makes
+[3:10:02] chikenlirouxd: micão dps desse split ele aposenta 100%, o cara já derreteu tudo que tinha pra derreter
+[3:10:02] demiris: achariam o Piloto tbm se ele não fosse tão pau mole
+[3:10:03] teteuzsy: Pessoal falando do micao mas olha o sup dele! Horroroso esse cavalo
+[3:10:05] guilhermekrash: calmaaaa Gravathar
+[3:10:05] ThiagueiraZ: Que que o Micao fez man
+[3:10:08] th_man_: e sabem q o drake n tá pronto
+[3:10:08] perguntasboas: CLARO Q TU QUER VER VITÓRIA, TU É RUIM
+[3:10:08] lukao1020: kkkkkkkkkkkkkkkk
+[3:10:09] richardagm_: calm down
+[3:10:09] juzecanalha: kkkkkkkkkkk
+[3:10:10] N1ckY_kill: MICAO NOVO TALENTO
+[3:10:10] marcoshmp: acharam o micao tb
+[3:10:10] taoista9: kkkkkkkkkkkkkkkkkkkkkkkkkk
+[3:10:13] fiamon_: a loud já passo?
+[3:10:16] erlim07: tem algo bom a se falar da esquelética meu GOAT?
+[3:10:16] GhostKing2075: Tudo isso contra a Liberty
+[3:10:16] p4ndastv: Po, foda é o mais experiente não dar um piu
+[3:10:17] rammusap: Sera que a Bot lane da Intz nessa liberty daria melhor esse time????
+[3:10:17] killgraves: Piloto ta legal tb
+[3:10:18] vianah: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[3:10:19] Extrarx: mlk quer ser carregado e ver vitoria
+[3:10:19] dericzinn: flash pra esconder o corpo
+[3:10:24] demetri0x: damage ruim demais k
+[3:10:25] noonezw: Flasheiiii
+[3:10:26] miaucaio: Esse tal de micao parece promissor po
+[3:10:27] 1Khad: IDL Gravathar?
+[3:10:27] gigatinn: acharam o makes e o pilot tem algum teto pra aumentar ainda, drakehero ta mt cru e micão e horse tão triste
+[3:10:38] draken_107: draken_107 subscribed with Prime. 
+[3:10:39] dericzinn: O FUU É CRAQUE
+[3:10:39] sh40_lin: INTZ já ta fora do CBLOL?
+[3:10:39] templurun: @Extrarx ultando errado e os caralhos
+[3:10:40] chikenlirouxd: Fuuu é muito bom viu
+[3:10:42] tufecra: micao tem muito potencial da dois split pra ele que vira uns dos melhores adc da história
+[3:10:43] rammusap: Micao é terrivel bicho coitado tem que ir de aposentas
+[3:10:44] demetri0x: @gigatinn esse cavalo é ruim demais k
+[3:10:50] vorkesz: esse fluxo ta fechadinho pra um time só de mlk novo mano
+[3:10:53] magistradooo: Eu era coach do fuuu aqui em curitba ele sempre foi assim
+[3:10:56] 1ryanzin__: deve ser sim
+[3:11:02] MaikonAlx: @teteuzsy o sup dele não segura o mouse dele lmao, ele é uma gazela
+[3:11:03] milenavcb: Super cleber joga volei?
+[3:11:04] Miguero: makes e fuu novos tinows e robs?
+[3:11:04] glaciafeels: Fuuu e Makes vale mto playoffs
+[3:11:05] juninhudias117: volta
+[3:11:06] chikenlirouxd: @tufecra potencial nesse time? kkk
+[3:11:07] pedrinqzn: fuu + supercleber é taça
+[3:11:09] dericzinn: a comunicação da intz é só "Ó"
+[3:11:10] mafeuso: FUU e MAKES são os novos tin e robs
+[3:11:12] perna_necrosada: kiari é muito subestimado
+[3:11:13] nickderme1: Kiwi no fluxo?
+[3:11:13] denjicrf: SUPER CLEBER OU MAKES?
+[3:11:15] erlim07: melhor q o destroy todos eles
+[3:11:16] JotaNatan3: @rangerlol1 ele é o nosso YSKM?
+[3:11:19] templurun: ele joga bem de braum
+[3:11:20] polesi1: se bota a botlane da intz ai no fluxo ja melhora
+[3:11:22] vianah: KKKKKKKKKKKKKKKK
+[3:11:23] yuuuukioo: makes fuu = tin robs da nova geração?
+[3:11:24] richardagm_: contra a esqueletica ate eu
+[3:11:27] sobekrs: Makes nao é One Trick Poney @rangerlol1 ?
+[3:11:28] dericzinn: ESSA FIGHT DO FLUXO FOI LINDA
+[3:11:30] demiris: makes e fuu + 3 cara velho e bom pique Ceos e Tinowns é taça
+[3:11:30] templurun: desde  o academy
+[3:11:31] mrfelipe15: Um time Kiari, Sting, Fuuu, Ayu e Frost, é taça???
+[3:11:36] KebFlip: cblol cheio de top bom esse split
+[3:11:38] lukao1020: tay parece um bot
+[3:11:40] pedroga244: !elo
+[3:11:42] StreamElements: --- Rangerzada = Master I (251 LP)
+[3:11:43] Jackzz4: carai, o kiari saiu vivo ainda
+[3:11:43] jun9nho: esse time do fluxo vai tirar uam vaga ainda em
+[3:11:47] RV_Thrash: tay nao pegou assistencia nesse game KEKW
+[3:11:49] Jfsoaress26: Crlh Goat acabei de ver o vod das cartinhas e poucas vezes eu vi alguém falando tanta besteira em um espaço tão curto de tempo #GOAT
+[3:11:49] GhostKing2075: @mrfelipe15 ta maluco, frost e sting sao horriveis
+[3:11:51] chrono_oo: ELES ACHARAM O FUU... AGORA PRECISA ENCONTRAR O DEU PRA SER O MELHOR DUO DO CBLOL... FUU DEU
+[3:11:54] dani_fic: @mrfelipe15 de acad sim
+[3:11:57] Miguero: Eu acho que ayu não pode ficar sem o zay, é o nosso prey e gorilla do br
+[3:11:59] chikenlirouxd: Kiara jogou bem dms
+[3:11:59] alvaron2105: tay mt feio jogando
+[3:12:12] RafinhaiU: eu sou cachorro loko
+[3:12:13] chikenlirouxd: Kiari*
+[3:12:13] taoista9: kiari
+[3:12:14] fernandomelojunior: 16hrs
+[3:12:14] m4txlucas: o kiari
+[3:12:14] ravsco0: mano o damage ta parecendo uma barata tonta
+[3:12:16] th_man_: tay intando
+[3:12:18] Estyus: Luta começa
+[3:12:20] tufecra: 16h ranger
+[3:12:22] ssimpatiaa: Fecha a Live dog
+[3:12:22] slothonly: micao tay cavalo e destroy, seria os 4 cavaleiros do apocalipse?
+[3:12:23] DuniFufer: @rangerlol1  olha o bug da kalista no soldado
+[3:12:24] richardzin244hz: eh bizarro como n nerfam ksante p ficar equilibrado
+[3:12:25] fernandomelojunior: vai levar multa.
+[3:12:26] chikenlirouxd: tay cabisbaixo slc
+[3:12:33] tutilol1: foi o kiari de ghost kk
+[3:12:33] tufecra: vai tomar multa do baiano dog
+[3:12:34] vorkesz: velho o tay era o pior na loud, o pior na los e o pior no fluxo, como que ele consegue ainda time que acredite nele
+[3:12:36] zZanne_: Yampi dormindo
+[3:12:40] fernandomelojunior: 16hrs. Vai levar multa do baiano
+[3:12:42] PedroHSS35: 16h dog
+[3:12:43] templurun: os caras corendo vei
+[3:12:45] richardzin244hz: ksante e milio c ctz eh as 2 maiores aberraçoes d td tempo ja lançado
+[3:12:49] ThiagueiraZ: Mas até em um 4v 2 a INTZ perdeu
+[3:12:50] tufecra: fecha live dog
+[3:12:50] Estyus: Luta começa. INTZ " PRA TRÁS, RECUA, RECUA"
+[3:12:51] kragrtr: @richardzin244hz ele é equilibrado, metade do tempo ele tanka tudo, na outra metade ele enfia a porrada sem dó
+[3:12:54] dericzinn: esse time do fluxo é mt interessante
+[3:12:55] th_man_: os caras da intz n conseguem nem falar mais absoluttCranio
+[3:12:58] noroih: Fluxo top 6 sera ?
+[3:12:58] chikenlirouxd: Fluxo é a surpresa desse cblol
+[3:12:59] inhonhokyiok88: raptado
+[3:13:05] azmodan_s: fluxo é uma line que vai maturar legal dog
+[3:13:06] dericzinn: melhor time low budget do cblol
+[3:13:07] polesi1: @rangerlol1  e se colocasse ninjakanalha e damage nesse fluxo?
+[3:13:16] jhonnysm_: top 6
+[3:13:16] quartzumi: goat mora em q cidade?
+[3:13:17] ridleybr02: fluxo na semi-final cravado
+[3:13:23] chikenlirouxd: kkkkkkkkkkk
+[3:13:24] ThiagueiraZ: KKKKKKK fo só falar
+[3:13:24] milenavcb: kkkkkkkkkkkkkkkkk
+[3:13:25] tufecra: fecha live dog vai tomar multa LKKKKKKK
+[3:13:25] dericzinn: REALLY GOOD
+[3:13:25] babysfirra10: REALI GUD
+[3:13:27] Uaid: mas no jogo contra a red vc falouo contrario da comunicação da fluxo
+[3:13:32] Mais1_: fluxo no segundo split se conseguirem evoluir legal pode pegar um playoff
+[3:13:34] KebFlip: lobo
+[3:13:34] majordux16: @richardzin244hz esse é o problema, se continuar assim vai nerfar tanto que vai quebrar o boneco e ficar injogavel de tao ruim
+[3:13:37] Nepikingg: RIALI GUD
+[3:13:43] L1u_k4ng: churrascado
+[3:13:46] demiris: eles chamam o redbert de Ygor kkkk
+[3:13:50] noonezw: precisava do ignite?
+[3:13:51] trash_cak3: q feira
+[3:13:55] thallison_h1: route falando mt
+[3:13:58] chikenlirouxd: esse meta tinha que mudar um pouco, já tá ficando bem chato esses champs
+[3:14:10] dericzinn: robo estudou com o cara
+[3:14:12] ThiagueiraZ: Kabbie ficou com 1 de vida
+[3:14:15] demiris: ele não conseguiu dar o hit pra resetar
+[3:14:19] Miguero: caralho o kabbie é bom DEMAIS
+[3:14:21] erlim07: tobo flashou no kibe
+[3:14:21] gui_mirandax: Esse nautilus do redbert bate de frente com o do prods
+[3:14:23] jun9nho: seize nao é ruim nao
+[3:14:31] rammusap: GOD CLEBER
+[3:14:34] Miguero: esse maluco com um adc de verdade seria maluquice
+[3:14:34] IEvandro: Route virou Gago
+[3:14:40] vorkesz: route falando?
+[3:14:42] zZanne_: Esse nautilus do redbert me lembrou do hawk
+[3:14:43] polesi1: olha o route
+[3:14:48] RV_Thrash: @gui_mirandax o prod pelo menos tentava play KEKW
+[3:14:53] dani_fic: route fala uooou
+[3:14:54] dericzinn: balanceado
+[3:15:05] lotusblack97: KKKKKKKKKKK
+[3:15:07] nickderme1: Stardust 40
+[3:15:11] demiris: ela ultou 3x na msm luta kkkkkk
+[3:15:13] th_man_: riot games HypeChimp
+[3:15:18] noonezw: pior que é
+[3:15:18] sydzinn: as se fica tomando reseta mesmo
+[3:15:19] afrx2: KEKW wtf
+[3:15:19] 0felipebs: que boneco quebrado
+[3:15:19] netwlol: CARALHOKKKKKKKKKKKKKKKKKKKKK
+[3:15:19] Nepikingg: KRL
+[3:15:20] ThiagueiraZ: E toma
+[3:15:20] J_Haydar: Q
+[3:15:22] milenavcb: kkkkk gemidao do croc
+[3:15:24] 1ryanzin__: q porra é essa
+[3:15:25] chikenlirouxd: essa Karma é imoral, mesmo dps do nerf até na soloq é free points
+[3:15:26] richardagm_: wow
+[3:15:28] beyondsky94: Mas pq faz isos ?
+[3:15:29] Ariel_Alves_Dutra: Sim
+[3:15:29] thallison_h1: e o redbert errando tudo kkkkk
+[3:15:30] miaucaio: É URF PORRA??
+[3:15:31] sydzinn: eles tomaram todos
+[3:15:32] markxisl7: a cara do redbert kkkkkkkkkk
+[3:15:32] netwlol: thanas
+[3:15:33] sacicompure: Dito isso, Envy craque
+[3:15:33] geng_gui: URF
+[3:15:34] omegakik: TA JOGANDO URF ?
+[3:15:37] DiegoNavarroLive: Fiquei triste com o nerf
+[3:15:38] pajezinr: ganho solo a tf
+[3:15:39] polesi1: dito isso stardust bagre
+[3:15:40] sobekrs: kkkkkkkkk riot balanceamento
+[3:15:43] jhonnysm_: É URF SAPORRA
+[3:15:47] MaikonAlx: eu acho que falta um pouco do redbert ainda
+[3:15:48] lotusblack97: Dito isso 99
+[3:15:51] DioMagenta: Karma ta bugando o jogo nessa season, bizarro
+[3:15:53] geladeira_consui: mas pq ela ta assim, explica?
+[3:15:55] thiagomoreiras: CHAMANDO TODAS AS LENDAS POLICE
+[3:15:59] Nepikingg: Vamo
+[3:16:09] skycwtch: Redbert recebeu 80, né? Kkkkk
+[3:16:11] tutilol1: parece aquela play do guma de varus no mundial usando 4 E em 4s
+[3:16:19] Niuh_: e olha que é o ENVY de karma! kkkkk
+[3:16:26] ZeyCarlitz: isso pq ele errou pra caralho ainda kkkkkkkkkk
+[3:16:34] sydzinn: 5
+[3:16:34] RafinhaiU: with celo
+[3:16:37] lotusblack97: 5
+[3:16:38] Yoriichi_Tnk: 5
+[3:16:41] inhonhokyiok88: 6
+[3:16:42] Domiods: 7
+[3:16:42] chikenlirouxd: 7
+[3:16:43] eslepope: 7 AGR
+[3:16:44] srflinstons: 10
+[3:16:45] dericzinn: foram 8
+[3:16:46] GuVieiraBene: ta porra kkk
+[3:16:48] jo_fernando: 8
+[3:16:48] tofurioso: 9
+[3:16:49] sydzinn: 8
+[3:16:49] Tatsuya314: 8
+[3:16:50] biudybr: karma do TFT slc
+[3:16:51] gustayt: 8
+[3:16:51] gabskehlzz: 8
+[3:16:52] chikenlirouxd: 8
+[3:16:53] lotusblack97: 8
+[3:16:53] smgabriiel: 8
+[3:16:53] ProfetaKaio: 8
+[3:16:53] eslepope: 8
+[3:16:54] richardagm_: sai do fake minerva
+[3:16:54] inhonhokyiok88: foram 8
+[3:16:55] idonzera: 8
+[3:16:56] erlim07: 8
+[3:16:57] Ritchyeri: q aberracao
+[3:16:58] RV_Thrash: 8
+[3:16:58] SKLameiraa: Foram 8
+[3:17:00] juninhudias117: tft
+[3:17:01] euarthu1r: 8
+[3:17:02] Pipoquir: 15
+[3:17:05] baforeipassei: urf?
+[3:17:12] dericzinn: RILI GUDI
+[3:17:12] Pipoquir: 16
+[3:17:13] rammusap: Super normal eu nao vejo o motivo da choradeira dos pro players
+[3:17:15] demiris: dont quite kkkkkkkkk
+[3:17:18] vorkesz: essa loud pode trollar o quanto quiser, eles ainda são os melhores
+[3:17:23] Niuh_: e olha que é o ENVY
+[3:17:24] polesi1: dito isso stardust bagre
+[3:17:28] sydzinn: deixam open tem que tomar
+[3:17:31] dericzinn: tamo junto
+[3:17:32] Ritchyeri: e tem gente q ignora essa merda
+[3:17:33] lukao1020: q nivel de sayiagin
+[3:17:33] M4tewsLOL: As Scrims eles jogam com o patch antigo?
+[3:17:33] choraoz: valeu goattt
+[3:17:34] lockevl_los: faaaala stardust
+[3:17:34] Neforo: ja muda essa ssemana ne?
+[3:17:36] hun7er_____: <3
+[3:17:37] chikenlirouxd: @rammusap vc nn entende pq nn joga em nível profissional
+[3:17:38] filhodorobs: "los jogou muito " jaja te conteudo para loud , video de 8m n da
+[3:17:40] cabeludo_burro: pika
+[3:17:41] zedbotafogo: !elo
+[3:17:42] StreamElements: --- Rangerzada = Master I (251 LP)
+[3:17:43] luizbascope: gg goat!
+[3:17:43] idonzera: vc vai ta la ?
+[3:17:50] cabeludo_burro: tbm meu goat, te adoro dog
+[3:17:51] choraoz: valeu rangerrrr
+[3:17:54] gabskehlzz: bju
+[3:17:55] crucified2: @vorkesz são sim KKKKKKKKK
+[3:17:58] rammusap: @chikenlirouxd meu pratinha é quase profissional
+[3:18:01] alvaroandreey: Boa tarde goat
+[3:18:02] Ryan_RAF_: goat, qual o cara de smolder la, o nick?
+[3:18:06] chikenlirouxd: @rammusap Quuaaase
+[3:18:06] gabskehlzz: !raid
+[3:18:07] mrfelipe15: bom descanso GOAT
+[3:18:08] dumelovip: Goat na lpl ?
+[3:18:11] gigi_yuri: !raid

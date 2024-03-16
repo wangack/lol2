@@ -1,0 +1,432 @@
+[0:00:13] StreamElements: AdamKissAK is now live! Streaming League of Legends: We back, soloq dia 2 (kicsit laggoltam/ok?)
+[0:00:33] mrtn19: ákááá
+[0:00:43] licsimicsi: tiszteletem
+[0:00:44] ak_fia_wannabe: back
+[0:00:50] zalan78: AKÁ
+[0:00:59] balintussz: na azt hittem valami baj van udv újra
+[0:00:59] iiTzMaRkO: gmmmmmmmm
+[0:01:04] lucuska01: Szia AK
+[0:01:16] iiTzMaRkO: fakiaHi fakiaHi fakiaHi
+[0:01:35] balintussz: haza érek én is tolom a silver q-t LUL
+[0:01:35] Moobot: Iratkozz fel a csatornámra évi 2 videóért: https://www.youtube.com/user/FormalAdamKiss
+[0:01:54] sanyi961112: henósz henósz
+[0:01:54] Moobot: ÚJ, DURVÁBB TOKEN !!!! HA VALAMI EZ MINDIG MEGÉRI -> 2 x 1500 FT, IGEN JÓL LÁTOD, 3000 HUF-AL OLCSÓBB KAJA, 1: TÖLTSD LE TELEFONRA A WOLT APPOT. 2:REGISZTRALJ A WOLTON A KODOMMAL, VAGY RENDELÉSNÉL IRD BE-> ADAMKISS
+[0:03:42] sanyi961112: géptisztító
+[0:03:55] 1Vavu: hello ádó hello mindenki
+[0:04:09] akkadmanar: !vegas
+[0:04:14] akkadmanar: !links
+[0:04:14] Moobot: @akkadmanar Minden szükséges link vagy social: https://taplink.cc/adamkissak
+[0:04:16] akkadmanar: !link
+[0:04:22] frksgyrgy12: laggolsz?
+[0:04:29] frksgyrgy12: fps vagy ping laggok?
+[0:04:30] jakabdawid: nem tudom, hogy milyenek lesznek, de remélem, hogy jók
+[0:04:39] sanyi961112: remélem jobb lesz a géped most már
+[0:04:45] sanyi961112: 3080 laggol az nem jó
+[0:04:45] Moobot: Iratkozz fel a csatornámra évi 2 videóért: https://www.youtube.com/user/FormalAdamKiss
+[0:05:31] xPROTOTYGERx: Karma az uj ultis targyal jo lehet? Rq kombo ulti damage procolhatná
+[0:05:31] leparfabian123: Mit gondolsz az új seasonről?
+[0:05:35] szedresii: szep estett <3
+[0:05:44] RandomLurkerCreep: Kekvelynn?
+[0:05:49] RandomLurkerCreep: !s14
+[0:05:50] StreamElements: Tetszik neki. Az AP itemek túl vannak tolva, a bot lane kicsit meh, top király.
+[0:06:03] sanyi961112: ezer éve
+[0:06:27] frksgyrgy12: mit csináltál vele?
+[0:06:28] RandomLurkerCreep: Kassawin ellen?
+[0:06:28] budosfos420: heloszia
+[0:07:15] frksgyrgy12: clense
+[0:07:15] Moobot: https://www.facebook.com/AdamKissAK/
+[0:07:29] bbelinszky: Van overclockolva a geped?
+[0:07:30] Moobot: Iratkozz fel a csatornámra évi 2 videóért: https://www.youtube.com/user/FormalAdamKiss
+[0:07:41] tbandee: Win restart volt?
+[0:08:49] xPROTOTYGERx: Wtf xd
+[0:09:01] tbandee: Ez egy blender volt.
+[0:09:27] purplehz_42: teljesen normális
+[0:09:36] adambence21: vegreee
+[0:09:40] tbandee: Nyugi majd a vanguard után jobb lesz SeriousSloth
+[0:09:42] adambence21: unibet off?
+[0:10:03] hopkaplay: lehet kéne 1 streamer gép :)
+[0:10:14] purplehz_42: nekem az csinált ilyet amikor a monitoron a gsync/freesync volt bekapcsolva játékon belüli vsync mellett
+[0:10:27] frksgyrgy12: nekem is szétszakad a game, játszhatatlan
+[0:10:29] SpLaYne_: én mindenkitől hallom mostanában, hogy szoktak lenni durva fps laggok random
+[0:10:29] Moobot: Iratkozz fel a csatornámra évi 2 videóért: https://www.youtube.com/user/FormalAdamKiss
+[0:10:33] SpLaYne_: (nekem is)
+[0:10:40] sanyi961112: 3070-nel nekem 144 fps van majdnem mindig
+[0:11:09] sanyi961112: meg most volt valami hír hogy kicsit növeltek a lol gépigényén
+[0:11:14] tbandee: FLASHBANG
+[0:11:14] SpLaYne_: fps-el magával nekem sincs gond, még ha laggolok ugyanúgy 100+-t ír
+[0:11:18] hopkaplay: azért vicces nekem 1070ti 130 fps-em van ha streamelem.
+[0:11:26] purplehz_42: amúgy most tettek be egy "új" mapot , nem meglepő ilyenkor egy játékban a serverlagg sem csak ugye lolban nem sűrűn tapasztalsz ilyet
+[0:11:35] bbelinszky: En hallottam hogy a regebbi rendszereken nem lehet majd mar lolozni, szoval lehet az is zavaro lesz
+[0:11:41] sanyi961112: nem bírja el a gép a csodagyerek inputját
+[0:11:46] sanyi961112: megfejtettem Ádó
+[0:11:46] winnetouh: Szia AK, nekem sokat segitett az FPS droppon, hogy a fomenuben (amig queueban varakozol) megnyitot az optionst: in-game -> game -> Legacy DX9 mode bekapcsolas es termeszetesen a max fos cap -et beallitod a monitorod frissitesere, mondjuk 144 fpsre. Egy probat meger. GL
+[0:11:46] Moobot: Iratkozz fel a csatornámra évi 2 videóért: https://www.youtube.com/user/FormalAdamKiss
+[0:12:45] doczidavid2k: @winnetouh Nekem is így fix :)
+[0:12:45] Moobot: Itt a legelső az új kaszinó https://taplink.cc/adamkissak "AKWEISS" kóddal kapsz 35(!!!) WEFT TOKENT amit ha holdolsz kaphatsz pénzt! Nagyon durva kamatok vannak rá, és ilyen tokent szerezhetsz még ha játszol pl slotot a feltöltött pénzből, és csak bent tartod a tokent és kamatozik a kaszinó profitja alapján! ( AZ ADAMKISS KÓD UTÁN KELL SPACE HA NEM JÓ MERT ELirta A SUPPORT XDD)
+[0:12:57] sanyi961112: öregszik az intel lehet
+[0:12:58] adambence21: kitakaritani?
+[0:13:00] PsychoDucky: Streamen kívül is van vele baj?
+[0:13:01] kozma25: A ram nem fogy el?
+[0:13:01] adambence21: portol ilyesmi
+[0:13:03] sanyi961112: erre tudok gondolni
+[0:13:03] hopkaplay: erő tesztet nem futtatsz le?
+[0:13:04] purplehz_42: cpu vagy gpu hőfokokat nézd meg ! @AdamKissAK
+[0:13:04] losmik7: nem melegszik?
+[0:13:05] ayayatoo: @sanyi961112 A LOL inkább proci heavy, legkevesebbet használ kb GPU-bol
+[0:13:05] Moobot: Iratkozz fel a csatornámra évi 2 videóért: https://www.youtube.com/user/FormalAdamKiss
+[0:13:07] g_e_k_y_r_a: nekema pornotol szokott lenni
+[0:13:11] kislengyel04: nem tudom, nekem is ezt szokta csinálni általában
+[0:13:11] kozma25: valami lehet meg eszi valami a ramot
+[0:13:18] D0nMateo: hutopaszta új benne?
+[0:13:21] sanyi961112: @ayayatoo vágom
+[0:13:22] zsombusz: @g_e_k_y_r_a XDDDDDD
+[0:13:23] ayayatoo: hanyadik generációs intel procid van ádó?
+[0:13:24] hopkaplay: procit lehet ujra kell pasztázni
+[0:13:25] purplehz_42: lehet a hűtéssel van bajod ha terhelésre jelentkezik a probléma
+[0:13:29] nitr0coach: a vodok kb hány nap eltéréssel kerülnek fel?
+[0:13:30] sanyi961112: free winek
+[0:13:32] sanyi961112: gg
+[0:13:34] csillagospatrik: GG ig
+[0:13:36] QuinnDaBst: ez lux game Pog
+[0:13:37] Green_Mouse: Baszki akkor mi szívunk ha 30fps lesz WutFace
+[0:13:41] dobozoskifli: henóhenó
+[0:13:44] RandomLurkerCreep: 7 perces meccs
+[0:13:48] kristof000: Mester lejet hogy ujra kéne pasztazni meg megnezni hogy a hűtőd megy e rendesen ez szokott segíteni
+[0:13:57] xPROTOTYGERx: Nekem a procihutom rogzitese tort el nemreg is kicsit elmozdult xd de ha éppen kitakaritottad akkor az segithetett azert valamit
+[0:13:58] hopkaplay: proci nekem 10% megy játék alatt
+[0:13:59] purplehz_42: de ne a teljesítményt hanem a hőfokot nézd meg
+[0:14:00] sanyi961112: mehet is a gépcsere Kappa
+[0:14:07] xPROTOTYGERx: Ha nagy hiba lett volna eszreveszed
+[0:14:08] Moobot: Iratkozz fel a csatornámra évi 2 videóért: https://www.youtube.com/user/FormalAdamKiss
+[0:14:11] ayayatoo: valaki tudja milyen procia van?
+[0:14:15] sanyi961112: Lux az ilyen
+[0:14:24] kristof000: Meg torony hűtőd van vagy folyékony hutesed?
+[0:14:26] QuinnDaBst: !pc
+[0:14:27] StreamElements: i9 9900k, RTX 3080, G.Skill 32GB
+[0:14:29] QuinnDaBst: !gep
+[0:14:30] lils0w: jó mostmár a game ádó? :D
+[0:14:45] QuinnDaBst: hátja lehet a proci a ludas
+[0:15:03] Green_Mouse: Külön streamer gép ?
+[0:15:03] kislengyel04: igen
+[0:15:25] sanyi961112: milyen processek futnak?
+[0:15:37] ayayatoo: aha, havernak ugyan ez az i9-9900k-a volt és ugyan ez volt a baja, Páromnak meg most raktam össze egy i3-12100f-el és game végéig is 300+ fps-e volt
+[0:15:37] Moobot: Iratkozz fel a csatornámra évi 2 videóért: https://www.youtube.com/user/FormalAdamKiss
+[0:15:40] ayayatoo: proci lesz a ludas
+[0:15:41] jakabdawid: de csak stream közben csinálja?
+[0:15:44] sanyi961112: vagyis hát mi eszi meg a procit?
+[0:15:45] ayayatoo: sajnos elavult ennyire a 9. gen
+[0:15:52] ayayatoo: de nézz utána ha nem hiszel nekem
+[0:15:54] hopkaplay: Processzor lesz 3080 brutális bányászathoz is az egyik legjobb volt nem melegszik abszolut
+[0:15:54] ayayatoo: tapasztalat
+[0:16:03] pow4rrr: a procin a hutofolyadekod milyen gyakran van cserelve?
+[0:16:06] purplehz_42: capture card ?
+[0:16:10] merhiles1: A konfig bőven elég más a gond! i9 levágja pask 2-őt  omg
+[0:16:26] sanyi961112: nvenc az nvidia
+[0:16:28] tbandee: Nagyon jókat nevetek a sok "hozzáértőkön" Giggle
+[0:16:28] sanyi961112: igen
+[0:16:28] XxLubo56xX: Procirol vagy kártyáról strimelsz ? @adamkissak
+[0:17:04] purplehz_42: 50 fok az teljesen normális
+[0:17:04] Moobot: Iratkozz fel a csatornámra évi 2 videóért: https://www.youtube.com/user/FormalAdamKiss
+[0:17:11] Torpieezis: 7 percért 28 lp xd
+[0:17:13] purplehz_42: 90nél is még bírnia kell
+[0:17:16] kislengyel04: @XxLubo56xX kártyáról
+[0:17:20] dwexhun2: túl sok terhelés esik a procira meg a videókártyára ezért felhevül és le megy az fps, nekem a laptopom volt egyszer nagyon forro és 5 fps em volt a gamebe, egy ujrainditas utan lehült és ugyan ugy meg volt a 300.
+[0:17:21] Seniorbalu: Gép oldalát vedd le
+[0:17:24] adambence21: a port kikell fujni levegovel?
+[0:17:30] ayayatoo: proci lesz a gond ádó, hiába I9, elavult. 12-14genes procival fényévekkel jobb lenne az fps
+[0:17:32] CsurmaKapitany: Speccy ingyenes app, kiír mindenről mindent is
+[0:17:34] robertop08: @tbandee chatgpt minőségű tanácsok
+[0:17:35] hopkaplay: most nyert
+[0:17:37] the_warrior27: most endel @AdamKissAK
+[0:17:38] jakabdawid: most nyert
+[0:17:49] KopaszBariis: A twich stúdió jobb lenne neked Ádám mint az obs
+[0:17:49] Moobot: https://steel.promo/GG_HU_ForGlory_AdamKiss - LEGJOBB PERIFÉRIÁK, ÁKÁ APPROVED
+[0:17:51] rioro666: most nyert eppen
+[0:17:51] HotPantsHP: !megmondo
+[0:17:52] StreamElements: ÁKÁ ezt vedd ki Pepega ÁKÁ azt építsd már Pepega ÁKÁ azt oda, ezt ide Pepega ÁKÁ cseréld már le azt az unitot Pepega ÁKÁ én ezt csinálnám Pepega ÁKÁ ott a neeko Pepega ÁKÁ én dájmond vagyok, fogadd el a tanácsom Pepega
+[0:18:00] RandomLurkerCreep: Tech supporttá változik a chat
+[0:18:09] hedron05: Sziasztok most jöttem, Mizu, a géppel van a gebasz?
+[0:18:09] Moobot: Iratkozz fel a csatornámra évi 2 videóért: https://www.youtube.com/user/FormalAdamKiss
+[0:18:12] Triax0n: Hello hello
+[0:18:17] ayayatoo: 1 hónapja cseréltem egy ilyen gépet, mert neki is ugyan ez volt a baja ugyan ezzel a procival ugyan így lolban.
+[0:18:19] csillagospatrik: Ez most ilyen tf mid abuse lesz vagy csak sima?
+[0:18:21] prolamaa12: speccy app az tényleg jó cucc
+[0:18:30] ftwsb: @tbandee már szinte várom hogy valami elbaszódjon és a szakik vakon megszereljék
+[0:18:31] purplehz_42: stream után indiai tech youtuber
+[0:18:31] ayayatoo: tesó papírom van róla hogy értek hozzá elküldjem? Kappa
+[0:18:35] merhiles1: OBS is belaggolt most szerintem azzal lesz a baj
+[0:18:39] Seniorbalu: Be kell írni webdoktorra :D ott mindig van megoldás mindenre
+[0:18:47] alienhun11: egyébként Ádó
+[0:18:48] alienhun11: Intel Core i9-9900K is too weak for NVIDIA GeForce RTX 3080 on 2560 × 1440 pixels screen resolution for Graphic Card Intense Tasks.  This configuration has 15.6% of processor bottleneck .
+[0:18:53] alienhun11: Bottleneckel a géped
+[0:18:58] alienhun11: ha 1440p-n vagy
+[0:19:00] Triax0n: Hogy tetszik az pálya?
+[0:19:07] Seniorbalu: Áttétes agyrák lehet
+[0:19:23] csillagospatrik: 2900 eternal holy
+[0:19:23] Moobot: Iratkozz fel a csatornámra évi 2 videóért: https://www.youtube.com/user/FormalAdamKiss
+[0:19:36] ayayatoo: ezek a bottleneck kalkulátorokat meg felejtsétek el amúgy kuka az összes ilyen oldal kb LUL
+[0:19:36] RandomLurkerCreep: @Seniorbalu Én inkább lupusra gyanakszom Kappa
+[0:19:37] xPROTOTYGERx: Karma?
+[0:20:00] Andaron_: fizz, kata, neeko?
+[0:20:02] rex24_: valaki magyarázza el nkem hogy lehet nyerni ebbe a szar seasonbe?
+[0:20:04] PsychoDucky: Obsben vannak nem használt scenek vagy overlayek az szokott ilyet csinálni ha vannak nemhasznált dolgaid benne sok azokat töröld ki és jó lesz
+[0:20:28] RandomLurkerCreep: @rex24_ Előbb ütöd be az enemy Nexust Kappa
+[0:20:29] csillagospatrik: Tehát marad a lux LUL
+[0:20:29] barney_stinsonn: Akkor lux support
+[0:20:41] lezuziusz1: a honor level miert van visszabb amugy?valaki tudja?
+[0:20:53] rex24_: @RandomLurkerCreep nice help xd
+[0:20:53] Moobot: Iratkozz fel a csatornámra évi 2 videóért: https://www.youtube.com/user/FormalAdamKiss
+[0:21:20] csillagospatrik: nemtudom hogy én vagyok e a süket de nem hallom pareszt
+[0:21:31] levijuhasz: !BRAND
+[0:21:39] RandomLurkerCreep: Lag miatt nincs DC?
+[0:21:42] Zibodaeune: én hallom
+[0:21:48] kewu88: @csillagospatrik Én tökéletesen hallom. Nem értem miről beszélsz
+[0:21:51] xPROTOTYGERx: Én hallom xd akkor vannak bajok
+[0:21:53] csillagospatrik: jó na sry most jöttem :c
+[0:22:03] Apu_Tej: na most fasza
+[0:22:03] inteligensceruzahegyezo22: nah most van
+[0:22:04] HUNgoku: nah most nagyonfasza
+[0:22:14] rex24_: nice paresz
+[0:22:14] Moobot: Iratkozz fel a csatornámra évi 2 videóért: https://www.youtube.com/user/FormalAdamKiss
+[0:22:16] Apu_Tej: csak hangos paresz
+[0:22:17] frksgyrgy12: hangos a dagi
+[0:22:17] QuinnDaBst: mehetett volna lux supp is Pog
+[0:22:19] inteligensceruzahegyezo22: kicsit hangos
+[0:22:23] tbandee: Preszről olyan 30%-ot vegyél le
+[0:22:30] hedron05: Na most te vagy halk vagy paresz hangos? xD
+[0:22:36] levijuhasz: Paresz hamgos
+[0:22:38] RandomLurkerCreep: A kultúra emberei egyszerre nézik mindkét streamet Kappa
+[0:22:40] HUNgoku: kiicsit visszább kéne húzd hangosabb  mint te ha tudsz
+[0:22:48] tbandee: Amúgy basszameg
+[0:22:53] tbandee: Miért nem nyomtok squad streamet?
+[0:22:53] Moobot: Instagram: https://www.instagram.com/adamkissak/?hl=hu
+[0:22:58] kewu88: Igen hallottuk a dagadtat LUL
+[0:23:05] tbandee: Mondjuk pont az utolsó game-ra...
+[0:23:11] tbandee: Hamarabb is eszembe juthatott volna
+[0:23:14] frksgyrgy12: paresz nem eszik?
+[0:23:14] Moobot: Iratkozz fel a csatornámra évi 2 videóért: https://www.youtube.com/user/FormalAdamKiss
+[0:23:40] frksgyrgy12: nemhallani
+[0:23:42] pow4rrr: Most nem haljuk
+[0:23:44] frksgyrgy12: most
+[0:23:50] inteligensceruzahegyezo22: most nem
+[0:23:54] levijuhasz: Nem halljuk..
+[0:23:55] Triax0n: Most sehogy
+[0:23:56] hopkaplay: most nem hallani
+[0:23:59] jakabdawid: Vivi hangján köszönget
+[0:24:24] d3ath__r3aper: Csáká
+[0:24:26] RandomLurkerCreep: Én hallottam Pareszt, azt mondta hogy, bár nem meleg AK az esete Kappa
+[0:24:46] Apu_Tej: most lehet hallani
+[0:24:46] Moobot: Iratkozz fel a csatornámra évi 2 videóért: https://www.youtube.com/user/FormalAdamKiss
+[0:24:54] levijuhasz: Pedig az elobb hallottunk csak nagyon hangos volt
+[0:24:58] Apu_Tej: nem bocs
+[0:25:00] cuero200: kamuzik
+[0:25:00] Apu_Tej: most nem*
+[0:25:02] sanyi961112: nem
+[0:25:03] ayayatoo: @Apu_Tej dehogy lehet
+[0:25:04] frksgyrgy12: dehogy lehet csak pepega
+[0:25:08] KasaTOP: hazudnak, semmit se hallani
+[0:25:08] RandomLurkerCreep: Az előbb pedig hallottuk ¯\_(ツ)_/¯
+[0:25:11] kislengyel04: dehogy
+[0:25:12] sanyi961112: semmi hang
+[0:25:12] lezuziusz1: az elobb lehetett de mar ne mxd
+[0:25:13] Touristicohio_: troll
+[0:25:15] tedd_beneky: elöbb hangosan lehetett . mostmár nem lol
+[0:25:15] HUNgoku: csaka kábszi  KEKW
+[0:25:17] Hodid3sign: LUL
+[0:25:21] barney_stinsonn: Olyan 1 percig lehetett, most semmi
+[0:25:22] ayayatoo: legelején hallottuk
+[0:25:28] ayayatoo: és ha voice-ba jönne fel?
+[0:25:29] lezuziusz1: meg kell nyitni split screenbe a ket streamet es csda
+[0:25:32] kislengyel04: csak egy pillanatra lehetett hallni
+[0:25:33] ayayatoo: azt lehet halljuk
+[0:25:33] Apu_Tej: eléág jó a cucc amit vettem na
+[0:26:01] frksgyrgy12: kis asmr mwehet is unmute
+[0:26:01] Moobot: Iratkozz fel a csatornámra évi 2 videóért: https://www.youtube.com/user/FormalAdamKiss
+[0:26:02] csinidini: de amúgy meg ki akarja hallani? Kappa
+[0:26:48] websitecookie: Paresz the latest fan of Belveth
+[0:26:54] szederm: xd
+[0:26:59] KasaTOP: neked is befagyogat a játék? vagy mi a baj?
+[0:27:08] georgee96: mert? fps bajok vannak? sorry csak most kapcsoltam be
+[0:27:22] crunchypants_: Azért kérdezem hogy mi a baj mert én tényleg értek hozzá.
+[0:27:51] crunchypants_: Nincs életem, ezeken nőttem fel.
+[0:29:29] csinidini: jaja
+[0:29:29] Moobot: YT: https://www.youtube.com/formaladamkiss INSTA: https://www.instagram.com/adamkissak Facebook: https://www.facebook.com/AdamKissAK/ discord: discord.gg/adamkissak
+[0:31:16] V3RzS0LT: !mic
+[0:31:16] StreamElements: HyperX QuadCast USB
+[0:32:11] DRKG599: ADAMLOLZ itt vagy?
+[0:32:38] Deszink: Nekem ezt a Locket of the iron solari-t irja
+[0:32:38] Moobot: Iratkozz fel a csatornámra évi 2 videóért: https://www.youtube.com/user/FormalAdamKiss
+[0:33:02] Deszink: jaaa nézem azt
+[0:33:10] Dorian1001: trailblazer
+[0:33:17] Soul2020: Trailblazer
+[0:33:35] HurkaDaBaaby: de az nem support item upgrade butusok
+[0:34:15] tbandee: VACUUM
+[0:34:19] tbandee: VACUUM  󠀀
+[0:34:24] KopaszBariis: Ádám mi a pontos baj a gépeddel ?
+[0:34:26] Mate16xd: Ádó am szerinted mikor fogod végre abbahagyni a lolt ? Mennyi idősen ? ><
+[0:34:27] RandomLurkerCreep: Szerintem arról még nincsenek statok
+[0:34:31] Vezi05: Azt akarja chat ami ki fejlodik abbol az itembol melyik kell bardra
+[0:34:32] Moobot: PRIVÁT INFÓK, SEHOL MÁSHOL NEM KÖZÉTETT BEJEGYZÉSEK, MINDEN MI SZEM SZÁJNAK INGERE, VEGASOS BÓNUSZ, EGYÉNI KÉPEK, AZ "AK PRIVÁT SZOBÁBAN" DISCORDON: - https://discord.gg/adamkissak
+[0:34:34] RandomLurkerCreep: túl friss a patch
+[0:34:36] LadaLCS: Én próbálom op.gg meg promatches.net-en is de azt írja, hogy gatya a szerver és nem tölti be
+[0:34:57] nitr0coach: solstice sleight lehet?
+[0:34:57] Moobot: Iratkozz fel a csatornámra évi 2 videóért: https://www.youtube.com/user/FormalAdamKiss
+[0:35:06] Vezi05: @Matiskaxd Ebből él hogy streamel  haver miért hagyna abba?:
+[0:35:09] kodzu1337: Solstice-t találtam rá
+[0:35:12] Biwodd: bloodsongot veszik ra i guess
+[0:35:14] Doncik23: Doncik23 subscribed at Tier 1. They've subscribed for 42 months, currently on a 25 month streak! Sok sikert az új seasonhoz Mester!<3
+[0:35:14] sevenius: Szárnyakat. Kell. Fogalmam sincs a nevéről. Rank1 bárd csak azzal játszik.
+[0:35:26] georgee96: én a Bloodsongot láttam
+[0:35:33] georgee96: szóval ja, ennyit tudtunk segíteni :D
+[0:35:48] Deszink: azt irta bandi h VACUM
+[0:35:54] KopaszBariis: Mi a baj a géppel pontosan  ?
+[0:36:02] skeet27: VACUUM
+[0:36:06] folyton_twitchen: @Matiskaxd azt úgy mondják hány évesen
+[0:36:14] semmisenki: a solstice sleigh az?
+[0:36:14] Moobot: Iratkozz fel a csatornámra évi 2 videóért: https://www.youtube.com/user/FormalAdamKiss
+[0:36:16] RandomLurkerCreep: Hoover
+[0:36:27] tbandee: VACUUM
+[0:36:30] zangetsu986: Na heló heló
+[0:36:48] RandomLurkerCreep: vaCUM Kreygasm
+[0:36:49] zangetsu986: Mi a helyzet? Áká?
+[0:36:50] KopaszBariis: A sok nokedli ne irkaljon mar egy picit ,hogy "VAKUM" tudja mindenki chill guys :D
+[0:37:10] Thomyris: @AdamKissAK  magyar az op.gg-m ugy azt irta hogy az úttörő kel bardnak
+[0:37:14] LadaLCS: Runic Compass-t láttam két csávónál
+[0:37:22] tbandee: @KopaszBariis Hogyan mond, hogy normivagy és nem használsz 7tv-t anélkül, hogy kimondanád hogy normi vagy és nem használsz 7tv-t.
+[0:37:37] davee_10: op.gg-n látszanak már az új itemek?
+[0:37:41] tbandee: VACUUM
+[0:37:41] Moobot: Iratkozz fel a csatornámra évi 2 videóért: https://www.youtube.com/user/FormalAdamKiss
+[0:37:57] x_Whitey_x: monkaS
+[0:38:10] websitecookie: KI EZ A BARD HOLY
+[0:38:11] fososkaka123: a legjobb bard player a vidéken
+[0:38:14] RandomLurkerCreep: monkaS TeaTime
+[0:38:18] semmisenki: még nem találták ki melyik a jó
+[0:38:22] xPROTOTYGERx: Gg nice lopas
+[0:38:26] alex135462: Hasznos Baaaard? Létezik???
+[0:38:31] kodzu1337: LoLalytics alapján Solstice sleigh-nek van a legnagyobb sample size + wr ratioja
+[0:38:38] Deszink: VACUUM
+[0:38:59] KopaszBariis: @tbandee Győződjön meg arról, hogy valamennyi szót helyesen írta. Próbálkozzon más kulcsszavakkal. Próbálkozzon általánosabb kulcsszavakkal. Próbálkozzon kevesebb kulcsszó használatával.
+[0:39:05] merhiles1: MUUCAV
+[0:39:05] Moobot: Iratkozz fel a csatornámra évi 2 videóért: https://www.youtube.com/user/FormalAdamKiss
+[0:39:14] xPROTOTYGERx: Mi ez a folyamat porszivohang? Valami nem stimmel ?  Vagy hatalmas takaritasok mennek a hatterbe?
+[0:39:25] RandomLurkerCreep: UCAVUM
+[0:39:30] x_Whitey_x: @KopaszBariis mi a faszom
+[0:39:31] KopaszBariis: @xPROTOTYGERx Szerinted ?
+[0:39:37] Fronty96: xDDDDDDDDDDDD
+[0:39:37] Moobot: Itt megtalálod hol pókerezek -> https://taplink.cc/adamkissak A BÓNUSZKÓD "ADAMKISS" IGY 20$ BEFIZETÉS FELETT 100$ ÉRTÉKŰ INGYEN JEGYEKET FOGSZ KAPNI! (Vagy discordomon belül: "poker" szoba). A befizetés revolut virtuális kártyáról(akár 1x, akár többször használatos), vagy skrill-ről tökéletesen működik. Megéri regisztrálni mert ha még nem is fizetsz be, minden nap ingyen játszhatsz(!napifree) ahol több nap alatt akár 100+ dolcsit is nyerhetsz(bár ehhez már ügyes pokeresnek kell lenned)
+[0:39:39] semmisenki: a solstice sleigh is jól hangzik
+[0:39:40] websitecookie: xd
+[0:39:42] szederm: xd
+[0:39:46] hopkaplay: nem a gépe adja ki ezt a hangot xd
+[0:39:48] Sabakuno_n1: MERT este nyolckor nem szoktam soha pórszívozni :D
+[0:39:49] folyton_twitchen: XDD
+[0:39:52] xPROTOTYGERx: Hat xd ha a gepembol jon xd
+[0:39:53] VeryBig_Kandur: LUL
+[0:39:53] Belnir: AK holmes
+[0:39:55] kkrisztianh: XD
+[0:39:59] HUNgoku: ott  illyen hangok nem  szoktak lennii   KEKW
+[0:40:00] zalan_vagyok_: xd
+[0:40:16] doka23cm: Betörő feltakarit maga utáb
+[0:40:16] Moobot: Iratkozz fel a csatornámra évi 2 videóért: https://www.youtube.com/user/FormalAdamKiss
+[0:40:20] folyton_twitchen: @Sabakuno_n1 az te vagy , nem mindenki ér rá ugyanakkor takaritani
+[0:40:21] HotPantsHP: Nem stimmel ez a sok por a padlón KEKW
+[0:40:23] bonagrin: ez egy zekzhirdetés?
+[0:40:27] crunchypants_: valaki betudná mixelni a porszívó hangot és ádámot ?
+[0:40:30] LadaLCS: Bloodsong kell
+[0:40:31] LadaLCS: ÁKÁ
+[0:40:41] KopaszBariis: @HUNgoku Nálatok nem szoktak porszívózni ?
+[0:40:41] PsychoDucky: Adj ki 3 porszívóhangot ha bezárva tart az asszony LUL Kappa
+[0:40:41] tbandee: VACUUM  󠀀
+[0:40:44] nitr0coach: SOLTICE SLEIGHT
+[0:40:48] DRKG599: ADAMLOLZ itt vagy bro?
+[0:40:50] RandomLurkerCreep: Chat, ha egy champ-et örökre kivehetnétek  a játékból, melyik lenne az?
+[0:41:04] Apu_Tej: @RandomLurkerCreep Fizz
+[0:41:04] crunchypants_: MELLPÓZ
+[0:41:08] tbandee: @RandomLurkerCreep Katarina. Ez a válasz 0.001 másodpercet vett igénybe.
+[0:41:17] nitr0coach: @RandomLurkerCreep egyet nem lehet mondani
+[0:41:17] Moobot: Iratkozz fel a csatornámra évi 2 videóért: https://www.youtube.com/user/FormalAdamKiss
+[0:41:24] kodzu1337: @RandomLurkerCreep Attól függ milyen célokra shurko1
+[0:41:31] xPROTOTYGERx: Szép
+[0:41:34] crunchypants_: Kácson vagytok?
+[0:41:48] RandomLurkerCreep: @kodzu1337 FOR FREE?
+[0:41:49] realbeke1_: Twisted futu legjobb midlaner rn
+[0:41:59] cpt_needa: Ez most valami easy mode?
+[0:42:03] kodzu1337: @RandomLurkerCreep shurkoFOR shurkoFREE
+[0:42:15] crunchypants_: Amúgy tényleg mizu Mellpózzal ?
+[0:42:23] RandomLurkerCreep: @kodzu1337 ShurkoGiga
+[0:42:23] KopaszBariis: @cpt_needa igen az
+[0:42:38] KopaszBariis: Terkikenéni hogy van ?
+[0:42:38] Moobot: Iratkozz fel a csatornámra évi 2 videóért: https://www.youtube.com/user/FormalAdamKiss
+[0:42:40] bonagrin: ÁKÁ a takarító nőt lehet bérelni?
+[0:43:27] kodzu1337: @RandomLurkerCreep shurkoGiga
+[0:43:28] x_Whitey_x: milyen rigó? ja Sari go, i see now
+[0:43:42] KopaszBariis: Kellene egy olyan kamera ahol látjuk mit csinálsz a kezeddel ! szerintetek is ?
+[0:43:45] KopaszBariis: Gomboook
+[0:43:58] Apu_Tej: nem kell
+[0:44:02] crunchypants_: Buttons
+[0:44:15] KopaszBariis: @Apu_Tej Miért ?
+[0:44:17] kodzu1337: Tul sok infot takarna ki a kepernyorol meg 1 kamera ngl
+[0:44:22] NorbeeGeller4: @KopaszBariis perverz allat
+[0:44:22] Moobot: Iratkozz fel a csatornámra évi 2 videóért: https://www.youtube.com/user/FormalAdamKiss
+[0:44:35] KopaszBariis: @NorbeeGeller4 nyomod
+[0:44:39] RandomLurkerCreep: @NorbeeGeller4 + 1
+[0:44:40] Moobot: ÚJ, DURVÁBB TOKEN !!!! HA VALAMI EZ MINDIG MEGÉRI -> 2 x 1500 FT, IGEN JÓL LÁTOD, 3000 HUF-AL OLCSÓBB KAJA, 1: TÖLTSD LE TELEFONRA A WOLT APPOT. 2:REGISZTRALJ A WOLTON A KODOMMAL, VAGY RENDELÉSNÉL IRD BE-> ADAMKISS
+[0:44:49] HotPantsHP: Szerintem lábcam kéne monkaHmm
+[0:44:51] KopaszBariis: @kodzu1337 De lehetne ballra neki  nem takar ki semmit sem
+[0:45:01] KopaszBariis: icipicike lenne
+[0:45:03] x_Whitey_x: a málna camot kéne vissza hozni.
+[0:45:03] miki9634: nekem uygan ez van
+[0:45:05] crunchypants_: Kéne egy olyan kamera ahol a másik oldalról is felveszi az arcod. De lehet ott háromszög látható. Kappa Kappa
+[0:45:05] XxLubo56xX: Nekem 600 van meccs elején aztán a végén 200
+[0:45:19] Apu_Tej: @x_Whitey_x annak több értelme lenne igen
+[0:45:21] KopaszBariis: @x_Whitey_x ahh kajak amúgy
+[0:45:30] nitr0coach: ha lejjebb vennéd a grafikát?
+[0:45:30] Moobot: Iratkozz fel a csatornámra évi 2 videóért: https://www.youtube.com/user/FormalAdamKiss
+[0:45:56] RandomLurkerCreep: Málna cam túl OP lenne
+[0:46:02] KopaszBariis: @crunchypants_ TwitchConHYPE
+[0:46:04] xPROTOTYGERx: Supp Carry szag a levegoben ... Ez a bard most nagyot megy nálad
+[0:46:05] crunchypants_: @n1troog Milyen gépe van ÁDÓ-nak ?
+[0:46:13] KopaszBariis: De booost ad málnika
+[0:46:17] RandomLurkerCreep: !pc
+[0:46:17] StreamElements: i9 9900k, RTX 3080, G.Skill 32GB
+[0:46:21] KopaszBariis: @crunchypants_ 1 gen i 3
+[0:46:41] KopaszBariis: @StreamElements ez nem jó kombü
+[0:47:05] KopaszBariis: @StreamElements Bottleneck van !
+[0:47:17] RandomLurkerCreep: @KopaszBariis Nem jó japán hínár? Kappa
+[0:48:08] RandomLurkerCreep: A bárdmester
+[0:48:08] Moobot: Iratkozz fel a csatornámra évi 2 videóért: https://www.youtube.com/user/FormalAdamKiss
+[0:48:11] PsychoDucky: Obsben töröld ki a nem használt régebbi dolgokat az szokott ilyet csinálni
+[0:48:46] Gazille28: Halihó! adamkissH
+[0:48:57] x_Whitey_x: :*
+[0:49:00] barney_stinsonn: @gazille28 csacsiHey
+[0:49:00] RandomLurkerCreep: VoHiYo
+[0:51:27] csirkemellgirl: @x_whitey_x SZIA ratirlFlower csirkemellLuv
+[0:51:28] Moobot: https://www.facebook.com/AdamKissAK/
+[0:52:01] x_Whitey_x: @csirkemellgirl lisCry  lisLove
+[0:52:28] barney_stinsonn: !links
+[0:52:28] Moobot: @barney_stinsonn Minden szükséges link vagy social: https://taplink.cc/adamkissak
+[0:52:46] Gi0z0: !Iinks
+[0:52:53] x_Whitey_x: !rechts
+[0:52:59] Gi0z0: hmm
+[0:52:59] Moobot: Iratkozz fel a csatornámra évi 2 videóért: https://www.youtube.com/user/FormalAdamKiss
+[0:53:00] Hulluska: hello all...
+[0:53:05] Gi0z0: !Iinks
+[0:53:16] barney_stinsonn: @hulluska csacsiHey
+[0:53:40] x_Whitey_x: @Hulluska figyelj már, nekem mindegy, de meddig játszod a sértôdöttet?
+[0:54:10] ryuk_the_god_of_death: !g
+[0:54:11] StreamElements: g
+[0:54:11] websitecookie: te jo eg mi ez a meccs
+[0:54:19] barney_stinsonn: nb3GG
+[0:54:23] hopkaplay: végére csak 100 fps lett
+[0:54:25] szabyvagyok_: kobbyyGg kobbyyGg
+[0:54:45] RandomLurkerCreep: dzsí tú dö dzsí
+[0:54:52] barney_stinsonn: Let's go Unibet csacsiWut
+[0:54:52] Moobot: Iratkozz fel a csatornámra évi 2 videóért: https://www.youtube.com/user/FormalAdamKiss
+[0:54:58] dlevi_: A support nagyot mehet fun gamplay
+[0:55:09] Gi0z0: predit MOD kiosztja? :)
+[0:55:18] RandomLurkerCreep: predi?
+[0:55:29] RandomLurkerCreep: BIG
+[0:55:31] Gi0z0: köszi :)
+[0:55:34] semmisenki: parsz csodálatos hangját had halljuk
+[0:55:34] x_Whitey_x: <3
+[0:55:36] hopkaplay: 500-ról 100-ra 400fps-et változott
